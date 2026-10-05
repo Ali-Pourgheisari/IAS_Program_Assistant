@@ -20,7 +20,7 @@ def create_shop_policy_tool(data_dir: Path = DATA_DIR) -> QueryEngineTool:
         description="A query engine for retrieving information about the company's policies.",
     )
 
-def create_order_lookup_tool(order_id: str, data_dir: Path = DATA_DIR) -> FunctionTool:
+def create_order_lookup_tool(data_dir: Path = DATA_DIR) -> FunctionTool:
     def lookup_order(order_id: str) -> dict:
         """Look up a shop order by its exact order ID."""
         with (DATA_DIR / "orders.json").open(encoding="utf-8") as file:
@@ -36,6 +36,6 @@ def create_order_lookup_tool(order_id: str, data_dir: Path = DATA_DIR) -> Functi
 
 if __name__ == "__main__":
     shop_policy_tool = create_shop_policy_tool()
-    order_lookup_tool = create_order_lookup_tool(order_id="12345")
+    order_lookup_tool = create_order_lookup_tool()
     print(shop_policy_tool.call("What is the return window?"))
     print(order_lookup_tool.call(order_id="A101"))
