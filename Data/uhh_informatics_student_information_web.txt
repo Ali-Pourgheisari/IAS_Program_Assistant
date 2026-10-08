@@ -1,539 +1,556 @@
+# Information for Students
+
 Source: https://www.inf.uni-hamburg.de/studies/orga/stud-infos.html
-
 Institution: University of Hamburg
-
 Source type: official webpage snapshot
-
 Retrieved: 2026-10-08
-
+Original language: German
+Translation note: Unofficial English translation generated for retrieval. Consult the linked official German source for authoritative wording.
 Freshness note: Webpage content can change; verify the source URL for current deadlines and procedures.
 
+On these pages, you will find a collection of questions and answers regarding studies in the Department of Computer Science. If you cannot find an answer to your question here, please contact the Student Office: studienbuero.inf"AT"uni-hamburg.de
 
+## Final Thesis / Degree and Certificate
 
-# Hinweise für Studierende
+### General Information
 
-Auf diesen Seiten finden Sie eine Zusammenstellung von Fragen und Antworten rund um das Studium am Fachbereich Informatik. Sollten Sie für Ihre Frage hier keine Antwort finden, wenden Sie sich bitte das Studienbüro: studienbuero.inf"AT"uni-hamburg.de
+Bachelor and Master Theses
 
-## Abschlussarbeit / Abschluss und Zeugnis
-
-### Allgemeine Infos
-
-Bachelor- und Masterarbeiten
-
-Die Abschlussarbeit vollendet ein Studium und wird im 6. Fachsemester des Bachelorstudiums bzw. im 4. Fachsemester des Masterstudiums erstellt. Um jedoch eine Abschlussarbeit in einem bestimmten Gebiet der Informatik erstellen zu können, ist es empfehlenswert, dass Sie bestimmte Einführungs- sowie sich daran anschließende Vertiefungsmodule aus dem Gebiet erfolgreich abgeschlossen haben. Daher ist es wichtig, dass Sie sich schon frühzeitig damit auseinandersetzen, in welchem Gebiet Sie Ihre Arbeit schreiben wollen und Ihre Module im Pflichtbereich (v.a. Seminar, Projekt) sowie – sofern möglich – im Wahlpflicht und freien Wahlbereich entsprechend auswählen. Am Fachbereich Informatik gibt es mehr als 20 verschiedene Arbeitsbereiche. Jeder dieser Arbeitsbereiche widmet sich in der Forschung und Lehre einem bestimmten Fachgebiet der Informatik und unterhält dazu zahlreiche Forschungsprojekte. Schauen Sie sich frühzeitig die verschiedenen Modulangebote genauer an und besuchen Sie eine Sprechstunde der Lehrenden, wenn Sie Fragen haben oder sich weiter informieren möchten: Arbeitsbereiche und Forschungsgruppen.
+The final thesis completes a course of study and is undertaken in the 6th semester of the Bachelor's program or the 4th semester of the Master's program. However, to write a thesis in a specific area of computer science, it is advisable that you have successfully completed certain introductory as well as subsequent advanced modules in the field. Therefore, it is important to consider early on which area you want to write your thesis in and to select your compulsory modules (especially seminars, projects) as well as, if possible, electives and free electives accordingly. The Department of Computer Science has more than 20 different research areas. Each of these research areas focuses on a specific field of computer science in both research and teaching, and maintains numerous research projects. Look closely at the different module offerings early on and attend an office hour of the faculty if you have questions or would like further information: Research Areas and Research Groups.
 Links: https://www.inf.uni-hamburg.de/inst/groups.html
 
-Die lokale Ethikkommission des Fachbereichs Informatik der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg nimmt auf Ihren Antrag Stellung zur ethischen Vertretbarkeit von Forschungsvorhaben unter Einbezug von Menschen sowie Forschungsvorhaben mit personenbezogenen Daten. Für die Beantwortung der Frage, ob ein Antrag notwendig oder sinnvoll ist, nutzen Sie den Basisfragebogen, den Sie auf der Website der Ethikkommission finden.
+The local Ethics Committee of the Department of Computer Science at the Faculty of Mathematics, Computer Science, and Natural Sciences at the University of Hamburg issues opinions on the ethical acceptability of research projects involving human subjects as well as research projects with personal data. To determine whether an application is necessary or advisable, please use the basic questionnaire available on the Ethics Committee's website.
 Links: https://www.inf.uni-hamburg.de/home/ethics.html
 
-Für eine Abschlussarbeit benötigen Sie ein Thema bzw. eine Aufgabenstellung, jeweils eine oder einen Erst- und Zweitgutachter/in, die die fertige Arbeit später begutachten und benoten sowie ggf. eine oder einen Betreuer/in, die oder der Sie beim Erstellen der Arbeit betreut und unterstützt. Konkrete Durchführung und Beurteilungskriterien für Abschlussarbeiten sind in der jeweiligen Studien- und Prüfungsordnung Ihres Studiengangs verbindlich festgelegt, zu finden unter den Bachelorstudiengängen und Masterstudiengängen. Bei Fragen wenden Sie sich bitte an das Studienbüro.
+For a final thesis, you need a topic or assignment, a primary and a secondary examiner, who will evaluate and grade the completed thesis, and if applicable, a supervisor who will guide and assist you while writing the thesis. The specific implementation and assessment criteria for final theses are bindingly defined in the respective study and examination regulations of your program, available under Bachelor Programs and Master Programs. For any questions, please contact the Student Office.
 Links: https://www.inf.uni-hamburg.de/studies/bachelor.html | https://www.inf.uni-hamburg.de/studies/master.html | https://www.inf.uni-hamburg.de/studies/orga/stb.html
 
-### Wie finde ich ein Thema? Wie finde ich Gutacherinnen bzw. Gutachter?
+### How do I find a topic? How do I find examiners?
 
-Jeder Arbeitsbereich besteht aus einer wissenschaftliche Arbeitsgruppe am Fachbereich, die sich je nach Umfang aus mindestens einem/einer Hochschullehrer/in, üblicherweise mehreren wissenschaftlichen Mitarbeitern/innen, promovierten Wissenschaftlern/innen (sog. PostDocs) sowie weiterem Personal zusammensetzt. Die Betreuung einer Abschlussarbeit wird von einem/einer Hochschullehrer/in einer Arbeitsgruppe verantwortet und üblicherweise von einem der wissenschaftlichen Mitarbeiter/innen durchgeführt. Der/die verantwortliche Hochschullehrer/in erstellt üblicherweise später auch das Erstgutachten. Der/die Zweitgutachter/in kann, muss aber nicht, Teil der gleichen Arbeitsgruppe sein. Wer für Ihre Arbeit als Gutachter in Frage kommt, finden Sie auf der Website zu Gutachtenden.
+Each research area consists of a scientific working group in the department, which typically includes at least one professor, usually several scientific staff, doctoral researchers (so-called PostDocs), and other personnel. The supervision of a final thesis is typically the responsibility of a professor from the working group, usually executed by one of the scientific staff members. The responsible professor usually also prepares the primary evaluation. The secondary examiner may or may not be part of the same working group. You can find potential evaluators for your thesis on the evaluators' website.
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/abschlussarbeit_Zeugnis/begutachtung.html
 
-Im Fall einer sogenannten externen Abschlussarbeit in einer Firma oder einer anderen wissenschaftlichen Einrichtung kann die Arbeit zusätzlich von einem Mitglied dieser Institution betreut werden. Bitte informieren Sie sich über das konkrete Vorgehen beim Studienbüro.
+In the case of an external thesis at a company or another scientific institution, the work may also be supervised by a member of that institution. Please inquire about the specific procedures at the Student Office.
 
-Die Themenfindung und Betreuung handhabt jede Arbeitsgruppe ein wenig anders. Manche Arbeitsgruppen schreiben Themen auf ihrer Homepage aus und geben eine genaue Anleitung, wen Sie für die Betreuung kontaktieren sollten. Andere setzen sich mit dem Studierenden zusammen und finden gemeinsam ein Thema oder schlagen verschiedene Themenrichtungen vor. Manche Hochschullehrer/innen erwarten, dass die Studierenden ein kurzes Exposé zum Thema verfassen oder ein kurzes Quiz aus dem Arbeitsgebiet lösen. Auch der Besuch des Oberseminars, das im Regelfall als Plattform für die Kolloquiumsvorträge aktuell durchgeführter Abschlussarbeiten dient, kann Ideen für Themen ergeben und Sie ins Gespräch mit Ihren künftigen Gutachtern bringen.
+The topic selection and supervision are handled differently by each working group. Some working groups publish topics on their homepage and provide specific guidance on who to contact for supervision. Others sit down with the student to collaboratively find a topic or suggest various thematic directions. Some professors expect students to write a short exposé on the topic or solve a brief quiz from the research area. Attending the colloquium, which regularly serves as a platform for presentations of currently conducted final theses, can also generate topic ideas and introduce you to your future examiners.
 
-So unterschiedlich die Vorgaben und Erwartungen im Detail auch sind, generell wird von Ihnen erwartet, dass Sie aktiv werden, sich informieren und den Kontakt zur Arbeitsgruppe herstellen. Schauen Sie sich also genau die Webseiten von den Arbeitsbereichen an. Wenn Sie Interesse an einer konkreten Themenstellung haben oder generell in dem Arbeitsgebiet ihre Arbeit erstellen wollen, dann kontaktieren Sie einen der Mitarbeiter/innen der Arbeitsgruppe oder gehen in die entsprechende Sprechstunde und besprechen dort dann alles Weitere. Eventuell werden Sie mehrere Kontaktgespräche mit verschiedenen Arbeitsgruppen führen, bis Sie Ihr Thema und Betreuer gefunden haben. Wenn eine Arbeit ausgeschrieben ist und das Thema auf Anhieb perfekt passt, dann kann dieser Findungsprozess sehr schnell ablaufen. Es ist jedoch nicht ungewöhnlich, dass es länger dauert und Sie mit verschiedenen Betreuern über verschiedene mögliche Themen sprechen. Für die Beantwortung der Frage, ob ein Antrag an die Ethikkommission des Fachbereichs Informatik notwendig oder sinnvoll ist, nutzen Sie bitte den Basisfragebogen, den Sie auf der Website der Ethikkommission finden.Planen Sie daher genügend Zeit für die Vorbereitung Ihrer Abschlussarbeit ein. Wir empfehlen, dass Sie mit der Suche mindestens drei Monate vor dem geplanten Start der Arbeit beginnen.
+While the requirements and expectations may vary in detail, you are generally expected to take initiative, inform yourself, and establish contact with the working group. Therefore, closely review the websites of the research areas. If you are interested in a specific topic or wish to write your thesis in that area, contact a staff member from the working group or attend the relevant office hour to discuss further details. You may have several contact discussions with different working groups until you find your topic and supervisor. If a thesis is advertised and the topic fits perfectly immediately, this finding process can be very quick. However, it is not unusual for it to take longer and for you to discuss various possible topics with different supervisors. To determine whether an application to the Ethics Committee of the Department of Computer Science is necessary or advisable, please use the basic questionnaire available on the Ethics Committee’s website. Plan accordingly and allow sufficient time for the preparation of your final thesis. We recommend starting your search at least three months before the planned start of the work.
 Links: https://www.inf.uni-hamburg.de/home/ethics.html
 
-Informationen der Arbeitsbereiche:
+Information from Research Areas:
 
-- HCI - Human-Computer-Interaction
+- HCI - Human-Computer Interaction
 Links: https://www.inf.uni-hamburg.de/en/inst/ab/hci/teaching/thesis.html
 
-- SVS - Sicherheit in verteilten Systemen
+- SVS - Security in Distributed Systems
 Links: https://www.inf.uni-hamburg.de/inst/ab/svs/theses/guidelines.html
 
-- SWK - Softwareentwicklungs- und konstruktionsmethoden
+- SWK - Software Development and Construction Methods
 Links: https://www.inf.uni-hamburg.de/inst/ab/swk/theses.html
 
-- VSIS - Verteilte Systeme /Datenbanken und Informationssysteme
+- VSIS - Distributed Systems / Databases and Information Systems
 Links: https://vsis-www.informatik.uni-hamburg.de/vsis/teaching/theses
 
-- WISTS - Wirtschaftsinformatik, Sozio-Technische Systemgestaltung
+- WISTS - Business Information Systems, Socio-Technical Systems Design
 Links: https://www.inf.uni-hamburg.de/inst/ab/wists/teaching/theses.html
 
 - WTM - Knowledge Technology
 Links: https://www2.informatik.uni-hamburg.de/wtm/teaching/universitaet/suggested_topics_titles.shtml
 
-- ZBH - Zentrum für Bioinformatik
+- ZBH - Center for Bioinformatics
 Links: https://www.zbh.uni-hamburg.de/
 
-- IWI - Institut für Wirtschaftsinformatik
+- IWI - Institute for Business Information Systems
 Links: https://www.bwl.uni-hamburg.de/iwi/studium/abschlussarbeiten.html
 
-### Begutachtung von Abschlussarbeiten
+### Evaluation of Final Theses
 
-Stand: 20.03.2013 - aktualisiert 05.08.2021
+Status: 20.03.2013 - updated 05.08.2021
 
-### Allgemeines
+### General
 
-Mit der Reform der Prüfungsordnungen für die Bachelor- und Masterstudiengänge wurde auch die Möglichkeit geschaffen, den Kreis der möglichen Gutachterinnen und Gutachter für die Bachelor- und Masterarbeiten auszuweiten. Um für die Studierenden und potenziellen Gutachterinnen und Gutachter mehr Klarheit in das Verfahren zu bringen, haben sich die Vorsitzenden der Prüfungsausschüsse auf die im Folgenden dargestellten Abläufe und möglichen GutachterInnen geeinigt.
+With the reform of the examination regulations for Bachelor’s and Master’s programs, the possibility has also been created to expand the pool of potential reviewers for Bachelor’s and Master’s theses. To bring more clarity to the process for students and potential reviewers, the chairs of the examination committees have agreed on the following procedures and possible reviewers.
 
-In den Bachelor- und Masterstudiengängen des Fachbereichs Informatik können die folgenden Beschäftigten des Fachbereichs Informatik die Begutachtung von Abschlussarbeiten übernehmen:
+In the Bachelor's and Master's programs of the Department of Computer Science, the following staff members can take on the review of theses:
 
-a. ProfessorInnen (einschl. VertretungsprofessorInnen und JuniorprofessorInnen)b. PrivatdozentInnenc. Promovierte MitarbeiterInnen
+a. Professors (including substitute professors and junior professors)
+b. Privatdozenten
+c. Doctoral staff
 
-Eine Liste der MitarbeiterInnen des Fachbereichs Informatik finden hier.
+A list of the staff of the Department of Computer Science can be found here.
 Links: https://www.inf.uni-hamburg.de/pers.html
 
-MitarbeiterInnen des Fachbereichs Informatik, die sich im Promotionsverfahren befinden, die Promotion aber noch nicht abgeschlossen haben, können im Einzelfall eine Begutachtung übernehmen, wenn die entsprechende Arbeitsbereichsleitung dieses schriftlich befürwortet und im Einzelfall bestätigt, dass „sich das Thema der Bachelor- bzw. Masterarbeit nur auf den Prüfungsstoff der Lehrveranstaltungen der Prüferinnen und Prüfer bzw. der dazu gehörenden Module erstreckt“ (§ 14 (7) S. 2 PO). In diesen Fällen trifft die abschließende Entscheidung im Einzelfall der Prüfungsausschuss.
+Staff members of the Department of Computer Science who are in the doctoral process but have not yet completed their doctorate may take on a review in individual cases if the corresponding head of the work area endorses this in writing and confirms that "the topic of the Bachelor’s or Master’s thesis only relates to the examination material of the courses taught by the reviewers or the corresponding modules" (§ 14 (7) S. 2 PO). In these cases, the final decision is made by the examination committee.
 
-Sollen Personen die Begutachtung von Bachelor- oder Masterarbeiten übernehmen, die nicht zu den o.g. Personengruppen gehören, so ist dem Antrag zur Abschlussarbeit eine kurze Erläuterung der Qualifikation des externen Gutachters bzw. der externen Gutachterin beizufügen. Auch die Betreuung durch ehemalige Beschäftigte des Fachbereichs Informatik ist beim Prüfungsausschuss zu beantragen. GutachterInnen, die nicht Mitglieder der Universität Hamburg sind, sollen promoviert sein. Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+If individuals who do not belong to the above-mentioned groups are to take on the review of Bachelor’s or Master’s theses, a brief explanation of the qualifications of the external reviewer must be included with the thesis application. Supervision by former employees of the Department of Computer Science must also be requested from the examination committee. Reviewers who are not members of the University of Hamburg should have a doctorate. The examination committee makes decisions on justified exceptions.
 
-### Begutachtung der Abschlussmodule in den Bachelorstudiengängen
+### Review of the Final Modules in the Bachelor's Programs
 
-Die Begutachtung von Abschlussarbeiten in den Studiengängen B.Sc. Informatik, Software-System-Entwicklung, Mensch-Computer-Interaktion, Computing in Science und Wirtschaftsinformatik können die in Nr. a.)–c.) genannten Personen übernehmen. Zumindest eine/r der GutachterInnen muss promoviert sein.
+The review of final theses in the programs B.Sc. Computer Science, Software Systems Development, Human-Computer Interaction, Computing in Science, and Business Informatics can be performed by the individuals mentioned in No. a.)–c.). At least one of the reviewers must have a doctorate.
 
-Zu möglichen Gutachterinnen und Gutachtern aus der Betriebswirtschaft (B.Sc. Wirtschaftsinformatik) sowie Chemie, Physik, Biologie und Mathematik (B.Sc. Computing in Science) siehe unten.
+For possible reviewers from business administration (B.Sc. Business Informatics) as well as chemistry, physics, biology, and mathematics (B.Sc. Computing in Science), see below.
 
-Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+The examination committee makes decisions on justified exceptions.
 
-### Begutachtung der Abschlussmodule in den Masterstudiengängen
+### Review of the Final Modules in the Master's Programs
 
-Für die Erstbegutachtung von Masterarbeiten in den Studiengängen M.Sc. Informatik, Wirtschaftsinformatik, Intelligent Adaptive Systems und IT-Management und Consulting und Bioinformatik wird eine Qualifikation nach Nr. a.)–b.), für die Zweitbegutachtung zumindest eine Promotion vorausgesetzt.
+For the initial review of Master’s theses in the programs M.Sc. Computer Science, Business Informatics, Intelligent Adaptive Systems, IT Management and Consulting, and Bioinformatics, a qualification as per No. a.)–b.) is required; for the second review, at least a doctorate is necessary.
 
-Zu möglichen Gutachterinnen und Gutachtern aus den Betriebswirtschaft (M.Sc. Wirtschaftsinformatik) siehe unten.
+For possible reviewers from business administration (M.Sc. Business Informatics), see below.
 
-Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+The examination committee makes decisions on justified exceptions.
 
-Für den Masterstudiengang Wirtschaftsinformatik werden diese Regelungen nach Beschluss des Prüfungsausschusses vom 29.11.2012 mit der Einschränkung übernommen, dass promovierte MitarbeiterInnen des Fachbereichs Informatik nur Masterarbeiten im M.Sc. Wirtschaftsinformatik begutachten dürfen, deren Thema einen Bezug zu den Lehrveranstaltungen der MitarbeiterInnen besitzt.
+For the Master's program in Business Informatics, these regulations were adopted by the examination committee on November 29, 2012, with the restriction that doctoral staff of the Department of Computer Science may only review Master’s theses in M.Sc. Business Informatics whose topic relates to the courses taught by the staff.
 
-### Antragsverfahren
+### Application Procedure
 
-Bitte lesen Sie vor der Beantragung die entsprechenden Regelungen in der Prüfungsordnung (§ 14) und in den Fachspezifischen Bestimmungen.
+Please read the corresponding regulations in the examination regulations (§ 14) and in the subject-specific provisions before applying.
 
-- Bitte lesen Sie vor der Beantragung die entsprechenden Regelungen in der Prüfungsordnung (§ 14) und in den Fachspezifischen Bestimmungen.
+- Please read the corresponding regulations in the examination regulations (§ 14) and in the subject-specific provisions before applying.
 
-- Für die Beantragung der Abschlussarbeiten stehen auf den Studiengangs-Websites die jeweiligen Antragsformulare zum Ausfüllen und Download bereit.
+- The respective application forms for the final theses are available for filling out and downloading on the program websites.
 
-- Das Antragsformular ist u.a. vom Erst- und Zweitgutachter zu unterschreiben.
+- The application form must be signed by the first and second reviewers, among others.
 
-- Bitte fügen Sie ggf. die Bestätigung des Arbeitsbereichsleiters (für den Fall, dass einer der Gutachter noch nicht promoviert ist) oder die Erläuterung der Qualifikation (bei einem externen Gutachter) bei.
+- Please attach, if applicable, the confirmation from the head of the work area (in case one of the reviewers is not yet a doctor) or an explanation of the qualifications (for an external reviewer).
 
-- Der im Studienbüro Informatik eingereichte Antrag wird dem Prüfungsausschuss zur Entscheidung vorgelegt
+- The application submitted in the Study Office of Computer Science will be presented to the examination committee for a decision.
 
-### Mögliche Gutachterinnen und Gutachter für Bachelor- und Masterarbeiten am Fachbereich Wirtschaftswissenschaften
+### Possible Reviewers for Bachelor’s and Master’s Theses in the Department of Business Administration
 
-Der Prüfungsausschuss des B.Sc. Wirtschaftsinformatik hat am 29.11.2012 beschlossen:
+The examination committee of the B.Sc. Business Informatics decided on November 29, 2012:
 
-- Die ProfessorInnen, PrivatdozentInnen, VertretungsprofessorInnen und JuniorprofessorInnen des Fachbereichs BWL (heute: Fakultät BWL) dürfen Bachelorarbeiten begutachten.
+- Professors, privatdozenten, substitute professors, and junior professors of the Department of Business Administration (now: Faculty of Business Administration) may review Bachelor’s theses.
 
-- Promovierte MitarbeiterInnen des Fachbereichs BWL (heute: Fakultät BWL), die Lehrveranstaltungen im Bachelorstudiengang Wirtschaftsinformatik durchführen, dürfen Bachelorarbeiten begutachten.
+- Doctoral staff of the Department of Business Administration (now: Faculty of Business Administration) who conduct courses in the Bachelor’s program in Business Informatics may review Bachelor’s theses.
 
-- Für MitarbeiterInnen des Fachbereichs BWL (heute: Fakultät BWL), die sich im Promotionsverfahren befinden, die Promotion aber noch nicht abgeschlossen haben, wird die Regelung b) aus dem Fachbereich Informatik (s.o.) analog angewendet.
+- For staff members of the Department of Business Administration (now: Faculty of Business Administration) who are in the doctoral process but have not yet completed their doctorate, regulation b) from the Department of Computer Science (above) applies analogously.
 
-Der Prüfungsausschuss des M.Sc. Wirtschaftsinformatik hat am 29.11.2012 beschlossen:
+The examination committee of the M.Sc. Business Informatics decided on November 29, 2012:
 
-- ProfessorInnen, PrivatdozentInnen, VertretungsprofessorInnen und JuniorprofessorInnen des Fachbereichs BWL (heute: Fakultät BWL) dürfen Masterarbeiten begutachten.
+- Professors, privatdozenten, substitute professors, and junior professors of the Department of Business Administration (now: Faculty of Business Administration) may review Master’s theses.
 
-- Die Erstellung von Zweitgutachten dürfen darüber hinaus auch promovierte MitarbeiterInnen des Fachbereichs BWL (heute: Fakultät BWL) durchführen, wenn sie Lehrveranstaltungen im Masterstudiengang Wirtschaftsinformatik durchführen und das Thema der Masterarbeit einen Bezug zu diesen Lehrveranstaltungen besitzt.
+- The preparation of second assessments may also be carried out by doctoral staff of the Department of Business Administration (now: Faculty of Business Administration) if they conduct courses in the Master’s program in Business Informatics and the topic of the Master’s thesis relates to these courses.
 
-### Mögliche Gutachterinnen und Gutachter für Bachelorarbeiten aus den Fachbereichen Chemie, Physik, Biologie und Mathematik
+### Possible Reviewers for Bachelor’s Theses from the Departments of Chemistry, Physics, Biology, and Mathematics
 
-Der Prüfungsausschuss des B.Sc. Computing in Science hat am 21.01.2013 beschlossen, dass die o.g. Regelungen für die Begutachtung von Bachelorarbeiten im Studiengang Computing in Science auch für Beschäftigte der am Studiengang beteiligten weiteren Fachbereiche Anwendung finden sollen. In diesem Fall ist dem Antrag zur Abschlussarbeit eine kurze Erläuterung der Qualifikation des Gutachters beizufügen. Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+The examination committee of the B.Sc. Computing in Science decided on January 21, 2013, that the above-mentioned regulations for the review of Bachelor’s theses in the program Computing in Science should also apply to staff from the other departments involved in the program. In this case, a brief explanation of the qualifications of the reviewer must be included with the thesis application. The examination committee makes decisions on justified exceptions.
 
-### Wie und wo melde ich die Abschlussarbeit an?
+### How and Where Do I Register the Thesis?
 
-Sobald Sie mit den Erst- und Zweitgutachtern/innen sowie eventuellen weiteren Betreuern/innen die Themenfindung abgeschlossen haben, müssen Sie die Arbeit schriftlich im Studienbüro anmelden. Dafür gibt es ein Formular, das Sie und jeweils der/die Erst- sowie Zweitgutachter/in unterschreiben müssen.Bitte beachten Sie auch die Hinweise auf dem Merkblatt zur Abschlussarbeit! (Siehe unten oder im Formular-Center)
+As soon as you have finalized the topics with the first and second reviewers and any additional supervisors, you need to register the thesis in writing at the Study Office. There is a form that you and each of the first and second reviewers must sign. Please also pay attention to the information in the guideline for the thesis! (See below or in the form center)
 
-Nach der Anmeldung haben Sie insgesamt fünf Monate (bei Bachelorarbeiten) bzw. sechs Monate (bei Master- und Diplomarbeiten) Zeit, die Arbeit zu erstellen. Jede Arbeitsgruppe handhabt diesen Prozess ein wenig anders und hat auch unterschiedliche Vorgaben an das fertige Produkt (Gliederung, Literaturangaben, Formatierung, Umfang, Sprache, etc.). Von Ihrem Betreuer/Ihrer Betreuerin erfahren Sie alle relevanten Details.
+After registration, you have five months (for Bachelor’s theses) or six months (for Master’s and Diploma theses) to complete the thesis. Each working group handles this process somewhat differently and has different requirements for the final product (structure, references, formatting, length, language, etc.). You will learn all relevant details from your supervisor.
 
-## Formulare für Bachelor-Studiengänge / Forms for Bachelorʼs Degree Programs
+## Forms for Bachelor’s Degree Programs
 
-BSc CIS | BSC Inf. | BSc MCI | BSc SSE | BSc WiInf
+BSc CIS | BSc Inf. | BSc MCI | BSc SSE | BSc WiInf
 
-Merkblatt | Merkblatt | Merkblatt | Merkblatt | Merkblatt
+Guideline | Guideline | Guideline | Guideline | Guideline
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-cis-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-inf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-mci-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-sse-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-wiinf-abschl-merkblatt.pdf
 
-Anmeldeformular Deckblattvorlagen (nur UHH-Netz bzw. via VPN)
+# Application Form Cover Page Templates (only UHH network or via VPN)
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/anmeldeformular-bachelorarbeit-final.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
 
-## Formulare für Masterstudiengänge / Forms for Masterʼs Degree Programs
+## Forms for Master’s Degree Programs
 
 MSc BioInf | MSc Inf. | MSc WiInf | MSc ITMC | MSc IAS
 
-Merkblatt | Merkblatt | Merkblatt | Merkblatt | Information Leaflet and registration Form Master's ThesisTemplates for Cover Page(from UHH network or VPN)
+Information Leaflet | Information Leaflet | Information Leaflet | Information Leaflet | Information Leaflet and Registration Form Master's Thesis Templates for Cover Page (from UHH network or VPN)
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/msc-bioinf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-inf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-wiinf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-itmc-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-ias-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
 
-Anmeldeformular Deckblattvorlagen (nur UHH-Netz bzw. via VPN)
+# Application Form Cover Page Templates (only UHH network or via VPN)
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/anmeldeformular-masterarbeit-final.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
 
-### Wie und wo gebe ich die Abschlussarbeit ab?
+### How and where do I submit my thesis?
 
-Bitte beachten Sie die ausführlicheren Hinweise auf dem Merkblatt zur Abschlussarbeit! Sie finden dieses hier sowie im Formular-Center.
+Please refer to the detailed information in the information leaflet about the thesis! You can find it here as well as in the form center.
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/abschlussarbeit_Zeugnis/anmeldung.html
 
-Ihre fertige Arbeit einschließlich eventueller Anhänge (z.B. Programmcode) muss digital per FBI-Cloud bis zum Abgabetermin im Studienbüro eingereicht werden. Für einen Link zur FBI-Cloud wenden Sie sich bitte an das Studienbüro (studienbuero.inf"AT"uni-hamburg.de).
+Your completed work, including any appendices (e.g., program code), must be submitted digitally via FBI-Cloud by the submission deadline to the examination office. For a link to the FBI-Cloud, please contact the examination office (studienbuero.inf"AT"uni-hamburg.de).
 
-Die Abgabe einer gedruckten Version der Abschlussarbeit ist nicht mehr erforderlich!
+The submission of a printed version of the thesis is no longer required!
 
-Zur Gestaltung des Deckblatts gibt es Vorlagen (nur UHH-Netz bzw. via VPN).
+For creating the cover page, templates are available (only UHH network or via VPN).
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
 
-Sie müssen in Ihrer Arbeit an Eides statt die Eigenständigkeit Ihrer Arbeit erklären. Die entsprechende Formulierung finden Sie in Ihrem Merkblatt. Für die eidestattliche Versicherung in der digitalen Abgabe reicht eine digitale Unterschrift (z.B. hineinkopierter Scan) aus.
+You must declare the originality of your work under oath in your thesis. You can find the corresponding wording in your information leaflet. For the sworn declaration in the digital submission, a digital signature (e.g., a scanned copy pasted in) is sufficient.
 
-Sie haben die freiwillige Möglichkeit, Ihre Arbeit über die Fachbereichs-Bibliothek zu veröffentlichen. Hierfür gibt es zwei Wege: Die Arbeit wird digital über den Publikationsserver des Fachbereichs (INFDoc) veröffentlicht und/oder sie wird als gedruckte Ausgabe in der Informatik Bibliothek eingestellt. Wenn Sie der Einstellung Ihrer Arbeit in die Fachbereichs-Bibliothek zustimmen, geben Sie auch hierfür bitte eine Erklärung ab. Genauere Details können Sie dem Merkblatt zur Anfertigung von Bachelor- und Masterarbeiten in unserem Formular-Center entnehmen.
+You have the optional opportunity to publish your work through the department library. There are two ways to do this: The work is published digitally through the department's publication server (INFDoc) and/or it is made available as a printed edition in the Computer Science library. If you agree to the inclusion of your work in the department library, please also provide a declaration for this. You can find more precise details in the information leaflet for writing Bachelor’s and Master’s theses in our form center.
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms.html
 
-Im Fall längerer Krankheit oder anderer schwerer zeitlicher Verhinderungen, die Sie nicht zu vertreten haben, kann ein Antrag auf Verlängerung gestellt werden.
+In the case of prolonged illness or other serious time constraints that are beyond your control, an application for an extension can be submitted.
 
-### Was bedeutet Kolloquiumsvortrag?
+### What does the colloquium presentation mean?
 
-Kolloquiumsvortrag zur Abschlussarbeit
+Colloquium presentation for the thesis
 
-In allen Bachelor- und Masterstudiengängen des Fachbereichs - außer B.Sc. Wirtschaftsinformatik - ist ein Kolloquiumsvortrag verpflichtender Bestandteil des Abschlussmoduls. In diesem Vortrag präsentieren Sie die Ergebnisse Ihrer Arbeit und beantworten Fragen der Gutachter/innen und eventueller Betreuer/innen. Meistens findet der Vortrag nach Abgabe der schriftlichen Arbeit statt. Hierbei ist es aber nicht notwendig, auf die Begutachtung der Arbeit zu warten. Es ist nach Absprache mit den Gutachtern auch möglich, den Vortrag bereits vor dem Abgabetermin der schriftlichen Arbeit zu halten. Die Terminvereinbarung findet zwischen Studierenden und Gutachter:innen statt.
+In all Bachelor’s and Master’s degree programs in the department—except for B.Sc. Business Informatics—a colloquium presentation is a mandatory part of the final module. In this presentation, you present the results of your work and answer questions from the reviewers and potential supervisors. The presentation usually takes place after the written work is submitted. However, it is not necessary to wait for the evaluation of the work. In agreement with the reviewers, it is also possible to hold the presentation before the submission deadline of the written work. The scheduling is arranged between students and reviewers.
 
-### Wie geht es nach der Abgabe weiter und wie erhalte ich mein Zeugnis?
+### What happens after submission and how do I receive my certificate?
 
-Das Studienbüro übermittelt die von Ihnen digital abgegebene Abschlussarbeit jeweils an den/die Erst- und Zweitgutachter/in zur Begutachtung. Nach Eingang der beiden Gutachten und des Protokolls über das Kolloquium (kein Kolloquium im B.Sc. Wirtschaftsinformatik) trägt das Studienbüro die Noten in Ihr STiNE-Leistungskonto ein. Wenn das Abschlussmodul die letzte zu erbringende Prüfungsleistung in Ihrem Studium war, erstellt das Studienbüro die Abschlussdokumente (Urkunde, Zeugnis, Transcript of Records und Diploma Supplement). Eine Beantragung der Abschlussdokumente ist nicht erforderlich.
+The examination office forwards your digitally submitted thesis to the first and second reviewers for evaluation. After receiving both evaluations and the protocol for the colloquium (no colloquium in B.Sc. Business Informatics), the examination office records the grades in your STiNE performance account. If the final module was the last exam requirement in your studies, the examination office produces the final documents (certificate, transcript, Transcript of Records, and Diploma Supplement). No application for the final documents is necessary.
 
-Bitte nehmen Sie aber Kontakt mit dem Studienbüro auf, wenn Ihr Leistungskonto noch "geordnet" werden muss, also Sie z.B. zu viele Leistungspunkte in einem oder mehreren Bereichen erbracht haben. In diesem Fall können Module oder Teile von Modulen ggf. in den Freien Wahlbereich, oder ansonsten in den Bereich "Zusätzliche Leistungen" verschoben werden. (Dieser erscheint nicht auf dem Zeugnis, aber auf dem Transcript of Records der Abschlussdokumente.) Teilen Sie uns bitte so bald wie möglich mit, was Sie wohin verschoben haben möchten!
+However, please contact the examination office if your performance account still needs to be "organized," meaning, for example, if you have earned too many credit points in one or more areas. In this case, modules or parts of modules can potentially be moved to the Free Electives area or otherwise to the "Additional Achievements" area. (This does not appear on the certificate but on the Transcript of Records of the final documents.) Please let us know as soon as possible where you would like things to be moved!
 
-Die Erstellung der Abschlussdokumente inklusive Druck bei der Druckerei und Unterschrift durch den/die Prüfungsausschussvorsitzende/n kann mehrere Wochen in Anspruch nehmen. Sie erhalten von uns per Email Bescheid, wenn die Dokumente fertig sind, und können sie dann abholen oder per Post zugeschickt bekommen.
+The preparation of the final documents, including printing at the printing house and the signature by the examination committee chair, may take several weeks. You will be notified by email when the documents are ready, and you can then pick them up or have them sent by post.
 
-Einmal im Semester gibt es am Fachbereich Informatik eine Absolventenfeier. Die Einladung dazu erhalten Sie per Email.
+Once a semester, there is a graduation celebration in the Department of Computer Science. You will receive the invitation by email.
 
-## Adressänderung
+## Address Change
 
-Bitte teilen Sie der Universität die Änderung Ihrer Anschrift mit, damit wir immer Ihre aktuellen Kontaktdaten haben. Für die Adressänderung, die Sie nicht selbst in STiNE vornehmen können, wenden Sie sich bitte an das CampusCenter.
+Please inform the university of any changes to your address so that we always have your current contact details. For address changes that you cannot make yourself in STiNE, please contact the CampusCenter.
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/studienverlauf/adressaenderung.html
 
-## Anerkennung/Anrechnung von Leistungen
+## Recognition of Achievements
 
-Ihr grundsätzliches Recht auf Anerkennung von Leistungen wird in §8 der MIN-Prüfungsordnungen beschrieben, die für Bachelor- und Masterstudiengänge gleichlautend sind:
+Your fundamental right to recognition of achievements is described in §8 of the MIN examination regulations, which are identical for Bachelor’s and Master’s degree programs:
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungs-studienordnungen/mathematik-informatik-und-naturwissenschaften.html
 
-(1) Studienzeiten, Studienleistungen, Prüfungsleistungen sowie in den Studiengang eingeordnete berufsfeldbezogene Studien beziehungsweise Praktika, die an einer Universität, gleichgestellten Hochschule, in staatlich anerkannten Fernstudien, an anderen Bildungseinrichtungen, insbesondere in Studiengängen an staatlichen oder staatlich anerkannten Berufsakademien sowie an Fachhochschulen erbracht worden sind, sind auf Antrag des bzw. der Studierenden anzuerkennen, sofern keine wesentlichen Unterschiede zwischen den erworbenen und den an der aufnehmenden Hochschule zu erwerbenden Kenntnissen und Fähigkeiten bestehen. Eine Anerkennung mit Auflagen ist möglich.
+(1) Study periods, academic achievements, examination performances, as well as field-related studies or internships that have been completed at a university, an equivalent higher education institution, recognized distance learning programs, or other educational institutions, especially in programs at state or state-recognized vocational academies, or at universities of applied sciences, shall be recognized upon request from the student, provided there are no substantial differences between the acquired knowledge and skills and those to be acquired at the accepting university. Recognition with conditions is possible.
 
-(3) Auf andere Weise als durch ein Studium erworbene Kenntnisse und Fähigkeiten, die jenen gleichwertig und für einen erfolgreichen Abschluss eines Studiengangs erforderlich sind, sind in einem Umfang von bis zur Hälfte auf die zu erbringenden Studien- und Prüfungsleistungen anzuerkennen.
+(3) Knowledge and skills acquired in ways other than through study, which are equivalent and required for a successful completion of a study program, can be recognized up to half of the required study and examination performances.
 
-So wird ein Antrag auf Anerkennung von Leistungen gestellt:
+Thus, here is how to submit an application for the recognition of achievements:
 
-- Am Anfang steht Ihre persönliche Entscheidung, welche Module anerkannt werden sollen. Grundlage hierfür sind im Sinne der oben zitierten Rechtsgrundlagen, dass vergleichbare Kompetenzen zwischen Modulen Ihres alten Studiums bzw. Auslandsstudiums bzw. Ihren Ausbildungsinhalten und den Modulen bzw. Bereichen des aktuellen Studiums existieren. Bei Bedarf berät Sie Ihr/Ihre Studienfachberater/in in den Sprechstunden oder einem individuell vereinbartem Termin.Hinweis: Im B.Sc./M.Sc. Wirtschaftsinformatik müssten gemäß Entscheidung der Prüfungsausschüsse auch für Sprachkurse der Universität Hamburg (als sog. "extracurriculare Leistungen") Anträge auf Anerkennungen von Leistungen gestellt werden, wenn sie im freien Wahlbereich eingebracht werden sollen. In den anderen Studiengängen mit einem Freien Wahlbereich können Sprachkurse durch das Studienbüro Informatik verbucht werden, indem Sie den Nachweis des Kursabschlusses ans Studienbüro(studienbuero.inf"AT"uni-hamburg.de) per E-Mail zu senden, ohne einen Antrag zu stellen.
+- At the beginning, your personal decision on which modules should be recognized stands. The basis for this is, in accordance with the legal foundations cited above, that comparable competencies exist between modules of your previous studies or studies abroad and the modules or areas of the current program. If needed, your subject advisor is available for consultation during office hours or at a personally arranged appointment. Note: In the B.Sc./M.Sc. Business Informatics program, applications for recognition of achievements must also be submitted for language courses at the University of Hamburg (as so-called "extracurricular achievements") if they are to be included in the free elective area according to the decisions of the examination committees. In other degree programs with a free elective area, language courses can be credited through the Department of Computer Science by sending proof of course completion to the study office (studienbuero.inf"AT"uni-hamburg.de) via email without having to submit an application.
 Links: https://www.inf.uni-hamburg.de/studies/orga/stb.html
 
-- Sie füllen den Anerkennungsantrag in STiNE aus. Ausführliche Informationen einschl. einer Schritt-für-Schritt-Anleitung der STiNE-Antragstellung finden Sie in diesen Folien. Vergessen Sie das virtuelle "Abschicken" nicht, nachdem der Antrag in STiNE hinterlegt ist.
+- You fill out the recognition application in STiNE. Detailed information, including a step-by-step guide for submitting the STiNE application, can be found in these slides. Don't forget to virtually "submit" it after the application is stored in STiNE.
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/anrechnung-leistungen-infovortrag.pdf
 
-- Geben Sie via E-Mail an das Studienbüro(studienbuero.inf"AT"uni-hamburg.de) oder via Sprechstunde dem/der Studienfachberater/in Bescheid geben, dass Ihr Antrag abgeschickt ist. Nennen Sie Ihre Antragsnummer und Ihren (neuen) Studiengang. Sie erhalten von uns eine Zusammenfassung Ihres Antrags als PDF-Datei, die Sie drucken und unterschreiben müssten; auch eine direkt ins Dokument "gemalte" Unterschrift (wenn Sie ein passendes Tool dafür haben) ist möglich. Dieses Dokument dient als Beschlussvorlage für den Prüfungsausschussvorsitz.
+- Inform the study office (studienbuero.inf"AT"uni-hamburg.de) via email or during office hours that your application has been submitted. Provide your application number and your (new) degree program. You will receive a summary of your application as a PDF file, which you must print and sign; a directly "drawn" signature on the document (if you have a suitable tool for this) is also possible. This document serves as a template for the decision of the chair of the examination committee.
 
-- Die im Folgenden aufgezählten Dokumente müssen digital eingereicht weren (Scan/gut lesbares Foto, soweit nicht ohnehin digital vorliegend): Unterschriebe Zusammenfassung Ihres Antrags, die Sie von uns erhalten haben Transcript of Records, Zeugnis oder andere Belege der anzurechnenden Leistungen.Dies ist verzichtbar bei an der Universität Hamburg erbrachten Leistungen, die bereits in STiNE erfasst sind. ModulbeschreibungenAusnahme: Keine Modulbeschreibungen nötig bei Modulen, die identisch im neuen Studiengang vorkommen, oder falls eine Lernvereinbarung die Anerkennbarkeit eines Moduls bereits vorab bestätigt hat (dann stattdessen die Lernvereinbarung senden)
+- The following documents must be submitted digitally (scan/readable photo, unless already in digital format): Signed summary of your application that you received from us, Transcript of Records, certificate, or other evidence of the achievements to be credited. This is not necessary for achievements already recorded in STiNE at the University of Hamburg. Module descriptions. Exception: No module descriptions are needed for modules that are identical in the new degree program, or if a learning agreement has already confirmed the recognition of a module in advance (in which case, send the learning agreement instead).
 
-- Sonderfall: Im B.Sc./M.Sc. Wirtschaftsinformatik ist gemäß Entscheidung der Prüfungsausschüsse für Sprachkurse auch eine Kopie des Abiturzeugnisses (oder der sonstigen Hochschulzugangsberechtigung) nötig. Das gilt auch für Sprachkurse der Universität Hamburg, für die in diesen Studiengängen ein Antrag auf Anerkennung einer sog. extracurricularen Lesistung notwendig ist, wenn sie im freien Wahlbereich eingebracht werden sollen.
+- Special case: In the B.Sc./M.Sc. Business Informatics program, a copy of the high school diploma (or other university entrance qualifications) is also required for language courses, according to the decision of the examination committees. This applies to language courses at the University of Hamburg for which an application for recognition of an extracurricular achievement is necessary if they are to be included in the free elective area.
 
-- Über die Entscheidung des/der Prüfungsausschuss-Vorsitzenden erhalten Sie eine schriftliche Benachrichtigung
+- You will receive a written notification regarding the decision of the chair of the examination committee.
 
-Für die Antragstellung gibt es keine bestimmte Frist; beachten Sie aber, ein Modul oder eine Modulteilprüfung nicht mehr anerkannt werden kann, wenn Sie das Prüfungsverfahren Sie bereits verbindlich eingetreten sind (d.h. Prüfungen wurden schon durchgeführt oder eine künftige Prüfung ist angemeldet und Frist zur Abmeldung abgelaufen). Davon abgesehen empfehlen wir eine zeitnahe Antragstellung nach Studienstart bzw. direkt nach Leistungserwerb (z.B. direkt nach Rückkehr aus dem Auslandssemester).
+There is no specific deadline for submitting the application; however, note that a module or a module component cannot be recognized if you have already officially entered the examination procedure (i.e., examinations have already been conducted or a future examination is registered and the withdrawal deadline has passed). Nevertheless, we recommend timely submission of applications after the start of your studies or immediately after earning the achievement (e.g., right after returning from the semester abroad).
 
-Bei Unsicherheiten: Die Studienfachberatung berät Sie in allen Fragen rund um das Thema Anerkennung von Leistungen.
+If there are uncertainties: The subject advising office is available to assist you with all questions concerning the recognition of achievements.
 
-## Auslandsstudium
+## Study Abroad
 
-### Das Team "Informatics International" ist Ihre zentrale Anlaufstelle für alle internationalen Fragen innerhalb des Fachbereichs Informatik.
+### The "Informatics International" team is your central point of contact for all international questions within the Department of Computer Science.
 Links: https://www.inf.uni-hamburg.de/studies/international.html
 
-### Studium oder Praktikum im Ausland
+### Study or Internship Abroad
 
-Die Abteilung Internationales informiert in ihren monatlichen Infoveranstaltungen im CampusCenter, in ihren Sprechstunden und auf ihren Internet-Seiten zu Fragen eines studienbezogenen Aufenthalts im Ausland. Informationen unter www.uni-hamburg.de/outgoing oder im Newsletter unter www.uni-hamburg.de/news-outgoing.
+The International Office provides information during its monthly information events at the Campus Center, in its office hours, and on its websites regarding questions of study-related stays abroad. Information available at www.uni-hamburg.de/outgoing or in the newsletter at www.uni-hamburg.de/news-outgoing.
 Links: http://www.uni-hamburg.de/outgoing | http://www.uni-hamburg.de/news-outgoing
 
-### Hamburglobal – das Outgoing-Stipendium der Universität Hamburg
+### Hamburglobal – The University of Hamburg's Outgoing Scholarship
 
-Für ein Studiensemester oder ein Praktikum im Ausland, die nicht durch ERASMUS gefördert werden, vergibt die Abteilung Internationales Teilstipendien.Infos und Beratungszeiten unter: www.uni-hamburg.de/hamburglobal
+For a study semester or internship abroad not funded by ERASMUS, the International Office awards partial scholarships. Information and consultation hours available at: www.uni-hamburg.de/hamburglobal
 Links: http://www.uni-hamburg.de/hamburglobal
 
-### Zentralaustausch
+### Central Exchange
 
-Mit dem Zentralaustauschprogramm der Universität Hamburg können Studierende ein oder zwei Auslandssemester an einer der 18 Partneruniversitäten absolvieren.Das Programm wird zentral von der Abteilung Internationales für die ganze UHH organisiert.Liste der Partneruniversitäten, weitere Infos und Beratungszeiten unter: www.uni-hamburg.de/zentralaustausch
+Through the University of Hamburg's Central Exchange Program, students can complete one or two semesters abroad at one of the 18 partner universities. The program is centrally organized by the International Office for the entire UHH. List of partner universities, further information, and consultation hours available at: www.uni-hamburg.de/zentralaustausch
 Links: http://www.uni-hamburg.de/zentralaustausch
 
 ### ERASMUS+
 
-Das ERASMUS+-Programm der Europäischen Union bietet den Studierenden die Möglichkeit, ein oder zwei Auslandssemester an einer europäischen Partnerhochschule zu verbringen. Dabei steht ERASMUS+ für viele Vorteile: Studiengebührenbefreiung an der Gasthochschule, finanzielle Förderung durch einen monatlichen Zuschuss sowie administrative Unterstützung. Jedes Jahr nutzen über 500 Studierende der Universität Hamburg diese Chance, ihren Horizont zu erweitern und internationale Erfahrung zu sammeln. Neben der Programmlinie Studienaufenthalte werden auch Praktika im EU-Raum gefördert. Jedes Institut bzw. jeder Fachbereich verfügt über ein eigenes Netzwerk von ERASMUS-Partnern, das von Programmbeauftragten betreut wird. Ansprechpartner für interessierte Studierende sind die ERASMUS-Stellen an den Fakultäten und in den Fachbereichen.
+The ERASMUS+ program of the European Union offers students the opportunity to spend one or two semesters abroad at a European partner university. ERASMUS+ provides many advantages: exemption from tuition fees at the host university, financial support through a monthly allowance, and administrative assistance. Every year, over 500 students from the University of Hamburg take this opportunity to broaden their horizons and gain international experience. In addition to the study stays program line, internships in the EU area are also supported. Each institute or department has its own network of ERASMUS partners, which is managed by program coordinators. Points of contact for interested students are the ERASMUS offices in the faculties and departments.
 Links: https://www.uni-hamburg.de/internationales/studierende/outgoing/austausch-gaststudium/erasmus/im-ausland-studieren.html
 
-### Lernvereinbarung
+### Learning Agreement
 
-Der Abschluss einer Lernvereinbarung ist für jeden studienbezogenen Auslandsaufenthalt empfehlenswert. Sie enthält einen Studienplan, also eine Liste, welche Modul an der Gastuniversität belegt werden sollen, und sichert - sofern die Genehmigung durch den zuständigen Prüfungsausschuss erfolgt ist - vorab eine Anerkennung der belegten Module zu. Damit kann der bzw. die Studierende zuverlässig damit planen, dass im Ausland erfolgreich absolvierten Module für das Studium genutzt werden können. Für einen Austausch über ERASMUS+ ist eine abgeschlossene Lernvereinbarung zwingend und somit Teil der Bewerbungsunterlagen. Für Auslandsaufenthalte, die außerhalb formaler Austauschprogramme organisiert werden, kann freiwillig eine Lernvereinbarung abgeschlossen werden, wofür der Fachbereich Informatik ein Formular zur Verfügung stellt.
+The conclusion of a learning agreement is recommended for every study-related stay abroad. It contains a study plan, i.e., a list of the modules to be taken at the host university, and secures, provided approval has been granted by the responsible examination committee, prior recognition of the modules taken. This enables the student to reliably plan that successfully completed modules abroad can be credited towards their studies. For an exchange through ERASMUS+, a completed learning agreement is mandatory and thus part of the application documents. For stays abroad that are organized outside formal exchange programs, a learning agreement can be voluntarily concluded, for which the Department of Computer Science provides a form.
 Links: https://www.uni-hamburg.de/internationales/studierende/outgoing/austausch-gaststudium/erasmus/im-ausland-studieren.html | https://www.inf.uni-hamburg.de/studies/orga/forms.html
 
-### Stipendien für internationale Studierende
+### Scholarships for International Students
 
-Die Abteilung Internationales vergibt Leistungsstipendien an internationale Studierende mit herausragenden Studienleistungen, die bereits zwei Semester an der Universität Hamburg immatrikuliert und mindestens im dritten Semester ihres Studiums sind. Weitere Infos und Beratungszeitenunter: www.uni-hamburg.de/leistungsstipendien
+The International Office awards performance-based scholarships to international students with outstanding academic achievements who have already been enrolled at the University of Hamburg for two semesters and are at least in their third semester of study. More information and consultation hours at: www.uni-hamburg.de/leistungsstipendien
 Links: http://www.uni-hamburg.de/leistungsstipendien
 
-Des Weiteren vergibt die Abteilung Internationales Examensstipendien an bedürftige internationale Studierende der Universität Hamburg. Nähere Informationen und Beratungszeiten unter:www.uni-hamburg.de/examenstipendien
+The International Department of the University of Hamburg awards examination scholarships to financially needy international students. For more information and consultation hours, visit: www.uni-hamburg.de/examenstipendien
 Links: https://www.uni-hamburg.de/internationales/studierende/incoming/studium-mit-abschluss/waehrend-des-studiums/finanzierung/examensstipendien.html
 
-### DAAD-Preis für internationale Studierende
+### DAAD Prize for International Students
 
-Jedes Jahr wird der mit 1.000 € dotierte DAAD-Preis für hervorragende Leistungen ausländischer Studierender der Universität Hamburg vergeben.Kontakt: Otilia Dias, Abteilung Internationales,www.uni-hamburg.de/internationales/kontakt.html
+Each year, the DAAD Prize, worth €1,000, is awarded for outstanding performances by international students at the University of Hamburg. Contact: Otilia Dias, International Department, www.uni-hamburg.de/internationales/kontakt.html
 Links: http://www.uni-hamburg.de/internationales/kontakt.html
 
-### PIASTA Interkulturelles Leben und Studieren
+### PIASTA Intercultural Living and Studying
 
-PIASTA engagiert sich für interkulturelles Leben und Studieren an der Universität Hamburg und richtet sich an deutsche und internationale Studierende und Promovierende.Das Programm steht für die Internationalisierung des Campus, für Austausch und gemeinsames Lernen mit dem Ziel, allen Studierenden ein aktives, internationales und erfolgreiches Studium zu ermöglichen.Ein interkulturelles Team aus Tutorinnen und Tutoren unterstützt dabei, das Studium erfolgreich zu bewältigen und die Freizeit interessant zu gestalten. Das „Welcome & Kultur Programm“ bietet jede Woche im Semester ein interkulturelles Abendprogramm und Ausflüge in und um Hamburg.Im „Training & Coaching Programm“ können Kompetenzen im Bereich wichtiger Basisqualifikationen und Soft-Skill-Kenntnisse in interkulturellen Gruppen erworben werden. International orientierte Studierende können das Certificate Intercultural Competence erwerben.Aktuelle Termine und Anmeldung: www.uni-hamburg.de/piasta
+PIASTA is committed to intercultural life and study at the University of Hamburg and is aimed at German and international students and doctoral candidates. The program promotes the internationalization of the campus, encourages exchange, and facilitates collaborative learning with the goal of enabling all students to have an active, international, and successful study experience. An intercultural team of tutors supports students in successfully managing their studies and making their leisure time interesting. The "Welcome & Culture Program" offers an intercultural evening program and excursions in and around Hamburg every week during the semester. The "Training & Coaching Program" allows students to gain skills in essential qualifications and soft skills within intercultural groups. Internationally oriented students can earn the Certificate of Intercultural Competence. Current dates and registration: www.uni-hamburg.de/piasta
 Links: http://www.uni-hamburg.de/piasta
 
-## BAföG-Anträge
+## BAföG Applications
 
-Das Beratungszentrum Studienfinanzierung (BeSt) des Studierendenwerks Hamburg berät kostenlos und unabhängig alle Studieninteressierten und Studierenden über BAföG, Stipendien, Studienkredite und Bildungskredite.Kontaktmöglichkeiten und weitere Informationen zum Thema BAföG entnehmen Sie bitte der Seite des Studierendenwerks zur Studienfinanzierung.
+The Study Financing Advisory Center (BeSt) of the Studentenwerk Hamburg provides free and independent advice to all prospective students and students regarding BAföG, scholarships, student loans, and educational loans. Please refer to the Studentenwerk's page on study financing for contact options and more information about BAföG.
 Links: https://www.studierendenwerk-hamburg.de/studienfinanzierung
 
-Wer im Bachelor studiert und BAföG erhält, muss dem BAföG-Amt nach dem 3. oder 4. Fachsemester einen Leistungsnachweis ("übliche Studienleistungen") als Bescheinigung nach § 48 BAföG vorlegen, damit ein Weiterbezug des BAföG möglich ist. Bitte wenden Sie sich an die Studienfachberatung im Studienbüro Informatik für Ausstellung dieser Beschenigung.
+Students enrolled in a bachelor's program who receive BAföG must submit proof of academic performance ("usual study achievements") to the BAföG office after the 3rd or 4th semester as a certificate in accordance with § 48 BAföG to continue receiving BAföG support. Please contact the academic advising office in the Department of Computer Science for the issuance of this certificate.
 
 ## CampusCenter
 
-Im CampusCenter finden Studieninteressierte, -bewerber/innen und Studierende alle wichtigen Informationen unter einem Dach. Hier sind der Service für Studierende (SfS), die Zentrale Studienberatung und Psychologische Beratung (ZSPB), das Referat Qualität und Recht, das Büro für die Belange von Studierenden mit Behinderung oder chronischer Krankheit, RRZ-Services und die Abteilung Internationales mit der Beratung „Studieren im Ausland“ und „Promovieren International“ zu finden. Kurze allgemeine Anliegen können am ServicePoint und ServiceTelefon schnell geklärt werden. Häufige Themen im Studienverlauf sind:
+In the CampusCenter, prospective students, applicants, and current students can find all important information under one roof. Here you will find the Service for Students (SfS), Central Academic Advising and Psychological Counseling (ZSPB), the Quality and Law Department, the Office for Students with Disabilities or Chronic Illnesses, RRZ Services, and the International Department with advice on "Studying Abroad" and "International Doctorates." Simple general inquiries can be clarified quickly at the ServicePoint and by ServicePhone. Common topics in the course of study are:
 
-- Adressänderungen
+- Address changes
 
-- Anträge Teilzeitstudium, Urlaubssemester
+- Applications for part-time study, leave of absence
 
-- Semestergebühr, Semesterticket, Studierendenausweis - auch verlustmeldung!
+- Semester fee, semester ticket, student ID - including loss reports!
 
-- Studienabschluss, Exmatrikulation
+- Completion of studies, exmatriculation
 
-Alsterterrasse 1, 20354 Hamburg (3./4. Stock)www.uni-hamburg.de/campuscenter
+Alsterterrasse 1, 20354 Hamburg (3rd/4th Floor) www.uni-hamburg.de/campuscenter
 Links: http://www.uni-hamburg.de/campuscenter
 
-ServicePoint und ServiceTelefonSprechzeiten für allgemeine Fragen:mo-mi 9-15 Uhr, do 13-18 Uhr, fr 9-13 UhrTel: 040 42838-7000
+ServicePoint and ServicePhone
+Office hours for general questions: Mon-Wed 9 AM - 3 PM, Thu 1 PM - 6 PM, Fri 9 AM - 1 PM
+Tel: 040 42838-7000
 
-RRZ-Services (Raum 324)Sprechzeiten: mo-mi 9-13 Uhr, do 14-18 UhrTelefonische Sprechzeiten: mo-fr 9-18 UhrTel: 040 428 844 844www.rrz.uni-hamburg.de
+RRZ Services (Room 324)
+Office hours: Mon-Wed 9 AM - 1 PM, Thu 2 PM - 6 PM
+Telephone office hours: Mon-Fri 9 AM - 6 PM
+Tel: 040 428 844 844
+www.rrz.uni-hamburg.de
 
-Kontakt per Formular im STiNE-Portal:www.stine.uni-hamburg.de (unter Menüpunkt „Hilfe – Supportanfrage“)
+Contact via form in the STiNE portal: www.stine.uni-hamburg.de (under the menu item "Help - Support Request")
 
-Informationen über die Behindertengerechtigkeit der Gebäude:www.uni-hamburg.de/campus-zugaenglichkeit
+Information about the accessibility of the buildings: www.uni-hamburg.de/campus-zugaenglichkeit
 Links: http://www.uni-hamburg.de/campus-zugaenglichkeit
 
-„Campus Navigator“, das digitale Navigationssystem der Universität Hamburg, mit Daten zuallen Einrichtungen, Gebäuden und Kontaktpersonen: www.uni-hamburg.de/campusnavigator
+The "Campus Navigator," the digital navigation system of the University of Hamburg, has data on all facilities, buildings, and contacts: www.uni-hamburg.de/campusnavigator
 Links: https://m.uni-hamburg.de/?Cn-#Cn-#Cn-
 
-Der „Campus Navigator“ mit GPS-gesteuerter Routenplanung ist Bestandteil der Uni-Hamburg-App „UHH mobile“.
+The "Campus Navigator" with GPS-guided route planning is part of the Uni Hamburg app "UHH mobile."
 
-## E-Mail-Kommunikation - Studiums-Mail nutzen
+## Email Communication - Use Student Mail
 
-Jede und jeder Studierende der Universität Hamburgh hat eine studentische E-Mail-Adresse. Warum die Nutzung so wichtig ist, welche Vorteile sie bietet und wie man sie in verschiedene Mailprogramme einbinden kann, zeigt dieses Video:
+Each and every student at the University of Hamburg has a student email address. This video shows why it is so important to use it, what advantages it offers, and how you can integrate it into various mail programs:
 
-Each and every student at the university has a student e-mail address. This video shows why it is so important to use it, what advantages it offers and how you can integrate it into various mail programs:
+Each and every student at the university has a student e-mail address. This video shows why it is so important to use it, what advantages it offers and how you can integrate it into various mail programs.
 
-## Ethikkommission
+## Ethics Commission
 
-Die lokale Ethikkommission des Fachbereichs Informatik der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg nimmt auf Antrag Stellung zur ethischen Vertretbarkeit von Forschungsvorhaben unter Einbezug von Menschen sowie Forschungsvorhaben mit personenbezogenen Daten.
+The local ethics commission of the Department of Computer Science at the Faculty of Mathematics, Computer Science and Natural Sciences of the University of Hamburg assesses the ethical acceptability of research projects involving humans as well as research projects with personal data upon request.
 Links: https://www.inf.uni-hamburg.de/home/ethics.html
 
-Anträge können von allen Studierenden und Mitgliedern des Fachbereichs Informatik der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg gestellt werden. Anträge sind vor allem für Experimente zu empfehlen, die untersuchten Personen Risiken zumuten, oder für Studien, in denen die Personen nicht vollständig über die Ziele und den Ablauf der Studie aufgeklärt werden. Anträge können jederzeit eingereicht werden. Bitte beachten Sie aber die Fristen, bis zu denen Anträge eingegangen sein müssen, um in der nächsten Sitzung behandelt zu werden.
+Applications can be submitted by all students and members of the Department of Computer Science at the Faculty of Mathematics, Computer Science and Natural Sciences at the University of Hamburg. Applications are particularly recommended for experiments that pose risks to the participants or for studies where participants are not fully informed about the goals and procedures of the study. Applications can be submitted at any time, but please note the deadlines by which applications must be received to be considered in the next meeting.
 
-## Evaluation der Lehre
+## Evaluation of Teaching
 
-Im Fachbereich Informatik wird zur Sicherung und Verbesserung der Qualität der Lehre in jedem Semester eine Lehrevaluation mit Befragung der Studierenden durchgeführt. Es werden die einzelnen Lehrveranstaltungen evaluiert, nicht Module.
+In the Department of Computer Science, a teaching evaluation is conducted every semester to ensure and improve the quality of teaching, involving a survey of the students. Individual courses are evaluated, not modules.
 
-Die Umfragen erfolgen mittels online-Fragebögen, deren Zugangslink nach ca. zwei Dritteln der Vorlesungszeit in den Lehrveranstaltungen verteilt werden. Nach dem Ausfüllen durch die Studierenden werden die online-Fragebögen vom TEAM Evaluation technisch verabeitet. Die Evaluationsergebnisse werden möglichst unverzüglich an die jeweilige Dozentin bzw. dem jeweiligen Dozenten per E-Mail zugesandt, damit eine Besprechung des Feedbacks mit den Studierenden noch in der laufenden Vorlesungszeit erfolgen kann.Die Umfrage erfolgt mit verschiedenen Fragebogentypen (ein Fragebogen für Vorlesungen und Übungen, ein Fragebogen für Seminare/Proseminar, ein Fragebogen für Projekte, ein Fragebogen für Praktika). Die Fragebögen können in Deutsch oder Englisch ausgefüllt werden, um den internationalen Studierenden die Teilnahme an der Lehrevaluation zu ermöglichen.
+The surveys are conducted using online questionnaires, the access link to which is distributed in the courses after about two-thirds of the lecture period. After being completed by the students, the online questionnaires are processed technically by the TEAM Evaluation. The evaluation results are sent as soon as possible to the respective instructor via email, enabling a discussion of the feedback with students during the ongoing lecture period. The survey uses various types of questionnaires (one for lectures and exercises, one for seminars/pre-seminars, one for projects, one for internships). The questionnaires can be filled out in German or English to enable international students to participate in the teaching evaluation.
 
-## Exmatrikulation
+## Exmatriculation
 
-Wer das Studium ordnungsgemäß abgeschlossen hat, wird ohne Antrag exmatrikuliert. Nur werdas Studium vorzeitig abbricht oder die Universität wechselt, muss sich beim Service für Studierende(SfS) exmatrikulieren lassen. Bei Exmatrikulation im laufenden Semester kann der Wert desSemestertickets anteilig ausgezahlt werden. Zuständig ist die Fahrgeldstelle der S-Bahn Hamburg:www.s-bahn-hamburg.de (Menüpunkt „Service“).www.uni-hamburg.de/exmatrikulation
+Those who have completed their studies properly will be exmatriculated automatically without application. Only those who discontinue their studies early or change universities must have themselves exmatriculated at the Service for Students (SfS). In case of exmatriculation during the current semester, the value of the semester ticket can be refunded proportionally. The responsible authority is the fare office of S-Bahn Hamburg: www.s-bahn-hamburg.de (menu item "Service").
+www.uni-hamburg.de/exmatrikulation
 Links: http://www.uni-hamburg.de/exmatrikulation
 
-## Krankmeldung - Prüfungsunfähigkeit
+## Sick Leave - Examination Incapacity
 
-Wenn Sie aus Krankheitsgründen an einer Modulprüfung nicht teilnehmen können, füllen Sie bitte das dafür vorgesehene Online-Formular aus. Bitte laden Sie dort die ärztliche Bescheinigung über Ihre Prüfungsunfähigkeit hoch. Dies muss spätestens 10 Tage nach Beginn der Krankheit (Krankheitsbeginn gemäß Bescheinigung) geschehen. Bitte bewahren Sie Ihre Original-Bescheinigung für mögliche Rückfragen auf.
+If you are unable to participate in a module exam due to illness, please fill out the designated online form. Please upload the medical certificate confirming your inability to take the exam there. This must be done no later than 10 days after the onset of the illness (start of illness according to the certificate). Please keep your original certificate for any possible inquiries.
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/digital/all-students-inability-exam.html
 
-Studierende des Lehramtes informieren sich bitte auf folgender Webseite:http://www.uni-hamburg.de/zpla/formulare.html
+Teaching students should refer to the following website: http://www.uni-hamburg.de/zpla/formulare.html
 Links: http://www.uni-hamburg.de/zpla/formulare.html
 
-## Mutterschutz
+## Maternity Protection
 
-Als werdende Mutter genießen Sie während der Schwangerschaft und nach der Geburt einen besonderen Schutz. Seit dem 1. Januar 2018 sind Studentinnen in das Mutterschutzgesetz (MuSchG) einbezogen, da es nun Ausbildungsverhältnisse einschließt, in denen die jeweilige Ausbildungsstelle Ort, Zeit und Ablauf von Ausbildungsveranstaltungen verpflichtend vorgibt, was für ein Studium an der Universität Hamburg zutrifft.
+As an expectant mother, you enjoy special protection during pregnancy and after childbirth. Since January 1, 2018, female students are included in the Maternity Protection Act (MuSchG), as it now encompasses training relationships where the training location, time, and process of training events are mandated, which applies to studies at the University of Hamburg.
 
-Die Mutterschutzfrist beginnt im Normalfall sechs Wochen vor dem errechneten Entbindungstermin und endet acht Wochen nach der Entbindung. Während der Schutzfrist gilt insbesondere:
+The maternity protection period typically begins six weeks before the expected due date and ends eight weeks after childbirth. During this protection period, the following particularly applies:
 
-- Als Normalfall ein Teilnahmeverbot an Lehrveranstaltungen...
+- In normal cases, a prohibition on participating in courses...
 
-- ...und soweit die Studentin es ausdrücklich wünscht, sich von dem Teilnahmeverbot an Lehrveranstaltungen befreien zu lassen, eine Freistellung von der Anwesenheitspflicht in Lehrveranstaltungen zwecks Untersuchungen und Stillzeiten.
+- ...and if the student explicitly wishes to be exempted from the prohibition on participating in courses, an exemption from the attendance requirement in courses for examinations and breastfeeding periods.
 
-- Aussetzung von allen Fristen gemäß Prüfungsordnung, insbesondere entsprechende Verlängerung der Frist von Abschlussarbeiten.
+- Suspension of all deadlines according to the examination regulations, particularly the corresponding extension of the deadline for final theses.
 
-Ausführlichere Informationen können Sie Handreichung 17 des Rechtsreferats und der Webseite des Familienbüros entnehmen.
+You can find more detailed information in Handout 17 from the Legal Department and on the website of the Family Office.
 Links: https://www.uni-hamburg.de/uhh/organisation/praesidialverwaltung/studium-und-lehre/qualitaet-und-recht/handreichungen.html | https://www.uni-hamburg.de/familienbuero/studieren-mit-kind/mutterschutz.html
 
-Damit Sie die Schutzrechte nach dem Mutterschutzgesetz in Anspruch nehmen können und die Universität entsprechende Schutzmaßnahmen ergreifen kann, wird empfohlen, dass Studentinnen eine Schwangerschaft so früh wie möglich gegenüber der Universität anzeigen. Eine Verpflichtung oder bestimmte Frist gibt es dafür aber nicht. Für die Anzeige einer Schwangerschaft sowie weitere Fragen und Informationen sind wir als Studienbüro Ihre erste Anlaufstelle.
+In order to take advantage of the rights under the Maternity Protection Act and for the university to implement corresponding protective measures, it is recommended that female students notify the university of their pregnancy as early as possible. However, there is no obligation or specific deadline for this. For the notification of a pregnancy and further questions and information, we at the Student Office are your first point of contact.
 
-Querverweis: Siehe gegebenenfalls auch Abschnitt "Studieren mit Kind".
+Cross-reference: Also see the section "Studying with Children."
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/parents.html
 
-## Nachteilsausgleich
+## Disability Compensation
 
-Gemäß §11(1) der MIN-Prüfungsordnungen Bachelor bzw. Master of Science steht Studierenden mit Behinderungen oder länger andauernden bzw. chronischen Erkrankungen ein Nachteilsausgleich zu, sofern sich aus der Behinderung bzw. Erkrankung ein Nachteil bei der Erbringung von Prüfungs- und Studienleistungen ergibt:
+According to §11(1) of the Bachelor and Master of Science examination regulations, students with disabilities or long-term or chronic illnesses are entitled to compensation for disadvantages, provided that the disability or illness results in a disadvantage in the performance of examination and study achievements:
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungs-studienordnungen/mathematik-informatik-und-naturwissenschaften.html
 
-Macht eine Studierende bzw. ein Studierender glaubhaft, dass er bzw. sie wegen einer Behinderung oder länger andauernden schweren bzw. chronischen Erkrankung nicht in der Lage ist Prüfungsleistungen ganz oder teilweise zu den vorgesehenen Bedingungen zu erbringen oder innerhalb der in dieser Ordnung genannten Fristen abzulegen, kann die bzw. der Vorsitzende des Prüfungsausschusses auf schriftlichen Antrag angemessene nachteilsausgleichende Maßnahmen treffen. (…) Entsprechendes gilt für Studienleistungen.
+If a student credibly demonstrates that they are unable to fulfill examination achievements partly or entirely under the prescribed conditions due to a disability or long-lasting severe or chronic illness or to take the exams within the deadlines specified in these regulations, the chair of the examination board may, upon written request, take appropriate compensatory measures. (…) The same applies to study achievements.
 
-Über solche Nachteilausgleichsmaßen muss individuell entschieden werden, das sie je nach Art der Behinderung bzw. Krankheit und je nach im Modul vorgesehener Prüfungs- bzw. Studienleistungen unterschiedlich ausfallen können.
+Decisions regarding such compensatory measures must be made on an individual basis, as they can vary depending on the type of disability or illness and according to the examinations and study achievements specified in the module.
 
-Im Fall von Klausur-Prüfungen könnten solche Maßnahmen beispielsweise sein:
+In the case of exam assessments, such measures could include:
 
-- Verlängerung der Bearbeitungszeit einer Klausur
+- Extension of the processing time for an exam
 
-- Zulassung von Unterbrechungen während der Bearbeitung der Klausur
+- Allowance for interruptions during exam processing
 
-- Durchführung der Prüfung in einem eigenen Raum
+- Conducting the exam in a separate room
 
-- Zulassung personeller oder technischer Unterstützung (z.B. Notebook mit Diktierprogramm)
+- Allowance for personal or technical assistance (e.g., laptop with dictation software)
 
-- Änderung der Prüfungsform
+- Change of the examination format
 
-Gemäß §11(2) der Bachelor/Master of Science ist für einen Nachteilsausgleich die Empfehlung der Koordinatorin für die Belange von Studierendenmit Behinderungen oder chronischen Krankheiten einzuholen. Sobald Sie diese Empfehlung erhalten haben, beantragen Sie im Studienbüro Informatik die Genehmigung der Nachteilsausgleichmaßnahme. Das Studienbüro informiert Sie, sobald der/die Prüfungsausschussvorsitzende über Ihren Antrag entschieden hat.
+According to §11(2) of the Bachelor/Master of Science regulations, it is necessary to obtain the recommendation from the coordinator for the concerns of students with disabilities or chronic illnesses for compensation for disadvantages. Once you have received this recommendation, apply for the approval of the compensatory measure at the Computer Science Student Office. The student office will inform you once the chair of the examination board has decided on your application.
 Links: https://www.uni-hamburg.de/studieren-mit-behinderung.html
 
-Nach Genehmigung Ihre Antrags durch den/die Prüfungsausschussvorsitzende müssen Sie sich rechtzeitig vor der Prüfung bei den Veranstaltern des betreffenden Moduls melden und sie um Gewährung der Nachteilsausgleichsmaßnahme ersuchen. Kümmeren Sie sich rechtzeitig um die Beantragung: Bedenken Sie, dass es sehr kurzfristig vor der Klausur eventuell organisatorisch nicht mehr möglich ist, Ihre Nachteilausgleichsmaßnahme umzusetzen, insbesondere, wenn zusätzliche Räume oder Aufsichtspersonen benötigt werden.
+After your application has been approved by the chair of the examination board, you must contact the organizers of the relevant module in good time before the exam and request the provision of the compensatory measure. Take care to apply in good time: Consider that it may not be feasible to implement your compensation measure organizationally very shortly before the exam, especially if additional rooms or supervisors are needed.
 
-## Prüfungen
+## Examinations
 
-Alle Bachelor- und Mastermodule unterliegen seit den Studienstartjahrgängen 2012/13 einer Versuchsregelung:
+All Bachelor’s and Master’s modules have been subject as of the 2012/13 academic year to a retry regulation:
 
-- Für jedes Modul haben Sie maximal vier Prüfungs-Versuche. Dafür gibt es keine Frist, wir empfehlen aber ausdrücklich, die Prüfungen im Anschluss an die Belegung der Lehrverstaltungen der jeweiligen Module zu absolvieren.Ausnahme: Für die Abschlussarbeit haben Sie nur einen Wiederholungsversuch
+- For each module, you have a maximum of four exam attempts. There is no deadline for this, but we strongly recommend completing the exams after attending the respective modules’ courses. Exception: You only have one repeat attempt for the final thesis.
 
-- Sie müssen sich für alle Prüfungen (egal, ob Klausur oder mündliche Prüfung) explizit anmelden! Ohne Anmeldung keine Teilnahme an der Prüfung!Die Anmeldung zu Klausuren wird im Normalfall durch die Studierenden selbstständig in STiNE durchgeführt, Termine für mündliche Prüfungen werden im Studienbüro (oder in Einzelfällen direkt durch die Veranstalter) vergeben. Bei technischen Problemen mit der Anmeldung wenden Sie sich bitte innerhalb der Anmeldephase zur Prüfung beim Studienbüro Informatik (bzw. dem für das Modul zuständigen Studienbüro Mathematik, BWL...).
+- You must explicitly register for all exams (regardless of whether they are written or oral exams)! Without registration, you cannot participate in the exam! Registration for written exams is normally done independently by students in STiNE, while dates for oral exams are assigned by the student office (or in some cases directly by the organizers). If you encounter technical issues with registration, please contact the Computer Science Student Office (or the responsible department office for the module such as Mathematics, Business Administration, etc.) during the registration period.
 
-- Wenn Sie an der Prüfung nicht teilnehmen wollen, melden Sie sich fristgerecht ab! Sonst zählt die Prüfung als ein Fehlversuch!
+- If you do not want to participate in the exam, please deregister in a timely manner! Otherwise, the exam will be counted as an unsuccessful attempt!
 
-- Bei Krankheit reichen Sie unverzüglich ein ärztliches Attest (Prüfungsunfähigkeitsnachweis) per Mail im Studienbüro Informatik ein! Sonst zählt die wahrgenomme Prüfung als Fehlversuch, vgl. letzter Punkt! Über die Zulässigkeit des Nachweises entscheidet der/die Prüfungsauschussvorsitzende.
+- In the case of illness, please immediately submit a medical certificate (proof of inability to take the exam) via email to the Computer Science Student Office! Otherwise, the attempted exam will be counted as an unsuccessful attempt, see last point! The chair of the examination board decides on the validity of the proof.
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/krankmeldung-modulpruefung.pdf
 
-- Auch zum zweiten, dritten und vierten Prüfungsversuch müssen Sie sich explizit anmelden! Bei Nicht-Bestehen einer Prüfung oder Fehlens wegen Krankheit (Nachweis!) werden Sie nicht automatisch zu einem Wiederholungstermin angemeldet!
+- You must also explicitly register for the second, third, and fourth attempts! If you do not pass an exam or are absent due to illness (with proof!), you will not be automatically registered for a rescheduled date!
 
-Fristen für die An- und Abmeldung von Prüfungsterminen:
+Deadlines for registration and deregistration for exam dates:
 
-- Module der Informatik: Anmeldephase für Klausuren über STiNE bis spätestens um23:59 Uhr 3 Tage vor der Klausur:Die Frist gilt auch für das Abmelden von einer Prüfung! Anmeldung zu mündlichen Prüfungen: online-Tool(eigene Anmeldephasen im Studienbüro) Prüfungstermine siehe https://www.inf.uni-hamburg.de/de/studies/orga/dates.html)
+- Computer Science modules: Registration phase for written exams via STiNE until 23:59 three days before the exam at the latest: This deadline also applies to deregistration from an exam! Registration for oral exams: online tool (own registration phases in the student office) Exam dates see https://www.inf.uni-hamburg.de/de/studies/orga/dates.html)
 Links: https://www.inf.uni-hamburg.de/de/studies/orga/dates.html
 
-- Andere Fachbereiche: Achten Sie auf die An- und Ummeldezeiten vor der Prüfungsphase!
+- Other departments: Pay attention to the registration and deregistration times before the exam period!
 
-Achtung: Früher konnten die Studierenden – innerhalb der gültigen Anmeldefristen – über den Button „Wechseln“ die Anmeldung ändern. D.h. die Aktion des Ab- und wieder Anmeldens konnte in einem einzigen Schritt durchgeführt werden. Seit einem STiNE-Update heißt der Button „Abmelden“ und muss über die Aktion des Wieder-Anmeldens zum gewünschten Termin aktiv ausgeführt werden.
+Note: In the past, students could change their registration through the “Switch” button within the valid registration deadlines. That is, the action of deregistering and re-registering could be carried out in a single step. Since a STiNE update, the button is now called “Deregister” and must be activated through the action of re-registering for the desired date.
 
-Den Ort von Klausuren des Fachbereichs Informatik ist im jeweiligen Modul in Stine angegeben. Außerdem finden Sie auf der Webseite des Studienbüros eine Übersicht über alle Klausuren des Fachbereichs Informatik. Bei mündlichen Prüfungen gilt: Soweit der Prüfer oder die Prüferin nichts anderes angekündigt haben, ist der Ort der Prüfung das Büro des Prüfers oder der Prüferin, siehe Liste aller Mitglieder des Fachbereichs.
+The location of exams for the Department of Computer Science is specified in the respective module in STiNE. Additionally, you can find an overview of all exams for the Department of Computer Science on the website of the student office. For oral exams, unless the examiner has announced otherwise, the exam takes place in the examiner’s office; see the list of all department members.
 Links: https://www.inf.uni-hamburg.de/studies/orga/dates.html | https://www2.informatik.uni-hamburg.de/fiona/pers.php?lang=de&order=name
 
-Hinweise zum Nachteilsausgleich finden Sie in einem seperaten Abschnitt dieser Hinweise.
+Information regarding compensation for disadvantages can be found in a separate section of these guidelines.
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/nachteilsausgleich.html
 
-Krankmeldungen/Prüfungsunfähigkeit sind mit dem entsprechenden Formular (PDF) unverzüglich, bis spätestens 5 Tage nach der Erkrankung beim Studienbüro Informatik per Mail einzureichen. Wenn Sie bei einem Prüfungstermin „entschuldigt“ sind (z.B. durch eine Krankmeldung) zählt dieser Termin nicht zu Ihren Prüfungsversuchen. Über die Zulässigkeit des Nachweises entscheidet der/die Prüfungsauschussvorsitzende. Auch bei Krankmeldung müssen Sie sich selbst zum nächsten Prüfungstermin anmelden.
+Sick leave/examination incapacity must be submitted promptly, using the appropriate form (PDF), to the Student Office for Computer Science via email, no later than 5 days after the illness. If you have been “excused” for an exam date (e.g., due to a sick leave), that date does not count towards your examination attempts. The admissibility of the proof is determined by the chair of the examination board. Even in the case of sickness notification, you must register for the next examination date yourself.
 Links: https://www.inf.uni-hamburg.de/studies/orga/forms/krankmeldung-modulpruefung.pdf
 
-## Psychologische Beratung
+## Psychological Counseling
 
-### Psychologische Beratung für Studierende
+### Psychological Counseling for Students
 
-Viele Studierende erleben während ihres Studiums schwierige persönliche Lebensphasen oder akute Belastungs- und Krisensituationen, die nicht immer aus eigener Kraft überwunden werden können. Studierende können sich an die Psychologische Beratung wenden mit allen studienbezogenen Schwierigkeiten und persönlichen Anliegen, die sich im Studium auswirken wie z.B. Lern- und Arbeitstörungen, Schreib-, Rede- und Prüfungsängsten, Einsamkeitsgefühlen und Kontaktschwierigkeiten, Depressionen und Ängsten und weiteres.
+Many students experience difficult personal phases or acute stress and crisis situations during their studies, which cannot always be overcome on their own. Students can contact Psychological Counseling regarding all study-related difficulties and personal concerns that affect their studies, such as learning and work disruptions, writing, speaking, and examination anxiety, feelings of loneliness and difficulties in contact, depression and anxiety, and more.
 
-- Zu den Angeboten der Psychologischen Beratung
+- To the offerings of Psychological Counseling
 Links: https://www.uni-hamburg.de/campuscenter/beratung/beratungsangebote/psychologische-beratung.html
 
-### Büro für die Belange von Studierenden mit Behinderung oder chronischer Krankheit
+### Office for the Concerns of Students with Disabilities or Chronic Illness
 
-Das Büro ist die zentrale Anlaufstelle der Universität Hamburg für Studieninteressierte, Studienbewerber/innen und Studierende mit längerfristigen gesundheitlichen Beeinträchtigungen (z. B. Beeinträchtigungendes Hörens, des Sehens, des Sprechens sowie des Haltungs- und Bewegungsapparats, chronisch-somatische und psychische Erkrankungen sowie Teilleistungsstörungen) bzw. Behinderung.Wir beraten und unterstützen Sie bei allen beeinträchtigungsbezogenen Anliegen rund um Studienorientierung, Bewerbung und Studium.Kontakt: Dr. Maike Gattermann-KasperCampusCenter, Raum 301Tel: 040 42838-3764, E-Mail: maike.gattermann-kasper@uni-hamburg.dewww.uni-hamburg.de/behinderung(Dort finden Sie auch die aktuellen persönlichen und telefonischen Sprechstunden.)
+The office is the central point of contact at the University of Hamburg for prospective students, applicants, and students with long-term health impairments (e.g., hearing, vision, and speech impairments, as well as musculoskeletal impairments, chronic physical and mental illnesses, and specific learning difficulties) or disabilities. We advise and support you regarding all disability-related concerns around study orientation, applications, and study. Contact: Dr. Maike Gattermann-Kasper
+CampusCenter, Room 301
+Phone: 040 42838-3764, Email: maike.gattermann-kasper@uni-hamburg.de
+www.uni-hamburg.de/behinderung
+(There you will also find the current personal and telephone office hours.)
 Links: http://www.uni-hamburg.de/behinderung
 
-### HOPES – Hilfe und Orientierung für psychisch erkrankte Studierende
+### HOPES – Help and Orientation for Students with Mental Illness
 
-HOPES wendet sich an Studierende, die nach einer schweren psychischen Krise, häufig auch nach einer stationären oder teilstationären Behandlung, Hilfe zur Bewältigung des Studiums suchen. Das Angebot versteht sich als Ergänzung zur Studienberatung und zur ambulanten psychotherapeutischen oder psychiatrischen Behandlung.Tel: 040 42838-6282www.uni-hamburg.de/hopes
+HOPES is aimed at students who seek help to cope with their studies after a severe mental crisis, often following inpatient or partial inpatient treatment. The service is seen as a complement to study counseling and outpatient psychotherapeutic or psychiatric treatment.
+Phone: 040 42838-6282
+www.uni-hamburg.de/hopes
 
-### Kontakt- und Beratungsstelle bei sexueller Diskriminierung und Gewalt
+### Contact and Counseling Office for Sexual Discrimination and Violence
 
-Die Kontakt- und Beratungsstelle gegen sexuelle Diskriminierung und Gewalt berät und unterstützt Studentinnen und Studenten, die Opfer von sexuellen Belästigungen im Rahmen der Universität Hamburg geworden sind. Betroffene können bei uns über ihre Erlebnisse mit einer neutralen Person sprechen, um z.B. eine größere Sicherheit in der eigenen Einschätzung zu erhalten und eine erste Entlastung zu erfahren. Sie bekommen darüber hinaus Informationen über mögliche weitere Vorgehensweisen und werden, wenn es gewünscht ist, bei weiteren Schritten (erweiterte Hilfestellung durch die Universität, Kontakt zur Polizei, Therapeutensuche etc.) unterstützt.Weitere Informationen und Kontakt: www.uni-hamburg.de/belaestigung
+The Contact and Counseling Office against sexual discrimination and violence advises and supports students who have become victims of sexual harassment within the University of Hamburg. Affected individuals can talk about their experiences with a neutral person to gain greater security in their own assessment and to experience initial relief. You will also receive information about possible further steps and, if desired, support in future actions (extended assistance from the university, contact with the police, therapist search, etc.). For more information and contact: www.uni-hamburg.de/belaestigung
 
 ## STiNE
 
-STiNE bietet zahlreiche Funktionen, von denen Studierende vom ersten Semester an profitieren.Datenschutz hat dabei selbstverständlich höchste Priorität.
+STiNE offers numerous functions from which students benefit from their first semester. Data protection is, of course, a top priority.
 
-- Anmeldung zu Lehrveranstaltungen und Prüfungen
+- Registration for courses and exams
+- Personal schedule
+- Information on room and date changes
+- Study certificates for self-printing
+- Access to provided seminar materials
+- Overview of previously completed examinations
+- Support requests
 
-- Persönlicher Stundenplan
+If your STiNE account does not work or you can no longer find your access data, you can obtain new access data at the Regional Computing Center, Schlüterstr. 70, Room 121, Monday to Friday from 09 AM to 6 PM, by presenting your ID.
 
-- Informationen über Raum- und Terminänderungen
+For further questions regarding your access data, you can also contact the STiNEline via email: stineline"AT"rrz.uni-hamburg.de
 
-- Studienbescheinigungen zum Selbstausdrucken
+## Studying with Children
 
-- Zugriff auf bereitgestellte Seminarmaterialien
+### Family Office of the University of Hamburg
 
-- Übersicht über die bisher erbrachten Prüfungsleistungen
-
-- Supportanfrage
-
-Falls Ihre STiNE-Kennung nicht funktioniert oder Sie Ihre Zugangsdaten nicht mehr finden, können Sie sich montags bis freitags von 09 – 18 Uhr gegen Vorlage Ihres Personalausweises neue Zugangsdaten im Regionalen Rechenzentrum, Schlüterstr. 70, Raum 121 besorgen.
-
-Bei weiteren Fragen zu Ihren Zugangsdaten können Sie sich auch per E-Mail an die STiNEline wenden: stineline"AT"rrz.uni-hamburg.de
-
-## Studieren mit Kind
-
-### Familienbüro der Universität Hamburg
-
-Die Universität Hamburg möchte die Vereinbarkeit von Studium und Familie bzw. Beruf und Familie als selbstverständlichen Bestandteil der Hochschulkultur stärken. Das Familienbüro koordiniert alle Informationen und ist Erstkontakt- und Vermittlungsstelle für Beschäftigte und Studierende sowie Dekanate und zentrale Einrichtungen der Universität zum Thema Vereinbarkeit von Studium bzw. Beruf und Familie.Kontakt: Familienbüro der Universität HamburgMittelweg 177, Raum N 0063, 20148 HamburgTel: 040 42838-9322, E-Mail: familienbuero@uni-hamburg.dewww.uni-hamburg.de/familienbuero
+The University of Hamburg aims to strengthen the compatibility of study and family or work and family as a natural part of university culture. The Family Office coordinates all information and serves as the first contact and mediation point for staff and students as well as faculties and central university institutions regarding balancing studies or work and family.
+Contact: Family Office of the University of Hamburg
+Mittelweg 177, Room N 0063, 20148 Hamburg
+Phone: 040 42838-9322, Email: familienbuero@uni-hamburg.de
+www.uni-hamburg.de/familienbuero
 Links: http://www.uni-hamburg.de/familienbuero
 
 ### Anna-Rebecca-Kinderstuben
 
-Die Stiftung Hamburger Studierendenheime unterhält eine Kindertagesstätte im Studierendenwohnheim Ölmühlenweg 33 in Wandsbek. Es werden Kinder im Alter von einem Monat bis vierzehn Jahren für maximal zehn Stunden am Tag betreut.Anmeldung und Beratung: Beate Gutzmann, Leitung der Anna-Rebecca-KinderstubenTel: 040 6959868, E-Mail: leitung@stiftung-hs.de, www.stiftung-hs.de/
+The Hamburg Student Housing Foundation operates a daycare center in the student residence at Ölmühlenweg 33 in Wandsbek. Children aged one month to fourteen years are cared for for a maximum of ten hours a day.
+Registration and advice: Beate Gutzmann, Director of Anna-Rebecca-Kinderstuben
+Phone: 040 6959868, Email: leitung@stiftung-hs.de, www.stiftung-hs.de/
 
 ### Studierendenwerk Hamburg
 
-Das Studierendenwerk Hamburg ist Betreiber von fünf Kindertagesstätten. Die Kitas Bornstraße, Hallerstraße und KinderCampus liegen in Nähe des Campus Von-Melle-Park und bieten rd. 180 Plätze für die Kinder von Studierenden, die bei der Vergabe der Plätze bevorzugt berücksichtigt werden.Seit 2010 hat das Studierendenwerk Hamburg auch die Kita auf dem Gelände des Universitätsklinikums Hamburg-Eppendorf (UKE) übernommen. Träger der Einrichtung ist weiterhin das UKE. Hier werden rund 140 Kinder betreut.Darüber hinaus bietet das Studierendenwerk flexible Betreuungsangebote insbesondere zur Kurzzeitbetreuung für kleinere Kinder an. Auf dem Hauptcampus mit Casper-Campus Spielgruppen und dem Familienzimmer am Fachbereich Informatik in Stellingen.Mehr Infos: www.studierendenwerk-hamburg.de (unter „Familienservice“)Beratungszentrum Soziales & Internationales – BeSI (Studierendenwerk Hamburg)Grindelallee 9, 3. OG, 20146 HamburgTel: 040 41902-155, E-Mail: besi@studierendenwerk-hamburg.dePersönliche Beratungszeiten ohne Voranmeldung:mo+fr 9.30-12 Uhr, di+do 9.30-12 und 14-16 Uhr
+The Studierendenwerk Hamburg operates five daycare centers. The daycare centers Bornstraße, Hallerstraße, and KinderCampus are located near the Von-Melle-Park campus and offer about 180 places for the children of students, who receive priority consideration in the allocation of places. Since 2010, the Studierendenwerk Hamburg has also taken over the daycare center on the premises of the University Medical Center Hamburg-Eppendorf (UKE). The UKE continues to manage the facility. Approximately 140 children are cared for here.
+Additionally, the Studierendenwerk offers flexible care options, especially for short-term care for younger children, at the main campus with Casper-Campus playgroups and the family room at the Department of Computer Science in Stellingen.
+More Info: www.studierendenwerk-hamburg.de (under "Family Service")
+Counseling Center Social & International – BeSI (Studierendenwerk Hamburg)
+Grindelallee 9, 3rd Floor, 20146 Hamburg
+Phone: 040 41902-155, Email: besi@studierendenwerk-hamburg.de
+Personal consultation hours without appointment: Mon + Fri 9:30 AM - 12 PM, Tue + Thu 9:30 AM - 12 PM and 2 - 4 PM
 
-Querverweis: Siehe gegebenenfalls auch Abschnitt "Mutterschutz".
+Cross-reference: See possibly also the section "Maternity Protection."
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/mutterschutz.html
 
-## Teilnahme, Anwesenheitspflicht und Inaktivsetzung (z.B. Übungen)
+## Participation, Attendance Requirement, and Inactivation (e.g., Exercises)
 
-Grundsätzlich gilt - und viele Studien belegen es: Für ein gutes Bestehen eines Moduls ist Anwesenheit der Weg zum Ziel.
+As a general rule - and many studies support this: Attendance is the key to success in passing a module.
 
-In Übungen, Seminaren, Praktika, Projekten und sonstigen Lehrveranstaltungen mit Ausnahme von Vorlesungen besteht in der Regel Anwesenheitspflicht. In solchen Veranstaltungen wird gemäß §9(2) der MIN-Prüfungsordnungen B.Sc./M.Sc. als Bedingung für eine aktive Teilnahme verlangt, dass Sie höchstens 15% der Termine versäumt haben. Im Normalfall einer Veranstaltung mit 13-14 wöchentlichen Terminen über die Vorlesungszeit des Semesters bedeutet das, dass Sie von den Veranstaltern bzw. Veranstalterinnen inaktiv gesetzt werden, falls Sie mehr als zwei Termine versäumt haben. Wenn es weniger Termine mit Anwesenheitspflicht gibt (z.B. ein Blockseminar, das komprimiert in Form von zwei ganztägigen Terminen an einem Wochenende stattfindet), wird in der Regel schon das Verpassen von einem Termin zur Inaktivsetzung führen. Die aktive Teilnahme ist ebenfalls nicht erfüllt, falls Sie im Rahmen der Lehrveranstaltung die in der Modulbeschreibung definierten Studienleistungen (z.B. 50% der Punkte aus den Aufgabenblättern in einer Übung erhalten) nicht erbracht haben.
+In exercises, seminars, internships, projects, and other courses, except for lectures, attendance is generally required. In such events, according to §9(2) of the MIN Examination Regulations B.Sc./M.Sc., active participation is conditional on missing no more than 15% of the sessions. Under normal circumstances for a course with 13-14 weekly sessions during the lecture period of the semester, this means that you will be classified as inactive by the organizers if you miss more than two sessions. If there are fewer sessions with mandatory attendance (e.g., a block seminar that is compressed into two full days over a weekend), usually missing just one session will lead to classification as inactive. Active participation is also not fulfilled if you have not completed the study requirements defined in the module description (e.g., obtaining 50% of the points from the assignments in an exercise).
 
-Die Konsequenz einer Inaktivsetzung ist, dass Modul vorläufig nicht abgeschlossen werden kann und zunächst keine Leistungspunkte erworben werden: Für den Modulabschluss mit Leistungspunkterwerb benötigen Sie eine (mindestens) einmalige aktive Teilnahme in jeder Lehrveranstaltung des Moduls - wofür in "reinen" Vorlesungen (ohne integrierte Übung o.ä.) eine Anmeldung genügt, da eine Inaktivsetzung ausgeschlossen ist. Wenn Sie das Modul weiterhin abschließen möchten (was im Fall eines Pflichtmoduls zwingend ist), müssen Sie in einem der folgenden Semester erneut an der Veranstaltung teilnehmen, ohne inaktiv gesetzt zu werden.
+The consequence of being classified as inactive is that you will not be able to complete the module provisionally, and no credit points can be earned: For successful completion of the module with credit point acquisition, you need at least one instance of active participation in each course of the module—for which, in “pure” lectures (without integrated exercises, etc.), just registration suffices, as classification as inactive is excluded. If you wish to continue completing the module (which is mandatory in the case of a compulsory module), you must participate again in the event in one of the following semesters without being classified as inactive.
 
-Eine aktive Teilnahme kann in späteren Semestern nicht "überschrieben" werden: Wenn Sie beispielsweise an einer Übung aktiv teilgenommen haben, im selben Modul aber die Prüfung nicht bestanden haben und im Folgejahr zu Wiederholungszwecken erneut an der Übung teilnehmen, wird Ihnen die aktive Übungsteilnahme auch dann nicht aberkannt, wenn Sie diesmal inaktiv gesetzt werden.
+Active participation in later semesters cannot be "overwritten": For example, if you have actively participated in an exercise but failed the exam for the same module and participate again in the exercise the following year for repeat purposes, your active participation will not be revoked even if you are classified as inactive this time.
 
-Um zu überprüfen, ob Sie an einer Veranstaltung früherer Semester aktiv teilgenommen haben, gehen Sie wie folgt vor: Nach Einloggen in STiNE klicken Sie in der Navigationsleiste oben auf "Studium", dann in der Seitenleiste auf "Teilleistungen" (unter "Prüfungen"). Wählen Sie in der Dropdown-Box im Hauptfenster das betroffe Semester aus und klicken Sie dann auf den Link "Prüfungen" rechts neben dem Modul, um das es Ihnen geht. Im Popup-Fenster, das dann erscheint, steht ein grüner Haken hinter Veranstaltungen mit aktiver Teilnahme. Beachten Sie hierbei, dass STiNE nach Anmeldung einer aktuellen bzw. künftigen Veranstaltung zunächst als "default" von einer aktiven Teilnahme ausgeht und die Inaktivsetzung normalerweise erst "gesammelt" am Ende des Semesters erfolgt, d.h. bei Veranstaltungen im laufenden bzw. nächsten Semester stellt die Präsenz des grünen Hakens noch keine Bestätigung dar, dass Sie aktiv genommen haben. Wenn Sie absehbar an einer Veranstaltung mit alternativen Angeboten in jedem Semester (z.B. Proseminar, Seminar, Praktikum) nicht teilnehmen können und zugleich die Abmeldefrist (die in der Regel bis zum Donnerstag in der zweiten Vorlesungswoche eines Semesters läuft) angelaufen ist, können Sie die Veranstalter bzw. Veranstalterinnen bitten, Ihre Inaktivsetzung vorzuziehen, um rechtzeitig zur Anmeldephase des folgenden Semesters eine Alternativ-Veranstaltung wählen zu können - denn solange Sie (noch) als aktiver Teilnehmer bzw. aktive Teilnehmerin angemeldet sind, ist die Anmeldung einer Alternativ-Veransataltung nicht möglich.
+To check whether you have actively participated in an event from previous semesters, proceed as follows: After logging into STiNE, click on "Studies" ("Studium") in the navigation bar at the top, then select "Partial achievements" ("Teilleistungen," under "Examinations"/"Prüfungen") in the sidebar. Choose the relevant semester from the dropdown box in the main window and then click on the "Examinations" ("Prüfungen") link next to the module in question. In the popup window that appears, a green checkmark will appear next to events with active participation. Note that STiNE defaults to assuming active participation after registering for a current or future event, and typically inactive classification is compiled at the end of the semester, meaning for events in the current or upcoming semester, the presence of the green checkmark does not yet confirm that you have been active. If you know that you will not be able to attend an event with alternative offerings in each semester (e.g., proseminar, seminar, internship) and the withdrawal deadline (which usually runs until Thursday in the second week of lectures in a semester) has passed, you may ask the organizers to preemptively classify you as inactive, allowing you to choose an alternative event in time for the next semester's registration phase—because as long as you are still registered as an active participant, registration for an alternative event is not possible.
 Links: https://www.stine.uni-hamburg.de/
 
-Beachten Sie auch, dass es für die aktive Teilnahme an Veranstaltungen (anders als bei Prüfungen) keine Begrenzung der Versuche gibt, d.h. Sie können die Teilnahme an einer Veranstaltung, in den Sie bisher jeweils immer inaktiv gesetzt wurden, beliebig oft wiederholen.
+Also, note that there is no limit on attempts for active participation in events (unlike with exams), meaning you can repeat participation in an event each time you have been classified as inactive.
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/pruefungen.html
 
-Wenn Sie die Verletzung der Anwesenheitspflicht in einer Lehrveranstatlung nicht zu vertreten haben, z.B. bei Krankheit, haben die Veranstalter bzw. Veranstalterinnen gemäß §9(2) der MIN-Prüfungsordnungen B.Sc./M.Sc. die Möglichkeit, gegen die Erfüllung einer von ihnen definierten Auflage als Ersatzleistung (z.B. Bearbeitung einer Zusatz-Hausaufgabe) auf die Inaktivsetzung zu verzichten. Wenn dies geschieht, ist es aber ein freiwilliges Entgegenkommen der Veranstalter bzw. Veranstalterinnen: Auf die Gewährung einer solchen Auflage haben Sie keinen Anspruch. Bitte haben Sie insbesondere Verständnis, wenn sich - gerade in "großen Veranstaltungen" - die Veranstalter und Veranstalterinnen aus Kapazitätsgründen nicht in der Lage sehen, solche Auflagen individuell zu konzipieren und zu bewerten.
+If you are not responsible for violating attendance requirements in a course, e.g., due to illness, the organizers have the option, according to §9(2) of the MIN Examination Regulations B.Sc./M.Sc., to waive the inactive classification in exchange for fulfilling an additional requirement defined by them (e.g., completing an extra assignment). However, this is a voluntary concession on the part of the organizers: You have no entitlement to such a requirement. Please understand, especially in "large events," that organizers may find it unfeasible, due to capacity constraints, to create and evaluate such requirements individually.
 
-Im Falle einer Behinderung oder chronischen Erkrankung, die es für Sie zu einer unverhältnismäßigen Härte macht, die Bedingungen der normalerweise geforderten Anwesenheitspflichten oder Studienleistungen einzuhalten, kommt eventuell eine Anpassung der Bedingungen im Rahmen eines Nachteilsausgleichs in Betracht.
+In the case of a disability or chronic illness that makes adhering to the normally required attendance obligations or study achievements disproportionately difficult for you, an adjustment of conditions in the context of disadvantage compensation may be considered.
 Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/nachteilsausgleich.html
 
-## Teilzeitstudium
+## Part-Time Study
 
-Bei Vorliegen eines wichtigen Grundes (z. B. Erwerbstätigkeit von mindestens 15 Stunden/Woche, Kinderbetreuung, Behinderung, chronische Krankheit), durch den nicht die volle, aber mindestens die Hälfte der Arbeitszeit dem Studium gewidmet werden kann, kann ein Antrag auf Teilzeitstatus gestellt werden. Ein Teilzeitstudium wird auf Antrag für zwei aufeinander folgende Semester genehmigt, wiederholte Anträge sind zulässig. Bei einem Teilzeitstudium verlängern sich die Termine und Fristen der Hochschulprüfungsordnungen im Regelfall in der Weise so, dass ein Fachsemester zwei Hochschulsemestern entspricht. Der Semesterbeitrag ist in voller Höhe zu zahlen.Der Antrag erfolgt via STiNE. Beachten Sie die Fristen für Antragstellung, welche vorab erfolgen muss: Teilzeit für ein Sommersemester muss bis zum 31. Januar beantragt werden, für ein Wintersemester bis zum 30. Juni.Weitere Informationen finden Sie auf den Seiten des CampusCenters.
+If there is a valid reason (e.g., employment of at least 15 hours/week, childcare, disability, chronic illness) that allows you to devote at least half but not the full working hours to your studies, you may apply for part-time status. A part-time study may be granted on request for two consecutive semesters, and repeated applications are permissible. In a part-time study, the deadlines and schedules of the university examination regulations are typically extended such that one academic semester corresponds to two university semesters. The semester fee must be paid in full. Applications are made via STiNE. Pay attention to the application deadlines, which must be completed in advance: Part-time for a summer semester must be applied for by January 31, and for a winter semester by June 30. More information can be found on the CampusCenter website.
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/studienverlauf/teilzeitstudium.html
 
 ## Transcript of Records
 
-Das Transcript of Records (kurz auch nur "Transcript" oder "ToR") ist ein durch die Universität ausgestellter Leistungsnachweis, in welchem Ihr Studiengang, Ihre bisher abgeschlossenen Module einschließlich Benotung und erworbener Leistungspunkte und Ihre aktuelle Durchschnittsnote aufgeführt werden. Ein solches Dokument kann z.B. bei Bewerbungen von Arbeitgebern oder anderen Hochschulen angefordert werden.
+The Transcript of Records (also known as "Transcript" or "ToR") is an academic record issued by the university that lists your degree program, previously completed modules with grades and earned credit points, and your current average grade. Such a document can be requested by potential employers or other universities.
 
-Wenn Sie als Studierende/r des Fachbereichs Informatik ein Transcript of Records benötigen, dann melden Sie sich bitte per E-Mail(studienbuero.inf"AT"uni-hamburg.de) beim Studienbüro Informatik. Bitte geben Sie in dieser Mail folgendes an:
+If you, as a student in the Department of Computer Science, need a Transcript of Records, please contact the Student Office of Computer Science by email (studienbuero.inf"AT"uni-hamburg.de). Please provide the following information in your email:
 
-- Ihren vollen Namen, Ihren Studiengang, Ihre Matrikelnummer
+- Your full name, program of study, and student ID number
 
-- Form des Transcript of Records: Digital (d.h. PDF-Datei mit Link zur Validierung) oder Papier
+- Form of the Transcript of Records: Digital (i.e., PDF file with a validation link) or paper
 
-- Sprache des Transcript of Records: Deutsch, Englisch, beides
+- Language of the Transcript of Records: German, English, or both
 
-Wir stellen Ihnen das Transcript of Records als digitales Dokument in Ihrem STiNE-Account zur Verfügung bzw. geben Ihnen Bescheid, sobald das Transcript of Records in Papierform im Studienbüro Informatik beim Prüfungsmanagement im Rahmen der Öffnungszeiten oder nach Vereinbarung abgeholt werden kann.
+We will provide you with the Transcript of Records as a digital document in your STiNE account or notify you when the paper version can be picked up at the Student Office of Computer Science during office hours or by appointment.
 Links: https://www.inf.uni-hamburg.de/studies/orga/_boxes/office-hours.html
 
-Beachten Sie, dass Sie kein Transcript of Records benötigen, wenn Sie sich als Studierender der Universität Hamburg um einen Masterstudienplatz am Fachbereich Informatik bewerben. Hier können Sie ersatzweise einen Ausdruck Ihres STiNE-Leistungskontos und der Bestätigung der Anmeldung der Bachelor-Arbeit, sofern bereits geschehen, einreichen.
+Note that you do not need a Transcript of Records when applying for a Master's program in the Department of Computer Science at the University of Hamburg. Instead, you can submit a printout of your STiNE performance account and the confirmation of registration for the bachelor's thesis, if already completed.
 
-## Urlaubssemester
+## Leave of Absence
 
-Studierende, die aus wichtigem Grund nicht mindestens die Hälfte ihrer Arbeitszeit dem Studium widmen können, können auf Antrag beurlaubt werden. Als wichtige Gründe werden z. B. Krankheit, Kinderbetreuung oder ein Auslandsaufenthalt anerkannt.Urlaubssemester zählen nicht als Fachsemester. Eine Beurlaubung schließt den Erwerb von Studien- und Prüfungsleistungen grundsätzlich aus (Ausnahmen sind Prüfungswiederholungen und Prüfungen im Auslandsstudium). Der Antrag erfolgt via STiNE. Beachten Sie die Fristen für Antragstellung, welche vorab erfolgen muss: Urlaub in ein Sommersemester muss bis zum 31. Januar beantragt werden, für ein Wintersemester bis zum 30. Juni.Studienanfänger/innen (1. Fachsemester) können sich nur in Ausnahmefällen beurlauben lassen. Weitere Informationen finden Sie auf den Seiten des CampusCenters.
+Students who cannot dedicate at least half of their working hours to their studies for important reasons may apply for a leave of absence. Important reasons include illness, childcare, or a stay abroad. Leave semesters do not count as subject semesters. A leave of absence generally excludes the acquisition of study and examination credits (exceptions are exam retakes and exams during study abroad). The application is made via STiNE. Please note the deadlines for submitting your application, which must be done in advance: Leave for a summer semester must be applied for by January 31, and for a winter semester by June 30. First-semester students may only be granted leave in exceptional cases. Further information can be found on the CampusCenter pages.
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/studienverlauf/beurlaubung.html

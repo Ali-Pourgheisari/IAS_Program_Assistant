@@ -1,67 +1,62 @@
+# Examination Regulations of the Faculty of Mathematics, Informatics, and Natural Sciences
+
 Source: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften.html
-
 Institution: University of Hamburg
-
 Source type: official document-directory webpage snapshot
-
 Retrieved: 2026-10-08
-
+Original language: German
+Translation note: Unofficial English translation generated for retrieval. Consult the linked official German source for authoritative wording.
 Applicability warning: The correct examination regulations depend on the student cohort and effective dates. Do not choose a version without confirming the student’s program start/cohort.
-
 Corpus note: The full 2018 English IAS subject-specific provisions are already stored separately in uhh_ias_subject_specific_provisions.txt.
 
-
-
-# Prüfungsordnungen der Fakultät für Mathematik, Informatik und Naturwissenschaften
-
-## Fachbereichsübergreifende Prüfungsordnungen
+## Cross-Departmental Examination Regulations
 
 ## Master
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 15.04.2026
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 15.04.2026
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20260415-aend-po-min-msc-37.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 26.04.2023 Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF)dated 26.04.2023
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 26.04.2023
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20230426-aend-po-min-msc-71.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20230426-aend-po-min-msc-71-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)vom 20.10.2021 Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF)dated 20.10.2021
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 20.10.2021
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20211020-po-min-msc-116.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20211020-po-min-msc-116-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)vom 16.06.2021 Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF)dated 16.06.2021
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 16.06.2021
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20210616-po-min-msc-79.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20210616-po-min-msc-79-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 23.12.2020 Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF)dated 23.12.2020
+- Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 23.12.2020
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20201223-aend-po-min-msc-30.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20201223-aend-po-min-msc-30-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 02.09.2020 Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) (PDF)dated 02.09.2020
+- Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) (PDF) dated 02.09.2020
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20200902-aend-po-min-msc-108.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20200902-aend-po-min-msc-108-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 01.04.2020 Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (Msc) Degree Programs dated 11 April 2012 and 4 July 2012 as amended on 31 January 2018 (PDF)dated 01.04.2020
+- Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs dated 11 April 2012 and 4 July 2012 as amended on 31 January 2018 (PDF) dated 01.04.2020
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20200401-aend-po-min-msc-17.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20200401-aend-po-min-msc-17-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 04.12.2019 Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF)dated 04.12.2019
+- Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 04.12.2019
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20191204-aend-po-min-msc-16.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20191204-aend-po-min-msc-16-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Neufassung vom 04.12.2019 Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF)dated 04.12.2019
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 04.12.2019
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20191204-neuf-po-min-msc-15.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20191204-neuf-po-min-msc-15-eng.pdf
 
-- PO der Fakultät für Mathematik, Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Änderung vom 31.01.2018
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) dated 31.01.2018
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20180131-aend-po-min-msc-66.pdf
 
-- PO der Fakultät für Mathematik. Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Neufassung vom 11.04.2012 und 04.07.2012 Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science Degree Programs (MSc) (PDF)Official translation dated 11 .04. and 04.07. 2012
+- Revised Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science Degree Programs (MSc) (PDF) Official translation dated 11.04. and 04.07.2012
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/unsortiert/up-po-u-msc-u-min-u-20120411-u-20120704.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/en-201204110704-po-min-msc.pdf
 
-- PO der Fakultät für Mathematik. Informatik und Naturwissenschaften für Studiengänge mit dem Abschluss M.Sc. (PDF)Erstfassung vom 26.10.2005 mit Änderung vom 05.07.2006
+- Examination Regulations of the Faculty of Mathematics, Informatics and Natural Sciences for Master of Science (MSc) Degree Programs (PDF) Initial version dated 26.10.2005 with amendment dated 05.07.2006
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/unsortiert/masterpo-u-min-u-fakultaet.pdf
 
-## Fachbereich Informatik
+## Department of Computer Science
 
 ## Master
 
 #### Intelligent Adaptive Systems
 
-- FSB für den Masterstudiengang Intelligent Adaptive Systems (PDF)vom 04.04.2018 Subject Specific Provisions for the Master of Science (MSc) in Intelligent Adaptive Systems (PDF)dated 04.04.2018Official translation
+- Subject Specific Provisions for the Master of Science (MSc) in Intelligent Adaptive Systems (PDF) dated 04.04.2018 Official translation
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20180404-fsb-min-ias-552.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20180404-fsb-min-ias-55.pdf | https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20180404-fsb-min-ias-55-en.pdf
 
-- FSB für den Masterstudiengang Intelligent Adaptive Systems (PDF)vom 25.01.2012
+- Subject Specific Provisions for the Master of Science (MSc) in Intelligent Adaptive Systems (PDF) dated 25.01.2012
 Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungsordnungen/mathematik-informatik-und-naturwissenschaften/20120125-fsb-min-msc-ias-10.pdf

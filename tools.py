@@ -1,6 +1,5 @@
-"""Expose University of Hamburg knowledge and application lookup tools."""
+"""Expose University of Hamburg knowledge and live web search tools."""
 
-import json
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -89,30 +88,8 @@ def create_university_web_search_tool() -> FunctionTool:
     )
 
 
-def create_application_lookup_tool(data_dir: Path = DATA_DIR) -> FunctionTool:
-    def lookup_application(application_id: str) -> dict:
-        """Look up a university application by its exact application ID."""
-        with (data_dir / "applications.json").open(encoding="utf-8") as file:
-            applications = json.load(file)
-        return applications.get(
-            application_id.upper(),
-            {"error": "Application not found"},
-        )
-
-    return FunctionTool.from_defaults(
-        fn=lookup_application,
-        name="lookup_application",
-        description=(
-            "Look up an applicant's current application status using an exact "
-            "application ID."
-        ),
-    )
-
-
 if __name__ == "__main__":
     knowledge_tool = create_university_knowledge_tool()
     web_search_tool = create_university_web_search_tool()
-    application_tool = create_application_lookup_tool()
-    print(knowledge_tool.call("When is the application deadline?"))
+    print(knowledge_tool.call("How many credits does the IAS thesis have?"))
     print(web_search_tool.call(query="What are the current registration periods?"))
-    print(application_tool.call(application_id="APP1001"))

@@ -6,7 +6,6 @@ from llama_index.core.workflow import Context
 from llama_index.llms.openai import OpenAI
 
 from tools import (
-    create_application_lookup_tool,
     create_university_knowledge_tool,
     create_university_web_search_tool,
 )
@@ -15,10 +14,9 @@ from tools import (
 async def main():
     knowledge_tool = create_university_knowledge_tool()
     web_search_tool = create_university_web_search_tool()
-    application_tool = create_application_lookup_tool()
 
     agent = FunctionAgent(
-        tools=[knowledge_tool, web_search_tool, application_tool],
+        tools=[knowledge_tool, web_search_tool],
         llm=OpenAI(model="gpt-4o-mini", temperature=0),
         system_prompt=(
             "You are a University of Hamburg study assistant. "
@@ -29,9 +27,7 @@ async def main():
             "Prefer saved official documents for stable information. When using live "
             "search, include the source URLs in the answer. For examination rules, "
             "confirm the student's cohort before selecting a regulation version. "
-            "Use lookup_application for the status of a specific application. "
-            "If an application-status question has no application ID, ask for it. "
-            "Do not invent university information or application details."
+            "Do not invent university information."
         ),
     )
 
