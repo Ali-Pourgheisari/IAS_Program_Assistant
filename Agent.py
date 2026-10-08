@@ -2,17 +2,13 @@ import asyncio
 import json
 
 from llama_index.core.agent.workflow import FunctionAgent, ToolCall, ToolCallResult
+from llama_index.core.workflow import Context
 from llama_index.llms.openai import OpenAI
 
 from tools import create_order_lookup_tool, create_shop_policy_tool
 
 
 async def main():
-    question = input("Your question: ").strip()
-    if not question:
-        print("Please enter a question.")
-        return
-
     policy_tool = create_shop_policy_tool()
     order_tool = create_order_lookup_tool()
 
@@ -28,21 +24,38 @@ async def main():
         ),
     )
 
-    handler = agent.run(user_msg=question)
-    async for event in handler.stream_events():
-        if isinstance(event, ToolCall):
-            print(f"\nTool called: {event.tool_name}", flush=True)
-            print(
-                f"Arguments: {json.dumps(event.tool_kwargs, ensure_ascii=False)}",
-                flush=True,
-            )
-        elif isinstance(event, ToolCallResult):
-            label = "Tool error" if event.tool_output.is_error else "Tool result"
-            print(f"\n{label} ({event.tool_name}):", flush=True)
-            print(event.tool_output.content, flush=True)
+    # Reuse the context so the agent remembers previous turns in this session.
+    context = Context(agent)
+    print("Shop assistant ready. Type 'exit' or 'quit' to stop.")
 
-    response = await handler
-    print(f"\nAgent answer:\n{response}")
+    while True:
+        try:
+            question = input("\nYou: ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print("\nGoodbye!")
+            break
+
+        if question.lower() in {"exit", "quit"}:
+            print("Goodbye!")
+            break
+        if not question:
+            continue
+
+        handler = agent.run(user_msg=question, ctx=context)
+        async for event in handler.stream_events():
+            if isinstance(event, ToolCall):
+                print(f"\nTool called: {event.tool_name}", flush=True)
+                print(
+                    f"Arguments: {json.dumps(event.tool_kwargs, ensure_ascii=False)}",
+                    flush=True,
+                )
+            elif isinstance(event, ToolCallResult):
+                label = "Tool error" if event.tool_output.is_error else "Tool result"
+                print(f"\n{label} ({event.tool_name}):", flush=True)
+                print(event.tool_output.content, flush=True)
+
+        response = await handler
+        print(f"\nAgent answer:\n{response}")
 
 
 if __name__ == "__main__":
