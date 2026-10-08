@@ -1,0 +1,2143 @@
+Source: module_handbook.pdf
+Institution: University of Hamburg
+
+[Page 1]
+Module Handbook Department of Informatics 2024 
+Program
+MasterofScienceIntelligentAdaptiveSystems
+Version: 19.06.2024
+English
+Draft – English translation – not legally binding
+
+[Page 2]
+C
+ontents
+1 Modules of Teaching Unit Informatics 1
+InfM-BAI–Bio-InspiredArtificialIntelligence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+InfM-CV1–ComputerVisionI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+InfM-CV2–ComputerVisionII . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+InfM-DIS–DatabasesandInformationSystems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+InfM-DSM–DistributedSystemsandMiddleware . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+InfM-IR–IntelligentRobotics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+InfM-IS/IAS–IndependentStudy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+InfM-LT–LanguageTechnology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+InfM-MA/IAS–FinalModuleM.Sc.IntelligentAdaptiveSystems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+InfM-ML–MachineLearning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+InfM-NetSec–NetworkSecurity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+InfM-NN–NeuralNetworks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+InfM-OML–OptimizationforMachineLearning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+InfM-Proj–Project . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+InfM-QASA–QuantitativeAnalysisofSoftwareArchitectures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+InfM-RM–ResearchMethods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+InfM-RT–RobotTechnology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+InfM-SSV–SpeechSignalProcessing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+InfM-SWA–SoftwareArchitecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+InfM-UIST–UserInterfaceSoftwareandTechnology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+InfM-WV–KnowledgeProcessing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+i
+
+[Page 3]
+Gener
+al information
+Content of a module description
+Module
+title The
+title of the module
+Module
+number/code The
+number/code for the module (e.g., InfB, InfM, or ITMC-XXX)
+Module
+applicability,typeand
+curriculararea
+E
+xamples:
+MasterofScienceinInformatics: RequiredElective
+MasterofScienceinDataScienceandArtificialIntelligence: Required
+Pr
+erequisites Manda
+tory: othermodulesthatmustbecompletedbeforecommencement,i.e.,passing
+therespectiveexaminations. “None”meansthattherearenotanymandatory
+prerequisites.
+R
+ecommended: prerequisitesforwhichproofofcompletiondoesnotnecessarilyneedto
+besubmittedbeforestartingthemodule. “None”meansthattherearenotany
+recommendedprerequisites.
+Module
+coordinator(s) Gener
+allyaprofessor
+T
+eachingstaff Gener
+allythemodulecoordinator,plusfurtherteachingstaffwhererelevant.
+Languag
+e E
+xamples:
+GermanwithteachingmaterialsinGermanandEnglish;Englishwithteachingmaterials
+inEnglish.
+Master’smodulescanbetaughtinGermanandteachingmaterialsprovidedinGerman
+and/orEnglish. Itmustbepossibletocompleteabachelor’sdegreeprogramsinGerman,
+thatis,requiredmodulesandsufficientrequiredelectivemodulesmustbeofferedin
+Germanforeachdegreeprogram.
+Qualifik
+ationsziele Guiding
+questionforaskills-baseddescriptionoftheQualificationtargets: which
+Qualificationtargetswillstudentshaveachieveduponsuccessfulcompletionofthe
+module?
+Examples: Studentsareabletodesignandvalidatesystemsandarefamiliarwitha
+modelingmethod. Throughpracticalwork,theyhavefurtheredtheirabilitytograsp
+specifictypesofproblemsandselectappropriatesolutions…
+C
+ontents Guiding
+questiononthecontent: Whichspecialist,methodological,practical,and
+interdisciplinarycontentwillbetaughttoensurethemoduleobjectivesaremet?
+C
+oursecomponentsand
+teachingformat(s)
+E
+xample: LectureCourse1(2credithoursperweek)
+E
+xample: ExercisesCourse2(2credithoursperweek)
+W
+orkload
+(coursecomponentsand
+overall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureCourse1 3 28 4
+2 20
+E
+xercisesCourse2 3 28 4
+2 20
+Summe 6 56 84 4
+0
+Br
+eakdownoftheworkloadinhours(30hoursperECTScredit)intoattendance
+hours(P),independentstudy(S)andexaminationpreparation(EP).Asarule,
+thenumberofattendancehoursisequaltothenumberofcredithoursper
+weekmultipliedby14weeks.
+Academic
+requirementsand
+examinations
+E
+xamples:
+Academicrequirements: Regularandsuccessfulparticipationintheseminar/practical
+course. Participationintheseminarisdeemedtohavebeensuccessfulifthetopichas
+beenunderstood,appropriatelyaddressedinapresentation,andexploredinwriting.
+Participationinthepracticalcourseisdeemedtohavebeensuccessfulifallassignments
+havebeencompletedandatleast50%havebeensolvedcorrectly. Anychangestothese
+criteriamustbeannouncedpriortomoduleregistration.
+E
+xamples:
+Examinations: Jointexaminationforallmodulecourses;generallyanoralexaminationin
+theteachinglanguage. Alternatively,awrittenexaminationispossible. Theexamination
+type(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedfortheexaminationsinthismodule.
+Module
+duration One
+semester
+Semester(s
+)offered Semester(s
+)inwhichthecourseisoffered.
+Liter
+ature
+ii
+
+[Page 4]
+K ey
+Credits=ECTScredits
+P(hrs)=attendance(hours)
+S(hrs)=independentstudy(hours)
+EP(hrs)=examinationpreparation(hours)
+MIN-PO=PrüfungsordnungB.Sc.bzw.M.Sc. derMIN-FakultätderUniversitätHamburg
+FSBs=subject-specificprovisionsforthedegreeprogram
+iii
+
+[Page 5]
+1
+Modules of Teaching Unit Informatics
+Module
+title Bio-Inspir
+ed Artificia Intelligence
+Module
+number/code In
+fM-BAI
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusDataScience: Selection
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: none
+Module
+coordinator(s) W
+ermter
+T
+eachingstaff W
+ermter,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsarefamiliarwiththescientificinvestigationanduseofintelligentbehaviorinnature: They
+areacquaintedwiththeprinciplesofbiologicalintelligentstrategies. Studentsareabletocritically
+analyzerelevantcharacteristicsandcanimplementthesecharacteristicsincomputermodelsfor
+intelligentsystemsandrobots.
+C
+ontents Studen
+tsareintroducedtointerdisciplinaryresearchthroughanexplorationofthemethodsof
+artificialintelligencebasedonbiologicalorhumancapabilities. Intheseminar,modelsfromthe
+latestresearchareevaluatedandlinkedtothematerialcoveredinthelecture. Thechangingtopics
+exploredduringtheseminararedeterminedbeforethestartoftheacademicyeartotakeinto
+accountchangingdemandsandcurrentresearchdirections.
+Thecontentfocusesonadvancedmethodsforbio-inspiredAIsystems:
+• cellularsystemsandspikingneuralsystems
+• bio-inspiredimageandlanguageprocessing
+• evolutionarysystemsandbio-inspiredrobots
+• communication-basedcooperationandhuman-robotinteraction
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureBio-InspiredArtificialIntelligence(2credithoursperweek)
+Seminar
+Bio-InspiredArtificialIntelligence(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureBio-InspiredArtificialIntelligence 3 28 4
+2 20
+Seminar
+Bio-InspiredArtificialIntelligence 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar. Participationinaseminaris
+essentiallydeemedtohavebeensuccessfuliftherespectivetopicareashavebeenunderstood,
+adequatelypresentedand,ifapplicable,alsoadequatelyexploredinawrittenpaper. Anychangesto
+thecriteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,anoralexaminationintheteaching
+language. Alternatively,awrittenexaminationispossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature Flor
+eano,D.,Mattiussi,C.,Bio-inspiredArtificialIntelligence: Theories,Methods,andTechnologies.
+MITPress,2008.
+Eberhart,R.C.,Shi,Y.,ComputationalIntelligence: ConceptstoImplementations. Elsevier/Morgan
+Kaufmann,2007.
+1
+
+[Page 6]
+Module
+title C
+omputer Vision I
+Module number/code In fM-CV 1
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusHuman-ComputerInteraction: Selection
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: none
+Module
+coordinator(s) F
+rintrop
+T
+eachingstaff F
+rintrop,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsknowthebasicsofdigitalimageprocessingandcomputervision,reinforcedthrough
+exercises.
+C
+ontents F
+ocusareas: fundamentalsofimageprocessing(digitalfilters,smoothing,andedgedetection),
+featureextraction(DOG,SIFT,andHOG)andobjectrecognitionwithfeatures,imagesegmentation,
+andsuperpixelmethods,andobjectclassificationusingmachinelearningandespeciallydeep
+learning.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureComputerVisionI(2credithoursperweek)
+E
+xercisesComputerVisionI(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureComputerVisionI 3 28 4
+2 20
+E
+xercisesComputerVisionI 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar/exercises. Participationinthe
+seminarisdeemedtohavebeensuccessfulifthetopichasbeenunderstood,appropriately
+addressedinapresentation,andexploredinwriting. Participationintheexercisesisdeemedtohave
+beensuccessfulifallassignmentshavebeencompletedandatleast50%havebeensolvedcorrectly.
+Anychangestothesecriteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,awrittenexaminationintheteaching
+language. Alternatively,anoralexaminationmaybepossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature
+2
+
+[Page 7]
+Module
+title C
+omputer Vision II
+Module number/code In fM-CV 2
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: InfM-CV1
+Module
+coordinator(s) F
+rintrop
+T
+eachingstaff F
+rintrop,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tspossessin-depthknowledgeofcurrentresearchtopicsregardingimageprocessingandare
+abletoindependentlyapplythisknowledgetotheirindividualresearchinthisarea.
+C
+ontents Specific
+currentresearchtopicsinimageprocessingareselectedfordetaileddiscussion. Topicsmay
+includethefollowing: visualattention,saliencydetection,objectdiscovery,activevision,and
+convolutionalneuralnetworks.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureComputerVisionII(2credithoursperweek)
+E
+xercises/SeminarComputerVisionII(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureComputerVisionII 3 28 4
+2 20
+E
+xercises/SeminarComputerVisionII 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar/exercises. Participationinthe
+seminarisdeemedtohavebeensuccessfulifthetopichasbeenunderstood,appropriately
+addressedinapresentation,andexploredinwriting. Participationintheexercisesisdeemedtohave
+beensuccessfulifallassignmentshavebeencompletedandatleast50%havebeensolvedcorrectly.
+Anychangestothesecriteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,anoralexaminationintheteaching
+language. Alternatively,awrittenexaminationispossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,atleasteveryotheryear
+Liter
+ature
+3
+
+[Page 8]
+Module
+title Da
+tabases and Information Systems
+Module number/code In fM-DIS
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Requiredelectivearea–general/FocusDataScience: Atleasttwooutof
+InfM-DIS,InfM-ML,InfM-STSP
+M.Sc.DataScienceandArtificialIntelligence: Requiredelectivearea–FundamentalsofDataScience
+andArtificialIntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence:
+Informatics
+M.Sc.ITManagementandConsulting: Requiredelectivearea–ITdevelopment
+M.Sc.InformationSystems: Requiredelectivearea–InformaticsundSpecialization–Development
+andManagementofInformationSystems
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: In-depthknowledgeoftherelationaldatabasemodel(ERmodeling,normalization,
+relationalalgebra,SQL);basicknowledgeofsemi-structureddatamanagement(XML,XMLschema,
+XMLquerylanguages);basicknowledgeofformallogic(Hornclauselogic,predicatecalculus)
+Module
+coordinator(s) Pr
+ofessurDataEngineering
+T
+eachingstaff Pr
+ofessurDataEngineering,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tshavein-depthknowledgeofthebasicprinciples,concepts,andmethodsofdata
+management,datapreparation,anddataanalysis. Theyareabletohandledataandknowledge
+assetsandtoconceptualizeandimplementdatabaseandinformationsystemsandadaptdatabase
+systemstospecificapplicationcircumstances. Theyaremoreoverawareofthepossibilitiesfor
+integratingdatabasesolutionsintocomplexsoftwaresystems(datawarehousesorweb-based
+distributedinformationsystems).
+C
+ontents Studen
+tsexplorecurrentapproachestothedesignandimplementationofcentralized,distributed,
+andInternet-basedinformationsystems.
+Focusareas: currentdatabasetechnology;object-relationaldatabasesystemsandextensibilityof
+databasesystems;architectureandcomponentsofdatabasemanagementsystems,especially
+transactionmanagement;distributeddatamanagementandwebaccess;datawarehousing;data,
+web,andtextmining;andtheSemanticWeb.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureDatabasesandInformationSystems(4credithoursperweek)
+E
+xercises/SeminarDatabasesandInformationSystems(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureDatabasesandInformationSystems 6 56 56 40
+E
+xercises/SeminarDatabasesandInformationSystems 3 28 7
+0 20
+T
+otalworkload 9 84 12
+6 60
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises/seminar. Participationinthe
+exercisesisdeemedtohavebeensuccessfulifalloftheassignmentshavebeencompletedandat
+least50%havebeensolvedcorrectly. Participationintheseminarisdeemedtohavebeensuccessful
+iftherespectivetopicareahasbeenunderstood,appropriatelypresented,and,ifapplicable,
+exploredappropriatelyinwriting. Anychangestothecriteriamustbeannouncedpriortomodule
+registration.
+E
+xam(s): Jointexaminationforallmodulecourses,generallyawrittenexaminationintheteaching
+language. Alternatively,anoralexaminationmaybepossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature
+4
+
+[Page 9]
+Module
+title Distributed
+Systems and Middleware
+Module number/code In fM-DSM
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules
+M.Sc.IntelligentAdaptiveSystems: ElectiveArea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: KenntnissezuRechnernetzen,verteiltenSystemen,Systemsicherheitund
+Programmierkenntnisse
+Module
+coordinator(s) E
+dinger
+T
+eachingstaff E
+dinger,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsunderstandtheadvancedchallengesofdistributedsystems. Theyareabletoexplainthe
+differentmodelsofdistributedsystems. Studentscanexplainandimplementbasicalgorithmsfor
+errordetection,leaderelection,broadcastandmulticast,consensusprotocolsandgroup
+communication. Theyknowthepurposeofmiddlewareindistributedsystems. Studentscandesign
+andimplemententitiesandcommunicationindistributedsystemsforselectedscenarios.
+C
+ontents The
+lecturedealswithadvancedresearchquestionsinthefieldofdistributedsystemsand
+middleware. Buildingonbasicknowledgeofcomputernetworksanddistributedsystems,thecourse
+willfocusinparticularonalgorithmsusedincomplexdistributedsystems. Furthermore,knowledge
+aboutthefunctionalityanduseofmiddlewaresisimpartedanddiscussedusingcurrentexamples
+fromresearch.
+Thefollowingtopicsaregenerallycovered:
+• Errordetectionindistributedsystems
+• LeaderElection
+• Reliablebroadcastandepidemicalgorithms
+• Consensusprotocols
+• Groupcommunicationandsynchronization
+• Distributedstatedetection
+• Exclusionindistributedsystems
+• Logicalclocks
+• Replication
+• Distributedcomputation(includingMapReduce)
+• Middleware(distributedobjects,nameservices,remotemethodcalls)
+Intheaccompanyingexercise,studentsdesignanddevelopadistributedsystemwithaspecialfocus
+onthealgorithmscoveredinthelecture. Eachsemester,thefocuswillbeonadifferenttopic. The
+designandimplementationarepresentedanddiscussedwithinthegroupaspartoftheexercises.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureDistributedSystemsandMiddleware(2credithoursperweek)
+E
+xercisesDistributedSystemsandMiddleware(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureDistributedSystemsandMiddleware 3 28 4
+2 20
+E
+xercisesDistributedSystemsandMiddleware 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Participationintheexercisesis
+deemedsuccessfulwhenasuitabledistributedsystemwasdevelopedandpresentedaspartofthe
+exercises. Anychangestothecriteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,awrittenexaminationintheteaching
+language. Alternatively,anoralexaminationmaybepossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature Distributed
+Systems: ConceptsandDesign;GeorgeCoulouris,JeanDollimore,TimKindberg,Gordon
+Blair;5. Ausgabe,PearsonVerlag
+5
+
+[Page 10]
+Module
+title In
+telligent Robotics
+Module number/code In fM-IR
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusHuman-ComputerInteraction: Selection
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.ITManagementandConsulting: Requiredelectivearea–ITdevelopment
+M.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Basicknowledgeofknowledgeprocessing
+Module
+coordinator(s) Zhang
+T
+eachingstaff Zhang
+,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsarefamiliarwiththephysicalformsofperceptionintermsoftheirapplicationsinrobotics.
+Theycanapplysensor-basedtechniquesinroboticsandothertechnicalsystems. Theymasterbasic
+techniquesofintelligentsystemsandunderstandtheirpossibleapplicationsintechnicalsystems.
+Theywillhaveanoverviewofapplicationareasandimplementationapproachesformachine
+learningmethods.
+C
+ontents Gener
+alsensorcharacteristicsandclassification,integratedsensordataprocessing,sensorsfor
+variousmeasurementmodalities(e.g.haptic,visual),perception-actioncycles,robotbehavior
+controlarchitectures,multisensorfusionandfiltering,applicationsofmachinelearningapproaches
+inrobotics.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureIntelligentRobotics(2credithoursperweek)
+Seminar
+IntelligentRobotics(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureIntelligentRobotics 3 28 4
+2 20
+Seminar
+IntelligentRobotics 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar(seminarworkandapresentation
+intheteachinglanguage).
+E
+xam(s): Generally,anoralexaminationintheteachinglanguage(onallofthecontentcovered
+duringthelectureandseminar). Alternatively,awrittenexaminationispossible. Theexamination
+type(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature
+6
+
+[Page 11]
+Module
+title Independen
+t Study
+Module number/code In fM-IS/IAS
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: none
+Module
+coordinator(s) W
+ermter
+T
+eachingstaff W
+ermter,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsareabletoindependentlyexpandanddeepentheirknowledgeandskillsinthefieldof
+intelligentadaptivesystems. Theycanindependentlyanalyzeproblemsanddevelopproposalsfor
+solutionsusinginformaticsconcepts,whileplacingspecialemphasisonintelligentadaptive
+systems. Theyareabletopresenttheirfindingsinwritingandduringapresentation.
+C
+ontents Studen
+tslearntousescientifictoolstoanalyzeapracticalproblemanddevelopasolution.
+Theyprepareawrittenpaperandpresenttheirfindingsinacolloquium. Withthismodule,theypick
+upanissueininformaticsandexamineitusingconceptsfrominformatics. Studentsconsultwith
+theirsupervisorregularlyduringthestudy;thiscantakeplaceduringaseminar.
+C
+oursecomponentsandteaching
+format(s)
+Betr
+euteProjektstudie(noscheduledcourse,thereforenocredithoursperweek)
+Studen
+tmaychoosebetweenaworkloadof3ECTSor6ECTS.Maybeconducted
+multipletimes,uptoatotalof6ECTSinrequiredelectivesand12ECTSoverall
+(includingfreeelectives).
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+Betr
+euteProjektstudie 3/6 0 75/150 15/30
+T
+otalworkload 3/6 0 75/150 15/30
+Academic
+requirementsand
+examinations
+C
+oursework: none
+E
+xam(s): Generally,apresentationandatermpaper,bothinEnglish. Anoverallfinalgradewillbe
+awardedforthepresentationandtermpaper.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered E
+verysemester,everyyear
+Liter
+ature
+7
+
+[Page 12]
+Module
+title Languag
+e Technology
+Module number/code In fM-LT
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusDataScience: Selection
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Basicknowledgeofautomaticlanguageprocessing;basicknowledgeofmachine
+learning
+Module
+coordinator(s) Biemann
+T
+eachingstaff Biemann,
+N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsgainin-depthknowledgeinselectedareasofthemachineprocessingofnaturallanguage.
+Theyareabletoassesstheviabilityandtransferabilityofmethodsofnaturallanguageprocessing
+andarefamiliarwithandunderstandthelatestresearchfindings.
+C
+ontents Studen
+tslearnthealgorithmicandmethodologicalfoundationsofnaturallanguagemachine
+processing.
+Howdoeslanguagetechnologywork? Howdoesthecomputerrecognizewordforms? Howcan
+synonymsbeusedforthesearch? Studentsexaminetheuseofalgorithmsinspeechtechnology
+applications. Inadditiontomachinelearninganddatastructuresforstoringandmanipulatingtext,
+applicationssuchasmachinetranslationandsemanticsearchesareexplored. Thepracticaluseof
+languageprocessingsoftwareisconsideredandthetheoryconsolidatedintheaccompanying
+practicalcourse.
+Aselectionofthetopicscovered:
+• computermorphology
+• sequenceclassification
+• topicmodeling
+• distributionalsemantics
+• statisticalmachinetranslation
+• neuralmethodsoflanguagecomprehension
+• distributionalsemantics
+• wordmeaninganddisambiguation
+• largelanguagemodels
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureLanguageTechnology(2credithoursperweek)
+E
+xercisesLanguageTechnology(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureLanguageTechnology 3 28 4
+2 20
+E
+xercisesLanguageTechnology 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Participationintheexercisesis
+deemedsuccessfulwhenalloftheexerciseshavebeencompletedandatleast50%havebeen
+solvedcorrectly. Anychangestothecriteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses,generallyawrittenexaminationintheteaching
+language. Alternatively,anoralexaminationmaybepossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature Jur
+afsky,D.andMartin,J.H.(2009): SpeechandLanguageProcessing. AnIntroductiontoNatural
+LanguageProcessing,ComputationalLinguisticsandSpeechRecognition. SecondEdition. Pearson:
+NewJersey
+Manning,C.D.andSchütze,H.(1999): FoundationsofStatisticalNaturalLanguageProcessing. MIT
+Press: Cambridge,Massachusetts
+Carstensen,K.U.,Ebert,Ch.,Endriss,C.,Jekat,S.,Klabunde,R.andLanger,H.(Editors)(2004):
+ComputerlinguistikundSprachtechnologie. EineEinführung. 2 nd edition. Spektrum: Heidelberg
+Furthertopic-specificliterature
+8
+
+[Page 13]
+Module
+title Final
+Module M.Sc. Intelligent Adaptive Systems
+Module number/code In fM-MA/IAS
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: Vgl. §14derMIN-POsowiedieFSBzu§14
+R
+ecommended: none
+Module
+coordinator(s) Studieng
+angsverantwortliche(r)
+T
+eachingstaff Gemäß
+BeschlussdesPrüfungsausschusses
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets • Studen
+tspossesstheabilitytoworkindependentlyonacomplex,scientificproblemfromthe
+fieldofinformaticsusingscientificmethods
+• Theypossessadvancedproblem-solvingskillsandtheabilitytotransferthetheoreticaland
+methodologicalknowledgeofinformaticstonewareasofapplication
+• Theyareabletoscientificallyevaluateandclassifytheirownworkagainstthebackgroundof
+currentresearchworkregardingthechosentopic
+• Theyareabletodocumentproblemanalyses,approachestosolutions,andempiricalfindings
+inaccordancewithscientificstandards
+• Theyareabletopresent,scientificallyevaluate,anddiscusstheapproachestosolutionsboth
+verballyandinwriting.
+C
+ontents Das
+ThemaderArbeitsolltedieEntwicklung,Verfeinerung,Implementierungund/oderValidierung
+einerinformatischenMethodeumfassen. DieBearbeitungerfolgtinderRegelinfolgendenPhasen:
+• EinarbeitungindieThematikundindenaktuellenStandderForschung
+• Erarbeitung/AuswahlderMethodenundTechnikenzurProblemlösung
+• EntwicklungeinesLösungskonzeptes
+• Implementierung/RealisierungdeseigenenKonzeptes/Ansatzes
+• ValidierungundBewertungderErgebnisse
+• WissenschaftlicheDarstellungderErgebnisseinschriftlicherFormundalsReferatmit
+anschließenderDiskussion
+C
+oursecomponentsandteaching
+format(s)
+Master
+arbeitundPräsentationineinemKolloquium(noscheduledcourse,thereforenocredithours
+perweek)
+Z
+urDauersiehe§14derPrüfungsordnungderFakultätfürMathematik,Informatikund
+NaturwissenschaftenfürStudiengängemitdemAbschlussMasterofSciencesowiedie
+FachspezifischenBestimmungenzu§14(Masterarbeit).
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+Master
+arbeitundPräsentationineinemKolloquium 30 - - -
+T
+otalworkload 30 - - -
+Academic
+requirementsand
+examinations
+C
+oursework: none
+E
+xam(s): Masterarbeit(90%)undKolloquium(10%).
+NähereszurModulprüfungregelt§14derPrüfungsordnungderFakultätfürMathematik,Informatik
+undNaturwissenschaftenfürStudiengängemitdemAbschluss“MasterofScience”sowiedie
+FachspezifischenBestimmungenzu§14(Masterarbeit).
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration see
+details
+Semester(s
+)offered E
+verysemester
+Liter
+ature
+9
+
+[Page 14]
+Module
+title Machine
+Learning
+Module number/code In fM-ML
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Requiredelectivearea–generalundRequiredelectivearea–theory/FocusData
+Science: AtleasttwooutofInfM-DIS,InfM-ML,InfM-STSP
+M.Sc.DataScienceandArtificialIntelligence: Requiredelectivearea–FundamentalsofDataScience
+andArtificialIntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence:
+Informatics
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Basicknowledgeoflinearalgebra,stochastics,datamining,Python
+Module
+coordinator(s) Laue
+T
+eachingstaff Laue
+,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tshavein-depthknowledgeofthevariousapproachestolearningfromdata,includingtheir
+limitations. Theyareabletocomparelearningmethodsintermsofspecificapplicationconditions.
+Theyareabletosystematicallyclassifynewprocedures. Theycandesign,implement,andevaluatea
+learningsystemforagiventask. Theycanpresentempiricalfindingsfromthefieldofmachine
+learning.
+C
+ontents Theor
+eticalfoundationsofmachinelearning;Bias-variancetrade-off;Regularization;Model
+selectionandmodelevaluation;Supervisedlearningmethodsforregressionandclassification
+(linearmethods,non-linearmethods,kernelmethods,decisiontrees);Methodsofunsupervised
+learning(dimensionreduction,clustering,matrixcompletion);Reinforcementlearning.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureMachineLearning(4credithoursperweek)
+E
+xercises/SeminarMachineLearning(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureMachineLearning 6 56 56 40
+E
+xercises/SeminarMachineLearning 3 28 7
+0 20
+T
+otalworkload 9 84 12
+6 60
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises/seminar. Participationinthe
+exercisesisdeemedtohavebeensuccessfulifalloftheassignmentshavebeencompletedandat
+least50%havebeensolvedcorrectly. Participationintheseminarisdeemedtohavebeensuccessful
+iftherespectivetopicareahasbeenunderstood,appropriatelypresented,and,ifapplicable,
+exploredappropriatelyinwriting. Anychangestothecriteriamustbeannouncedpriortomodule
+registration.
+E
+xam(s): Jointexaminationforallmodulecourses,generallyawrittenexaminationintheteaching
+language. Alternatively,anoralexaminationmaybepossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature
+10
+
+[Page 15]
+Module
+title Netw
+ork Security
+Module number/code In fM-NetSec
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Requiredelectivearea–general/FocusIT-Security: AtleastoneofInfM-NetSec,
+InfM-SbD
+M.Sc.ITManagementandConsulting: ElectiveArea
+M.Sc.InformationSystems: ElectiveArea
+M.Sc.Bioinformatics: ElectiveArea
+M.Sc.IntelligentAdaptiveSystems: ElectiveArea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: KenntnisseimBereichAlgorithmik,Mathematik,Rechnernetze,verteilteSysteme,
+IT-Sicherheit
+Module
+coordinator(s) Fischer
+T
+eachingstaff Fischer
+,N.N.
+Languag
+e German
+withteachingmaterialsinEnglishorEnglishwithteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tshaveabasicunderstandingofthreatsandattackstonetworksaswellasnetworksecurity
+mechanismsandsecurityprotocols. Theyareabletoapplytheirknowledgeinpracticetosecure
+communicationvianetworksaswellasthenetworksthemselves. Theycanalsoperformforensic
+analyses(e.g.,usingnetworkdata)andareproficientinusingthecorrespondingtools. Studentsare
+abletoworkinsmallergroupstodevelopsolutionstoproblems.
+C
+ontents T
+opics:
+• attacksonnetworksandnetworkedsystems
+• cryptographicprotocolsinnetworksecurity
+• networksecurityprotocolsatvariouslevelsoftheInternetmodel
+• protectionofcriticalInternetservices
+• networkmonitoringandforensics
+Thelectureiscomplementedwithapracticalcourseduringwhichstudentsexplorethematerial
+coveredduringthelectureingreaterdepth,mainlybyworkingonpracticaltasksinsmallgroups.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureNetworkSecurity(4credithoursperweek)
+E
+xercisesNetworkSecurity(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureNetworkSecurity 6 56 84 40
+E
+xercisesNetworkSecurity 3 28 4
+2 20
+T
+otalworkload 9 84 12
+6 60
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Participationintheexercisesis
+deemedtohavebeensuccessfuliftherespectivetopichasbeenunderstood,appropriately
+presented,and,ifapplicable,exploredappropriatelyinwriting. Anychangeswillbeannouncedprior
+tomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,anoralexaminationintheteaching
+language. Alternatively,awrittenexaminationispossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature G.
+Schäfer,M.Rossberg. Netzsicherheit. dpunkt.verlag,676pages,Hardcover,2014.
+W.Stallings. CryptographyandNetworkSecurity: PrinciplesandPractice. Hardcover,752pages,
+Pearson,8thedition,2020.
+C.Eckert. IT-Sicherheit: Konzepte,Verfahren,Protokolle. zehnteAuflage,OldenbourgVerlag,932
+pages,2018.
+11
+
+[Page 16]
+Module
+title Neur
+al Networks
+Module number/code In fM-NN
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules
+M.Sc.DataScienceandArtificialIntelligence: Requiredelectivearea–FundamentalsofDataScience
+andArtificialIntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence:
+Informatics
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Knowledgeinbio-inspiredartificialintelligence
+Module
+coordinator(s) W
+ermter
+T
+eachingstaff W
+ermter,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tshaveanin-depthunderstandingofartificialneuralnetworksandtheirintegrationinto
+informaticsarchitectures. Theycananalyzeandunderstandcomplexproblemsanddevelop
+adequatesolutionsforthem.
+C
+ontents Studen
+tsareintroducedtocurrentresearchinknowledgeprocessingwithneuralnetworks,enabling
+themtoparticipateinresearchunderguidance. Thelectureprovidesacomprehensiveoverviewof
+artificialneuralnetworksandtheiruseandintegrationintohybridneural/symbolicsystems. Inthe
+seminar,modelsfromthelatestresearchareevaluatedandlinkedtothematerialcoveredinthe
+lecture. Thechangingtopicsexploredduringtheseminararedeterminedbeforethestartofthe
+academicyeartotakeintoaccountchangingdemandsandcurrentresearchdirections.
+Lecturetopics:
+• neuralnetworks: frombasicmodelstoadvancednetworks
+• unsupervisedandreinforcementlearningwithneuralnetworks
+• hybridsymbolicandneuralarchitectures
+• neuralclusteringandclassification
+• neuralmodelsforcognitiveprocessing
+• neuroscience-inspiredarchitecturesforcognitiverobots
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureNeuralNetworks(2credithoursperweek)
+Seminar
+NeuralNetworks(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureNeuralNetworks 3 28 4
+2 20
+Seminar
+NeuralNetworks 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar. Participationintheseminaris
+deemedtohavebeensuccessfuliftherespectivetopichasbeenunderstood,appropriately
+presented,and,ifapplicable,exploredappropriatelyinwriting. Anychangestothecriteriamustbe
+announcedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,anoralexaminationintheteaching
+language. Alternatively,awrittenexaminationispossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature Ha
+ykinS.: Neuralnetworksandlearningmachines. PrenticeHall,2008
+WermterS.,SunR.: HybridNeuralSystems. SpringerVerlag,Heidelberg,2000
+12
+
+[Page 17]
+Module
+title Optimiz
+ation for Machine Learning
+Module number/code In fM-OML
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: ElectiveArea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: InfM-ML,basicknowledgeoflinearalgebra,analysis,Python
+Module
+coordinator(s) Laue
+T
+eachingstaff Laue
+,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Man
+yproblemsinthefieldofmachinelearningandartificialintelligencerequirethesolutionofan
+optimizationproblem. Thisappliestobothclassicalmachinelearningandmoderndeeplearning
+methods. Thetheoreticalfoundationsofoptimizationalgorithmsandtheirpractical
+implementationinPythonarecoveredwithaspecialfocusonmachinelearningproblems. Students
+knowandunderstandthetheoreticalguarantees/runtimesandlimitsofvariousoptimization
+algorithms. Theyknowwhichalgorithmtochooseforaspecificmachinelearningproblemandhow
+toefficientlyimplementoptimizationalgorithmsformachinelearning. Theyareawareofnumerical
+robustnessandroundingerrorsinoptimizationalgorithms.
+C
+ontents The
+theoreticalfoundationsofoptimizationalgorithmsaswellastheirpracticalimplementation
+andapplicationtomachinelearningarecovered. Thismeansthatdifferentalgorithmsare
+introducedandtheirrunningtimesareanalyzed,lowerboundsfordifferentfunctionclassesare
+provenandthesealgorithmsareimplementedinPythonandappliedtodifferentmachinelearning
+problems. Therefore,priorknowledgeoflinearalgebra,analysisandprobabilitytheoryaswellas
+knowledgeofwritingPythoncodeisessential.
+Inparticular,thefollowingtopicsarecoveredinmoredetail:
+• Fundamentalsofoptimization,whereoptimizationisusedinmachinelearning
+• Generalalgorithmsforsolvingunconstrainedoptimizationproblemsincludingtheirruntime
+analysis
+• Specializedalgorithmsthatareoftenusedinmachinelearning,e.g.Frank-Wolfemethods,
+conditionalgradientdescent,coordinatedescent,proximalmethods
+• Optimizationproblemswithgeneralconstraintsandalgorithmstosolvethem,dualitytheory
+• Optimizationalgorithmsusedforlargeproblemsanddeeplearning,e.g.variousstochastic
+gradientdescentmethodssuchasSGD,Adam,AdaGrad,RMSProp
+• Efficientcalculationofmatrixandtensorderivatives,algorithmicdifferentiation(AD)
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureOptimizationforMachineLearning(2credithoursperweek)
+E
+xercisesOptimizationforMachineLearning(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureOptimizationforMachineLearning 3 28 4
+2 20
+E
+xercisesOptimizationforMachineLearning 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Participationisdeemedtohave
+beensuccessfulifasolutionhasbeenpresentedatleastonceduringtheexercisesandasolution
+successfullypresentedfortheexercisesaccompanyingtheentirelecturephase. Anychangestothe
+criteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses,generallyawrittenexamination(90minutes)in
+theteachinglanguage. Alternatively,anoralexaminationmaybepossible. Theexaminationtype(s)
+willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature
+13
+
+[Page 18]
+Module
+title Pr
+oject
+Module number/code In fM-Proj
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Requiredarea
+M.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: IndividuelleProjektekönnenspezifischeinhaltlicheVoraussetzungenempfehlen.
+Module
+coordinator(s) Studieng
+angsverantwortliche(r)
+T
+eachingstaff L
+ehrendedesFachbereichsInformatik,N.N
+Languag
+e German
+withteachingmaterialsinGermanandpossiblyinEnglishorEnglishwithteaching
+materialsinEnglish
+Qualifica
+tiontargets Die
+StudierendenhabendieFähigkeitzurEinarbeitunginneueAufgabenstellungenundzumLösen
+anspruchsvollerInformatik-AufgabenmitwissenschaftlichenMethoden(unterAnleitung)imTeam
+erlangt. SiebesitzenvertiefteFähigkeitzurselbstständigenErarbeitungfachlicherInhalteausder
+OriginalliteraturundzurPräsentationfremderundeigenerProblemstellungenund-lösungenin
+ReferatundschriftlicherForm.
+C
+ontents Die
+typischenPhaseneinesEntwicklungsprojekteswerdenunterderberuflichenPraxis
+weitestgehendentsprechendenRahmenbedingungenimTeamdurchlaufen,umberufsbefähigende
+Kompetenzenzuvermitteln. WissenschaftlichesArbeitenwirdgefördert,daaktuelle
+Forschungsinhalteaufgegriffenundverarbeitetwerdensollen,umdieProblemlösungskompetenz
+zuerweitern. DesWeiterenwirddieTransferkompetenzbesondersgestärkt,daderTheorie-und
+MethodenschatzderInformatikaufkomplexe,neuartigeProblemeanzuwendenist. Nebender
+Bearbeitunggrößerertheoretischer,konstruktiverund/oderexperimentellerAufgaben(inderRegel
+SystementwicklungnachSoftwaretechnik-Methoden)ineinemInformatik-Fachgebietistdie
+Rechercheaktueller,wissenschaftlicherPublikationenzumübergeordnetenProjektthemaund
+gegenseitigeVermittlungderinhaltlichenGrundlagenderErgebnisseimintegriertenSeminar
+integralerBestandteildesProjekts.
+C
+oursecomponentsandteaching
+format(s)
+Pr
+oject(6credithoursperweek)
+In
+tegratedSeminar(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+Pr
+oject 9 84 12
+6 60
+In
+tegratedSeminar 3 28 4
+2 20
+T
+otalworkload 12 112 168 80
+Academic
+requirementsand
+examinations
+C
+oursework: DieZulassungzurModulprüfungsetztdieaktiveTeilnahmeandemProjektunddem
+integriertenSeminar,einekontinuierlicheBeteiligungsowieeineerfolgreicheProjektmitarbeitund
+dieVorstellungderErgebnisse/LösungsansätzeinReferatundschriftlicherAusarbeitungvoraus.
+E
+xam(s): ProjektabschlussinFormeinesAbschlussberichtsinderUnterrichtssprachefürProjektund
+integriertesSeminar
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1-2
+semesters
+Semester(s
+)offered E
+verysemester
+Liter
+ature
+14
+
+[Page 19]
+Module
+title Quan
+titative Analysis of Software Architectures
+Module number/code In fM-QASA
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusSoftwareEngineering: Selection
+M.Sc.IntelligentAdaptiveSystems: ElectiveArea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: InfM-SWA;GrundkenntnisseundInteresseinSoftware-Engineeringund
+Software-Qualität
+Module
+coordinator(s) Pr
+ofessurSoftwarearchitektur
+T
+eachingstaff Pr
+ofessurSoftwarearchitektur,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tsareabletodocument,analyze,andinterpretquantitativerequirementsandpropertiesof
+softwarearchitecturesusingdescriptiveandprescriptivemodelingformalismsaswellasmodel-and
+measurement-basedevaluationmethods,techniques,andtools.
+C
+ontents Sof
+twarequalityiskeytothesuccessofsoftwaresystems. Studentsareintroducedtorelevant
+principlesofquantitativesoftwarequalityattributesandmodelingformalismsduringthelecture,
+wherebythefocusisonsoftwareruntimequalityattributes. Buildingonthis,quantitative
+assessmentapproachesarepresentedusingdesignandanalysismodelsandmeasurement-based
+approachessuchasloadandresiliencetesting,monitoring,andbenchmarkingaswellasadvanced
+approachesandthelatestresearchfindings. Theconceptscoveredduringthelecturearediscussed,
+applied,andexploredingreaterdepthduringthepracticalcourseusingexamplesandtools.
+Topicscovered:
+• metricsandobjectivevaluesofsoftwareruntimequalitywithafocusonperformance,
+availability,scalability,elasticity,andresilience,includingstatisticalfoundations
+• descriptionsofsoftwarearchitecture(UML2profilesandDSLs)withquantitativeproperties
+• probabilisticanalysismodelingformalismsandsolutiontechniques,e.g.,Markovchains,
+queuingmodels(variants),Petrinets(variants),andfaulttrees
+• transformationsbetweendesignandanalysismodelsandtheirfindings
+• measurement-basedtechniques,e.g.,loadandresiliencetesting/benchmarksandmonitoring
+• advancedtopics,e.g.,scenario-basedarchitectureassessment,trade-offanalysis,
+multi-objectiveoptimization,modelextraction/calibration,andhybridassessment
+approaches,thatis,thecombinationofmodelsandmeasurements
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureQuantitativeAnalysisofSoftwareArchitectures(2credithoursperweek)
+E
+xercisesQuantitativeAnalysisofSoftwareArchitectures(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureQuantitativeAnalysisofSoftwareArchitectures 3 28 4
+2 20
+E
+xercisesQuantitativeAnalysisofSoftware
+Architectures
+3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Participationintheexercisesis
+deemedsuccessfulwhenalloftheexerciseshavebeencompleted,atleast50%havebeensolved
+correctly,andatleastonesolutionhasbeenpresented. Anychangestothecriteriamustbe
+announcedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,anoralexaminationintheteaching
+language. Alternatively,awrittenexamination(lasting90minutes)ispossible. Theexamination
+type(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,offeredoccasionally
+Liter
+ature L
+.Bass,P.Clemens,R.Kazman: SoftwareArchitectureinPractice,FourthEdition. AddisonWesley,
+2021
+V.Cortellessa,A.DiMarco,P.Inverardi: Model-BasedSoftwarePerformanceAnalysis. Springer,2014.
+K.S.Trivedi,A.Bobbio: ReliabilityandAvailabilityEngineering: Modeling,Analysis,andApplications.
+CambridgeUniversityPress,2017.
+S.Kounev,K.-D.Lange,J.vonKistowski: SystemsBenchmarking: ForScientistsandEngineers,
+Springer,2021.
+15
+
+[Page 20]
+Module
+title R
+esearch Methods
+Module number/code In fM-RM
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: none
+Module
+coordinator(s) W
+ermter
+T
+eachingstaff W
+ermter,N.N.
+Languag
+e English
+withteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tshaveanin-depthunderstandingofscientificmethodsandtheirapplicationsinthefieldsof
+informaticsandartificialintelligence:
+• Theyarefamiliarwiththebasicprinciplesofscientificresearch.
+• Theycandefineandconductexperiments.
+• Theyareabletotesthypothesesandperformstatisticalevaluationsonthese.
+C
+ontents Studen
+tsareintroducedtoscientificprocesses–fromdesignoftheexperimentthroughits
+executiontodataanalysisandpublication. Methodsandtoolsusedparticularlyinthefieldsof
+informaticsandartificialintelligencearediscussed. Thetopicscoveredincludevarioustypesof
+empiricalstudiesandtheirrangeofuses,statisticalmethodsfordataanalysis,andscholarly
+publicationanddiscourse. Theinteractivelectureiscomplementedbyamixofaseminaranda
+practicalcourseduringwhichstudentscangainpracticalexperienceintheconceptstaught.
+Studentsconducttheirownexperimentsandanalyzeanddiscussthedatacollectedtoreinforce
+whattheyhavelearned.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureResearchMethods(2credithoursperweek)
+E
+xercises/SeminarResearchMethods(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureResearchMethods 3 28 4
+2 20
+E
+xercises/SeminarResearchMethods 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar(seminarworkandapresentation
+intheteachinglanguage).
+E
+xam(s): Generally,anoralexaminationintheteachinglanguage(onallofthecontentcovered
+duringthelectureandseminar). Alternatively,awrittenexaminationispossible. Theexamination
+type(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature P
+aulR.Cohen. Empiricalmethodsforartificialintelligence,MITPress,Cambridge,Mass. 1995
+M.LawandW.D.Kelton,editors. SimulationModellingandAnalysis. McGraw–￿HillEducation,2000.
+S.M.Ross. IntroductiontoProbabilityModels. Harcourt,7thedition,2000.
+16
+
+[Page 21]
+Module
+title R
+obot Technology
+Module number/code In fM-RT
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusHuman-ComputerInteraction: Selection
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Basicknowledgeofknowledgeprocessing
+Module
+coordinator(s) Zhang
+T
+eachingstaff Zhang
+,N.N.
+Languag
+e German
+orEnglishwithteachingmaterialsinGermanorEnglish
+Qualifica
+tiontargets Studen
+tsmasterthemathematicaltoolsfordescribingroboticsystems. Theyareabletoapplyand
+developcomponentsforrealrobots.
+C
+ontents Pr
+actice-orientedmathematicaltoolsforthedescriptionofroboticsystemsareexplained. Methods
+forgeneratingtrajectories/pathsfordifferenttypesofrobotssuchasrobotarms,mobileand
+humanoidrobotsaretaught. Thebasicsofcontroltheoryarealsointroduced. Thetheoretical
+knowledgeisreinforcedwithpracticalexercises.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureRobotTechnology(2credithoursperweek)
+E
+xercisesRobotTechnology(1credithourperweek)
+Pr
+acticalCourseRobotPracticalCourse(1credithourperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureRobotTechnology 3 28 4
+2 20
+E
+xercisesRobotTechnology 2 14 36 10
+Pr
+acticalCourseRobotPracticalCourse 1 14 14 2
+T
+otalworkload 6 56 9
+2 3
+2
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercisesandpracticalcourse. Participation
+intheexercisesisdeemedsuccessfulifalltaskshavebeencompletedandatleast50%havebeen
+solvedcorrectly. Successfulparticipationinthepracticalcourserequiresregularattendance,
+continuousparticipation,andsuccessfulcollaboration. Anychangeswillbeannouncedpriorto
+moduleregistration.
+E
+xam(s): Generally,anoralexaminationintheteachinglanguage(onallofthecontentcovered
+duringthelecture,exercises,andpracticalcourse). Alternatively,awrittenexaminationispossible.
+Theexaminationtype(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature
+17
+
+[Page 22]
+Module
+title Speech
+Signal Processing
+Module number/code In fM-SSV
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusHuman-ComputerInteraction: Selection
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.ITManagementandConsulting: Requiredelectivearea–ITdevelopment
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Basicknowledgeinsignalprocessing
+Module
+coordinator(s) Gerkmann
+T
+eachingstaff Gerkmann,
+N.N.
+Languag
+e German
+orEnglishwithteachingmaterialsinEnglish
+Qualifica
+tiontargets Studen
+tscanexplainthebasicsofspeechproduction,perception,andanalysis;understandthe
+mathematicalandinformationtheoreticfoundationsofspeechsignalprocessing;andapplythe
+methodslearnedandexplainthefunctionsofpracticalspeechsignalprocessingsystems.
+C
+ontents Languag
+eisprobablythemostnaturalandimportantmethodofinterpersonalcommunication.
+However,voicecommandsarealsobecomingincreasinglyimportantinhuman-machineinteraction.
+Speechcommunicationdevicessuchassmartphones,hearingaids,andvoice-controlledassistants
+enableorsimplifycommunicationbymeansofmodernsignalprocessingconcepts. Inthislecture,
+studentslearnaboutbasicspeechsignalprocessingconceptsusedinsmartphones,assistive
+listeningdevices,andvoice-controlledassistants. Inparticular,themodulelooksatthefollowing:
+• signal-relatedfundamentalsofspeechgeneration
+• speechperception
+• speechanalysis
+• speechenhancement
+• speechcoding(speechcompression)
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureSpeechSignalProcessing(2credithoursperweek)
+E
+xercisesSpeechSignalProcessing(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureSpeechSignalProcessing 3 28 4
+2 20
+E
+xercisesSpeechSignalProcessing 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Anychangestothecriteriamust
+beannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses;generally,anoralexaminationintheteaching
+language. Alternatively,awrittenexaminationispossible. Theexaminationtype(s)willbe
+announcedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered Summer
+semester,everyyear
+Liter
+ature P
+.Vary,R.Martin: DigitalSpeechTransmission,Wiley2006.
+V.Pulkki,M.Karjalainen,CommunicationAcoustics,Wiley2015.
+J.Benesty,M.M.Sondhi,Y.Huang(Eds.): HandbookofSpeechProcessing,Springer,2008.
+R.C.Hendriks,T.Gerkmann,J.Jensen,“DFT-DomainBasedSingle-MicrophoneNoiseReductionfor
+SpeechEnhancement–ASurveyoftheStateoftheArt”,SynthesisLecturesonSpeechandAudio
+Processing,Morgan&ClaypoolPublishers,pp.1-80,Jan2013.
+18
+
+[Page 23]
+Module
+title Sof
+tware Architecture
+Module number/code In fM-SWA
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusSoftwareEngineering: Selection
+M.Sc.DataScienceandArtificialIntelligence: Requiredelectivearea–FundamentalsofDataScience
+andArtificialIntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence:
+Informatics
+M.Sc.ITManagementandConsulting: Requiredelectivearea–ITdevelopment
+M.Sc.InformationSystems: Requiredelectivearea–InformaticsundSpecialization–Development
+andManagementofInformationSystems
+M.Sc.IntelligentAdaptiveSystems: Requiredmodules
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Programmingskillsinanobject-orientedprogramminglanguage
+Module
+coordinator(s) Pr
+ofessurSoftwaretechnik
+T
+eachingstaff Pr
+ofessurSoftwaretechnik,vanHoorn,N.N.
+Languag
+e English
+withteachingmaterialsinEnglishorGermanwithteachingmaterialsinGermanand
+possiblyinEnglish
+Qualifica
+tiontargets Studen
+tshaveasoundunderstandingoftherequirementsforsoftwarearchitectureasacomponent
+inthedevelopmentofcomplexsystems. Theypossessfundamentalknowledgeofthemethods,
+principles,techniques,andproceduresinvolvedinthedevelopmentofsoftwarearchitectures.
+C
+ontents Studen
+tstakeacloserlookatsoftwaredesigninthelarge,wherebythefollowingtopicsarecovered
+ingreaterdepthandrelevantliteratureandpracticalexperiencearealsotakenintoaccount:
+• Introductiontosoftwarearchitecture(relevance,basicterminologyandconcepts)
+• Briefintroductionintorequirementsengineeringanditsrelationshiptosoftwarearchitecture
+• Theroleofthepersonresponsibleforsoftwarearchitecture
+• Methodsandproceduresforarchitecturedesign
+• Specification,modelinganddocumentationofsoftwarearchitectures
+• Architectureguidelinesandprinciples
+• Architecturepatternsandstyles
+• Variabilityandproductlinearchitectures
+• Architectureevaluation,qualityassurance,architectureoptimization
+• Cloud-nativearchitecturalstylessuchasmicroservicesandserverless
+• Toolsupport
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureSoftwareArchitecture(2credithoursperweek)
+Seminar
+Architecture-centricSoftwareDevelopment(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureSoftwareArchitecture 3 28 22 40
+Seminar
+Architecture-centricSoftwareDevelopment 3 28 30 3
+2
+T
+otalworkload 6 56 5
+2 7
+2
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar(seminarworkandpresentationin
+theteachinglanguage). Anychangestothecriteriamustbeannouncedpriortomoduleregistration.
+E
+xam(s): Jointexaminationforallmodulecourses,generallyawrittenexamination(duration90
+minutes)intheteachinglanguage. Alternatively,anoralexaminationmaybepossible. The
+examinationtype(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature L
+.Bass,P.Clemens,R.Kazman: SoftwareArchitectureinPractice,4 th edition. AddisonWesley,2021.
+R.Taylor,N.Medvidovic,E.Dashofy. SoftwareArchitecture: Foundations,Theory,andPractice. 2009.
+R.Reussner,W.Hasselbring. HandbuchderSoftware-Architektur. 2 nd edition,dpunkt,2008.
+Furthertopic-specificliteraturewillbementionedinthecourse.
+19
+
+[Page 24]
+Module
+title User
+Interface Software and Technology
+Module number/code In fM-UIST
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules/FocusHuman-ComputerInteraction: Requiredforfocus
+M.Sc.ITManagementandConsulting: Requiredelectivearea–ITdevelopment
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: KenntnisseimBereichMensch-Computer-InteraktionundInteraktionsdesign
+Module
+coordinator(s) Steinick
+e
+T
+eachingstaff Steinick
+e,N.N.
+Languag
+e English
+withteachingmaterialsinEnglishorGermanwithteachingmaterialsinEnglishand/or
+German
+Qualifica
+tiontargets Studen
+tsunderstandhowvarioussoftwareandhardwarecomponentsofinteractiveuserinterfaces
+workandlearnabouttheirpotentialandlimitations. Theyareabletofurthertheirtheoretical
+knowledgethroughpracticalapplicationonsmallprototypesandexaminenewinteractionconcepts
+intheprocess. Studentsaremoreoverabletoevaluatethesesystems.
+C
+ontents Studen
+tsarefamiliarizedwithvarioussoftwareandhardwarecomponentsofuserinterfaces(UIs),
+forexample,fromthefieldsoftraditionalgraphicalUIs(GUIs),webUIs,tangibleUIs,andvirtualand
+augmentedreality3DUIsaswellasmultimedia,newinputandoutputdevices,and
+computer-supportedcooperativework.
+Inthelectures,componentsofinteractiveuserinterfaceswillbeintroduced,andtheirpotentialand
+limitationswillbediscussed.
+Smallerprototypesaredevelopedduringtheexercisesbasedonthesoftwareandhardware
+components.
+Theseprototypesareusedtodevelopnovelinteractionconcepts,whicharethenexaminedand
+evaluatedduringsmallerpilotstudies.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureUserInterfaceSoftwareandTechnology(2credithoursperweek)
+E
+xercisesUserInterfaceSoftwareandTechnology(2credithoursperweek)
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureUserInterfaceSoftwareandTechnology 3 28 4
+2 20
+E
+xercisesUserInterfaceSoftwareandTechnology 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheexercises. Anychangestothecriteriamust
+beannouncedpriortomoduleregistration.
+E
+xam(s): Generally,awrittenexamination(60minutes)intheteachinglanguage. Alternatively,an
+oralexaminationmaybepossible. Theexaminationtype(s)willbeannouncedpriortomodule
+registration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature Pr
+oceedingsoftheAnnualSymposiumonUserInterfaceSoftwareandTechnology,ACM
+J.D.Foley,A.vanDam,S.K.Feiner: ComputerGraphics–PriciplesandPractice,AddisonWesley
+20
+
+[Page 25]
+Module
+title K
+nowledge Processing
+Module number/code In fM-WV
+Module
+applicability,typeand
+curriculararea
+M
+.Sc.Informatics: Advancedmodules
+M.Sc.DataScienceandArtificialIntelligence: AdvancedTopicsinDataScienceandArtificial
+IntelligenceundDomainKnowledgeinDataScienceandArtificialIntelligence: Informatics
+M.Sc.InformationSystems: Requiredelectivearea–Informatics
+M.Sc.Bioinformatics: Requiredelectivearea–informaticsundRequiredelectivearea–lifesciences,
+informatics,andbioinformatics
+M.Sc.IntelligentAdaptiveSystems: Requiredelectivearea
+Pr
+erequisites Manda
+tory: none
+R
+ecommended: Basicknowledgeofknowledgeprocessingandlogic
+Module
+coordinator(s) W
+ermter
+T
+eachingstaff W
+ermter,N.N.
+Languag
+e German
+withteachingmaterialsinGermanandpossiblyinEnglishorEnglishwithteaching
+materialsinEnglish
+Qualifica
+tiontargets Studen
+thaveanin-depthunderstandingofhowtohandledata,information,andknowledgefor
+complexdomains. Theyareabletoanalyzerequirementsandtoselectsuitable,i.e. adequateand
+efficient,knowledgeprocessingconcepts. Moreover,theycancomprehendcomplexproblemsand
+developadequatesolutionsinthefieldofintelligentsystems.
+C
+ontents Studen
+tsfocusonadvancedmethodsandconceptsforknowledgepresentationandprocessing:
+descriptionlogics,ontologies,non-deductivereasoning,Bayesiannetworks,machineplanning,
+hybridknowledgeprocessing,knowledge-basedagents,andknowledgeprocessinginmulti-agent
+systems.
+C
+oursecomponentsandteaching
+format(s)
+L
+ectureKnowledgeProcessing(2credithoursperweek)
+Seminar
+KnowledgeProcessing(2credithoursperweek)
+Alterna
+tively,teachingformatmaybelecturewith3credithoursperweekandseminar
+with1credithourperweek.
+W
+orkload
+(coursecomponentsandoverall)
+Cr
+edits P
+(hrs) S
+(hrs) EP
+(hrs)
+L
+ectureKnowledgeProcessing 3 28 4
+2 20
+Seminar
+KnowledgeProcessing 3 28 4
+2 20
+T
+otalworkload 6 56 84 40
+Academic
+requirementsand
+examinations
+C
+oursework: Regularandsuccessfulparticipationintheseminar(seminarworkandapresentation
+intheteachinglanguage).
+E
+xam(s): Generally,anoralexaminationintheteachinglanguage(onallofthecontentcovered
+duringthelectureandseminar). Alternatively,awrittenexaminationispossible. Theexamination
+type(s)willbeannouncedpriortomoduleregistration.
+Gr
+adeswillbeawardedforthemoduleexamination(s).
+Module
+duration 1
+semester
+Semester(s
+)offered W
+intersemester,everyyear
+Liter
+ature
+2
+1

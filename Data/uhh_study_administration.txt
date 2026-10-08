@@ -1,0 +1,318 @@
+Source: study administration.pdf
+Institution: University of Hamburg
+
+[Page 1]
+Dagmar Schacht / Johannes Göbel
+Informatics Academic Office
+
+[Page 2]
+MIN Campus (Bundesstraße/Sedanstraße)
+
+[Page 3]
+Agenda 
+1.Tasks oftheStudienbüro 
+(Academic Office)
+2.Yourcontactsin theAcademic Office 
+3.Openinghours 
+4.Further contacts 
+5.Whattodo ifthereareproblemswith 
+STiNEregistration 
+6. Exams andexamre-takes 
+7. Crediting ofcourses 
+8. Part-time study 
+9. Other issues 
+10. Personal hints 
+OU WiSe2026/27 D. Schacht / J. Göbel
+
+[Page 4]
+Tasks of the Academic Office. We are there, … 
+… if you need study counseling 
+(e.g. for academic leave, part-time 
+study, etc.)
+… if you need to hand in documents to 
+the examinations board (applications, 
+crediting of courses from a previous 
+program, etc.)
+… if there are problems with 
+registration in STiNE 
+… for certificates regarding your 
+course , that are not covered within 
+STiNE (Transcript of Records, final 
+certificate, etc.)
+… to find a contact person for specific 
+issues or problems 
+OU WiSe2026/27 D. Schacht / J. Göbel 4
+
+[Page 5]
+Academic Office or CampusCenter?
+OU WiSe2026/27 5
+CampusCenter 
+University related / general issues 
+Responsible for all students 
+E.g. part-time study, academic leave, 
+withdrawl from program…
+Semester fee/contribution, semester 
+ticket… 
+Where? – Alsterterrasse 1 
+Academic Office 
+Study Program related issues 
+Responsible for all study programs in 
+Informatics 
+E.g. module registrations, examinations, 
+sick notes… 
+STiNE Account, Transcripts, BAföG forms 
+(no BAföG counseling!) 
+Where? – MIN Forum, 5 th floor
+
+[Page 6]
+Academic Office - Office hours 
+Please note that the office hours of individual team members may vary, see: 
+https://www.inf.uni-hamburg.de/en/studies/orga/stb.html.
+You canreachusby email: studienbuero.inf@uni-hamburg.de 
+By phone 
+(see team list for phone numbers)
+On-site 
+MIN Forum, 5 th floor 
+8:45 am –4 pm 10 am –11 am and 1 pm–3 pm Mon 
+8:45 am –4 pm 10 am –noonand 1 pm–3 pm Tue 
+8:45 am –4 pm 10 am –noonand 1 pm–3 pm Wed 
+8:45 am –4 pm 10 am –noonand 1 pm–3 pm Thu 
+9 am –2 pm closed(but availableby phone) Fri
+
+[Page 7]
+Contacts 
+Your contactforall questionsregardingexams: 
+ Antonia de Luca 
+Requests: studienbuero.inf@uni-hamburg.de 
+Your studycoordinatorand academicadvisor: 
+ Dr. Dennis Becker 
+particularlyadvice for study plan, focus and extension choice,
+requests to the examination Board:
+ias-team@informatik.uni-hamburg.de 
+Yourprogrammanager/ Head of Examination Board: 
+ Prof. Dr. Stefan Wermter 
+OU WiSe2026/27 D. Schacht / J. Göbel 7
+
+[Page 8]
+Questions? Check Your Program Website! 
+OU WiSe2026/27 D. Schacht / J. Göbel 8
+https://www.inf.uni-hamburg.de/studies/master/ias
+
+[Page 9]
+Curriculum – „Tetris“ 
+OU WiSe2026/27 D. Schacht / J. Göbel 9
+https://www.inf.uni-hamburg.de/studies/master/ias
+
+[Page 10]
+… and what does „STiNE“ (Study-Infonet ) do? 
+Account of yourstudyresults 
+Tool for Registration for modules/courses/exams 
+Overviewof moduleregistration 
+Overviewofcourseregistration 
+Overviewof examsand examdates 
+Overviewofweekschedule 
+Help needed? Contactform 
+OU WiSe2026/27 D. Schacht / J. Göbel 10
+
+[Page 11]
+[No extractable text on this page]
+
+[Page 12]
+STiNE Registration for modules, lectures, and exams 
+Please takecare thatyou fully register for:
+ Module 
+ Lecture(s) 
+ Exam(s) 
+Pleasehavea closelookon deadlines for registration and de-registration :
+The Academic Officesendsout e-mailson a regularbasis!
+Please readthem….
+OU WiSe2026/27 D. Schacht / J. Göbel 12
+
+[Page 13]
+STiNE Registration periods 
+Registration period for first semester students:
+ UntilThu, 08.10.2026, 4 pm 
+Correction period (“first came, first served”): 
+ Mon 12.10.2026, 9 am to Thu 22.10.2026, 1 pm 
+ Only for leftover capacity!
+ Therefore: Preferably, register within the first registration period , 
+since you might find capacity filled in the modules of your choice during the correction 
+period!
+OU WiSe2026/27 D. Schacht / J. Göbel 13
+
+[Page 14]
+STiNE troubleshooting 
+If you lost your log-in details, you can obtain your user name or reset your password 
+via www.account.uni-hamburg.de 
+Two-factor(„2FA“) registered? 
+ Two-factorauthentification see: 
+https://www.rrz.uni-hamburg.de/en/kennung-authentifizierung/2fa.html
+ Recommendation: Set up your smartphone with QR scan function as a second factor.
+For further questions/issues, you can also e-mail the STiNELineat 
+stineline@rrz.uni-hamburg.de 
+OU WiSe2026/27 D. Schacht / J. Göbel 14
+
+[Page 15]
+Module registration form 
+Your program 
+Current Semester 
+Your personal data 
+Module status, number, course 
+code, title, group optional: 
+exam (if exam registration desired)
+
+[Page 16]
+Registration 1. semester modules 
+OU WiSe2026/27 D. Schacht / J. Göbel 16
+
+[Page 17]
+Registration and re-registration of exam dates 
+ You have to register explicitly for all exams.
+ No participation in the exam without registration!
+ You also have to register yourself for the second, third and fourth exam dates! 
+If you fail an exam, you will not be automatically re-registered!
+ Exam registrations in Informatics 
+ Written exams : Deadline for registration (and de-registrations) 3 days prior to the exam date 
+ Oral exams : See information emailed to you:
+Registration typically a few weeks before the exams. De-registration until 3 days prior to the exam date.
+ Exams dates: see https://www.inf.uni-hamburg.de/studies/orga/dates.html
+ Other departments may use different schedules for (de)registration 
+OU WiSe2026/27 D. Schacht / J. Göbel 17
+
+[Page 18]
+Modules with “manual” registration 
+Fortheregistrationof….
+ Independent Study 
+(3 or6 creditseach, maybetakenmorethanonce, upto12 Creditstotal, 
+ofwhichupto6 creditsin Focus optionand therestasExt ension)
+ Master Thesis 
+…we have separate forms to name the desired topic and to obtain the signatures of the 
+proposed reviewers.
+OU WiSe2026/27 D. Schacht / J. Göbel 18
+
+[Page 19]
+Exam Re-takes 
+Maximum of 4tries (3 re-takes) for each module. 
+ Failing a exam four times means withdrawal from the program!
+ This applies to any module! Regardless, if mandatory, focus option or extension option!
+ Final thesis only 1 re-take!
+If you fail twice or trice in a required elective module,
+we recommend to change this module 
+If you do not wish to attend a registered exam, 
+then de-register this exam before the deadline!
+ In case of illness, hand in a doctor’s notice within 10 days after issuing 
+ Otherwise, missing a registered exam will be counted as failed attempt!
+OU WiSe2026/27 D. Schacht / J. Göbel 19
+
+[Page 20]
+Webformular 
+notification of illness 
+Exam(s) missed due to illness 
+Doctor‘s note 
+scan or photo 
+Your personal data
+
+[Page 21]
+Deadlines 
+The standard period of study is 4 semesters 
+ BAFöGis possible for an additional “flexibility semester” once per academic career… 
+ …plus up to 2 semesters via the final grant (pure loan)
+ After double the standard period of study plus 2 semesters , 
+i.e. 10 semesters , the university may withdraw you 
+Withdrawal 
+ Failing the same module’s exam four times 
+ Four semesters in a row without earning credit points by completing a module 
+ Compulsory study advice if the standard period of study is exceeded by more than two semesters,
+i.e. before the 7th semester 
+There are no deadlines for the individual modules 
+OU WiSe2026/27 D. Schacht / J. Göbel 21
+
+[Page 22]
+Crediting of previous courses 
+You can request crediting of courses, if… 
+ … these courses correspond to modules that exist in your Master’s program 
+ … you have not yet conducted the exam of the corresponding module 
+(and have no binding exam registration)
+OU WiSe2026/27 D. Schacht / J. Göbel 22
+
+[Page 23]
+Crediting of courses 
+Process: 
+Step 1: Decide which modules you want to be credited 
+If there are questions, contact the program advisor Dr. Dennis Becker 
+Step 2: Complete the request for credit recognition in STiNE… 
+Step 3: ..and inform the Academic Office, citing your request number.
+Apart from your signature a PDF summary of your request (that you will receive by 
+reply), you need a Transcript of Records (or similar proof of your previous studies)
+and module descriptions (“module handbook”, “syllabus” or similar) 
+Step 4: Wait for decision of the Head Examination Board 
+OU WiSe2026/27 D. Schacht / J. Göbel 23
+
+[Page 24]
+Part-time study 
+ Permitted if.. 
+… working more than 15h per week 
+ Proof: e.g. Certificate of employer 
+ Note: A student visa typically permits working up to 140 full or 280 half days per year 
+… caring forchildren below age 18 or family members in need of care 
+ Proof: e.g. birth certificate, etc.
+… disability or other chronic disease that affect the ability to study such that full-
+time study is impossible 
+ Proof: e.g. medical certificate 
+OU WiSe2026/27 D. Schacht / J. Göbel 24
+
+[Page 25]
+Part-time study 
+Purpose: Study workload reduced from 30 ECTS to 15 ECTS per semester 
+ Advantage: Adjustment of regular study time. 
+Together with your program advisor you agree on an adjusted study plan.
+ Disadvantage: Can have effects on BAföG, grants, child benefits, visa agreements… 
+Note: Final thesis has to be conducted in full time (6 months, approx. 40 hours per 
+week), even if you are a part-time student 
+OU WiSe2026/27 D. Schacht / J. Göbel 25
+
+[Page 26]
+Other issues... 
+Use the forwarding function in STiNE for your e-mails. Otherwise you might miss 
+announcements of lecturers on e.g. room and date changes that are sent through 
+STiNE 
+Read your universitye-mail, usually first.lastname@studium.uni-hamburg.de . 
+ Stand means of communication in the department 
+ Not to read the mail may lead to bigger problems in the course of your study (registration 
+periods missed etc.)
+Please attend the lectures, otherwise we risk losing hybrid/digital options! 
+Use websitesoftheAcademic Office andof M.Sc. IAS forinformation 
+OU WiSe2026/27 D. Schacht / J. Göbel 26
+
+[Page 27]
+Even more advice 
+If you seriously want to study, then do it from the start ! 
+Keep your exam registrations and re-takes in mind!
+Connect to each other!
+Study groups, student representative committee (Fachschaftsrat)… 
+Use the help that is offered!
+Dennis Becker, Academic office, Center for Academic Advising,
+Psychological Counseling, 
+Office for Studying with Disabilities and Chronic Illnesses… 
+OU WiSe2026/27 D. Schacht / J. Göbel 27
+
+[Page 28]
+[No extractable text on this page]
+
+[Page 29]
+The current semester program and registration for the 
+newsletter on the website! 
+Contact for all matters relating to MIN För Hamburg 
+Franziska Werner-Saidi 
+Project Coordinator 
+Dept. ofInternational Affairs 
+Tel: +49 40 42838-3495 
+Email: min-foer-hamburg@uni-hamburg.de 
+Website: www.uni-hamburg.de/min-foer-hamburg 
+29
+
+[Page 30]
+Thank you for your attention! 
+Best wishes for your studies! 
+Further Questions? 
+OU WiSe2026/27 D. Schacht / J. Göbel 30

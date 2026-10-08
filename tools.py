@@ -1,41 +1,51 @@
-"""Expose policy retrieval and order lookup tools for the shop."""
+"""Expose University of Hamburg knowledge and application lookup tools."""
 
 import json
 from pathlib import Path
 
-from llama_index.core.tools import QueryEngineTool, FunctionTool
+from llama_index.core.tools import FunctionTool, QueryEngineTool
 from llama_index.llms.openai import OpenAI
-from Rag import DATA_DIR, build_policy_index
+from Rag import DATA_DIR, build_university_index
 
 
-def create_shop_policy_tool(data_dir: Path = DATA_DIR) -> QueryEngineTool:
-    """Build a tool that answers questions about the shop's policies."""
-    index = build_policy_index(data_dir)
+def create_university_knowledge_tool(data_dir: Path = DATA_DIR) -> QueryEngineTool:
+    """Build a tool that answers questions using University of Hamburg documents."""
+    index = build_university_index(data_dir)
     return QueryEngineTool.from_defaults(
         query_engine=index.as_query_engine(
             llm=OpenAI(model="gpt-4o-mini", temperature=0),
             similarity_top_k=3,
         ),
-        name="query_engine",
-        description="A query engine for retrieving information about the company's policies.",
+        name="university_knowledge",
+        description=(
+            "Search the provided University of Hamburg documents for study rules, "
+            "modules, administration, support, and program information."
+        ),
     )
 
-def create_order_lookup_tool(data_dir: Path = DATA_DIR) -> FunctionTool:
-    def lookup_order(order_id: str) -> dict:
-        """Look up a shop order by its exact order ID."""
-        with (DATA_DIR / "orders.json").open(encoding="utf-8") as file:
-            orders_data = json.load(file)
-        return orders_data.get(order_id, {"error": "Order not found"})
+
+def create_application_lookup_tool(data_dir: Path = DATA_DIR) -> FunctionTool:
+    def lookup_application(application_id: str) -> dict:
+        """Look up a university application by its exact application ID."""
+        with (data_dir / "applications.json").open(encoding="utf-8") as file:
+            applications = json.load(file)
+        return applications.get(
+            application_id.upper(),
+            {"error": "Application not found"},
+        )
 
     return FunctionTool.from_defaults(
-        fn=lookup_order,
-        name="lookup_order",
-        description="A function for looking up a shop order by its exact order ID.",
+        fn=lookup_application,
+        name="lookup_application",
+        description=(
+            "Look up an applicant's current application status using an exact "
+            "application ID."
+        ),
     )
 
 
 if __name__ == "__main__":
-    shop_policy_tool = create_shop_policy_tool()
-    order_lookup_tool = create_order_lookup_tool()
-    print(shop_policy_tool.call("What is the return window?"))
-    print(order_lookup_tool.call(order_id="A101"))
+    knowledge_tool = create_university_knowledge_tool()
+    application_tool = create_application_lookup_tool()
+    print(knowledge_tool.call("When is the application deadline?"))
+    print(application_tool.call(application_id="APP1001"))

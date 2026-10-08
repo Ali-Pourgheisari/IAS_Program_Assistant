@@ -5,28 +5,29 @@ from llama_index.core.agent.workflow import FunctionAgent, ToolCall, ToolCallRes
 from llama_index.core.workflow import Context
 from llama_index.llms.openai import OpenAI
 
-from tools import create_order_lookup_tool, create_shop_policy_tool
+from tools import create_application_lookup_tool, create_university_knowledge_tool
 
 
 async def main():
-    policy_tool = create_shop_policy_tool()
-    order_tool = create_order_lookup_tool()
+    knowledge_tool = create_university_knowledge_tool()
+    application_tool = create_application_lookup_tool()
 
     agent = FunctionAgent(
-        tools=[policy_tool, order_tool],
+        tools=[knowledge_tool, application_tool],
         llm=OpenAI(model="gpt-4o-mini", temperature=0),
         system_prompt=(
-            "You are a shop support assistant. "
-            "Use the policy tool for questions about shop policies. "
-            "Use lookup_order for information about a specific order. "
-            "If an order question has no order ID, ask for it. "
-            "Do not invent policies or order details."
+            "You are a University of Hamburg study assistant. "
+            "Use university_knowledge for questions about IAS study rules, modules, "
+            "study administration, and student support. "
+            "Use lookup_application for the status of a specific application. "
+            "If an application-status question has no application ID, ask for it. "
+            "Do not invent university information or application details."
         ),
     )
 
     # Reuse the context so the agent remembers previous turns in this session.
     context = Context(agent)
-    print("Shop assistant ready. Type 'exit' or 'quit' to stop.")
+    print("University assistant ready. Type 'exit' or 'quit' to stop.")
 
     while True:
         try:

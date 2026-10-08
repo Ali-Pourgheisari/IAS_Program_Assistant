@@ -1,4 +1,4 @@
-"""Build the retrieval index for the shop's policy documents."""
+"""Build the retrieval index for University of Hamburg documents."""
 
 from pathlib import Path
 
@@ -11,8 +11,8 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "Data"
 
 
-def build_policy_index(data_dir: Path = DATA_DIR) -> VectorStoreIndex:
-    """Load policy documents and index them using OpenAI embeddings."""
+def build_university_index(data_dir: Path = DATA_DIR) -> VectorStoreIndex:
+    """Load University of Hamburg documents and index them using OpenAI embeddings."""
     load_dotenv(BASE_DIR / ".env")
     reader = SimpleDirectoryReader(input_dir=str(data_dir), required_exts=[".txt"])
     documents = reader.load_data()

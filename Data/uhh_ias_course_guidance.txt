@@ -1,0 +1,669 @@
+Source: IAS Course Guidance.pptx
+Institution: University of Hamburg
+
+[Slide 1]
+Alhassan Abdelhalim
+IAS Course Guidance
+
+[Slide 2]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 3]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 4]
+IAS Course Guidance
+05.10.2026
+Introduction (About me)
+Alhassan Abdelhalim
+
+[Slide 5]
+IAS Course Guidance
+05.10.2026
+Introduction (About me)
+Alhassan Abdelhalim (short version)
+Alhassan Ahmed Said Abdelhalim
+Hassan
+
+[Slide 6]
+IAS Course Guidance
+05.10.2026
+Introduction (About me)
+Alhassan Abdelhalim (short version)
+Alhassan Ahmed Said Abdelhalim
+Hassan 👍
+From Egypt
+Aswan, Egypt
+
+[Slide 7]
+IAS Course Guidance
+05.10.2026
+Introduction (About me)
+Alhassan Abdelhalim (short version)
+Alhassan Ahmed Said Abdelhalim
+Hassan 👍
+From Egypt (did NOT graduate from the German university in Cairo)
+Aswan, Egypt
+
+[Slide 8]
+IAS Course Guidance
+05.10.2026
+Introduction (About me)
+Alhassan Abdelhalim (short version)
+Alhassan Ahmed Said Abdelhalim
+Hassan 👍
+From Egypt (did NOT graduate from the German university in Cairo)
+Aswan, Egypt
+Started IAS in WiSe 22/23
+
+[Slide 9]
+IAS Course Guidance
+05.10.2026
+Introduction (About me)
+Alhassan Abdelhalim (short version)
+Alhassan Ahmed Said Abdelhalim
+Hassan 👍
+From Egypt (did NOT graduate from the German university in Cairo)
+Aswan, Egypt
+Started IAS in WiSe 22/23
+Now a PhD student in the DOS research group (Prof. Dr Janick Edinger)
+
+[Slide 10]
+IAS Course Guidance
+05.10.2026
+Mandatory Courses
+Focus Options
+Electives
+STiNE
+ECTS
+Registration phase
+Do I get the course?
+
+[Slide 11]
+IAS Course Guidance
+05.10.2026
+What are we going to do today?
+What are we NOT going to do today?
+Modules and who offers them
+Go through (most of) the available courses for IAS
+Tips & Tricks
+STiNE and how to register
+Course lottery
+Go through all the research groups
+Mandatory Courses
+Focus Options
+Electives
+STiNE
+ECTS
+Registration phase
+Do I get the course?
+
+[Slide 12]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 13]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 14]
+IAS Course Guidance
+05.10.2026
+How do Modules at Informatik work?
+Research Groups (Led by Professors)
+They offer „Modules“
+Can be: 
+Courses (lectures + seminars or exercises)
+Seminar (3-credit standalone module)
+Master Project
+Hackathon
+Internship (Praktikum)
+Theses
+All of these courses can be found in the research groups page (https://www.inf.uni-hamburg.de/en/inst/groups.html) or in the STINE Course Catalogue
+
+[Slide 15]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+How do Modules at Informatik work?
+Not all courses are available to everyone
+Not all new courses are immediately available to IAS
+STiNE explains which study branch can register which courses
+It is still possible to add new courses to the IAS curriculum (happened two years ago with Optimization for ML)
+
+[Slide 16]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 17]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 18]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+
+[Slide 19]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+
+[Slide 20]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+
+[Slide 21]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+The course description is harder than the exam
+You don’t pass this course. You survive it
+Might need to actually show up once or twice… maybe.
+Coffee required. Sleep optional.
+Legend says the exam is written in blood
+
+[Slide 22]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Bio-inspired Artificial intelligence | 
+Lecture:
+Pof. Dr. Stefan Wermter | Seminar:
+Dennis Becker + WTM Group
+6 ECTS
+The course has „Artificial intelligence“ in it. But most of the content is Neural Networks 
+"Bio-inspired" = links between neural architecture and human brain functions.
+Strong overlap with Neural Networks and Knowledge Processing courses.
+
+[Slide 23]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Research Methods | 
+Lecture:
+Dr. Sven Magg | Exercises:
+Sven Magg + Lennart Bengtson
+6 ECTS
+One of the best course options in IAS
+Sven is just awesome. You will attend lectures just because you love the lecturer
+Course is a good mix of statistics, research and programming
+Challenging but very rewarding course
+
+[Slide 24]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Software Architecture | 
+Lecture:
+Prof. Dr. Linghui Luo | Seminar:
+Leif Bonorden + Dr. Jan Christian Dammann
+6 ECTS
+Super easy for people who did software architecture, patterns in Bachelor. Super hard for people with AI/Math background but no software engineering background
+Not sure why this course is mandatory for IAS 
+This year the new Professor teaches the course
+? ? ? ? ?
+
+[Slide 25]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Intelligent Robotics | 
+Lecture:
+Niklas Fiedler | Seminar:
+Niklas Fiedler + Jasper Güldenstein + Sam Liu
+6 ECTS
+Probably the strictest seminar 
+It‘s recommended to take the course „introduction to robotics“ before starting this one. But it‘s also totally ok to start with IR
+
+[Slide 26]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Neural Networks | 
+Lecture:
+Prof. Dr. Stefan Wermter | Seminar:
+WTM Group
+6 ECTS
+History of NNs with good introduction to newer architectures such as transformers
+Not only done by Prof. Wermter but also by different members of the WTM group
+One of the very good lecturers that are invited by Prof. Wermter are Jae Lee (Transformers) and Hassan Ali (Gaze Prediction)
+
+[Slide 27]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Machine Learning | 
+Lecture:
+Prof. Dr. Sören Laue | Exercises:
+Alhassan Abdelhalim + Hanna Herasimchyk + Robin Labryga
+9 ECTS
+The most demanding yet most rewarding IAS course
+Divided into 4 parts: Regression, supervised learning, unsupervised learning and Neural Networks
+Sören explains exceptionally good. The exercises and the quizzes complement the lectures and are exam-relevant
+You will feel you have really learned something
+
+[Slide 28]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Project | 
+12 ECTS
+Can last 1 semester or 2 semesters
+In small or large groups, depending on the projects
+Some of the projects are really popular. Some are not
+Can be registered in the winter semester or the summer semester
+There are more projects in the summer semester than in the winter semester
+
+[Slide 29]
+IAS Course Guidance
+05.10.2026
+Software Architecture
+Research Methods
+Bio-inspired AI
+Intelligent Robotics
+Focus Option
+Neural Networks
+Machine Learning
+Focus Option
+Focus Option
+Extension Option
+Project
+Focus Option
+Extension Option
+Extension Option
+Thesis
+Mandatory Courses
+Focus Options
+Electives
+Master Thesis | 
+Last 6 months from your date of registration
+Prequisite: already completed 72 ECTS
+Can register at ANY TIME. Not necessarily at the beginning of the semester 
+Can submit your thesis at ANY TIME after registration. Not necessarily to wait for your submission deadline
+30 ECTS
+
+[Slide 30]
+IAS Course Guidance
+05.10.2026
+Knowledge Processing | 
+Lecture:
+Dr. Matthias Kerzel | Exercises:
+Dr. Cornelius Weber
+6 ECTS
+Optimization for Machine Learning | 
+Lecture:
+Prof. Dr. Sören Laue | Exercises:
+Hanna Herasimchyk
+6 ECTS
+Computer Vision 1 | 
+Lecture:
+Prof. Dr. Simone Frintrop | Exercises:
+Emre Gülsoylu
+6 ECTS
+User Interface Software and Technology | 
+Lecture:
+Prof. Dr. Frank Steinicke | Exercises:
+Dr. Sebastian Rings
+6 ECTS
+Trustworthy Artificial Intelligence | 
+Lecture:
+Prof. Dr. Anne Lauscher | Exercises:
+Pranav Agrawal
+6 ECTS
+
+[Slide 31]
+IAS Course Guidance
+05.10.2026
+Statistical Methods of Language Technology | 
+Lecture:
+Prof. Dr. Chris Biemann | Exercises:
+Saba Anwar + Xintong Wang
+6 ECTS
+Speech Signal Processing | 
+Lecture:
+Prof. Dr. Timo Gerkmann | Exercises:
+….
+6 ECTS
+Computer Vision 2 | 
+Lecture:
+Prof. Dr. Simone Frintrop | Exercises:
+Emre Gülsoylu
+6 ECTS
+Robot Technology | 
+Lecture:
+Jasper + Niklas | Exercises:
+TAMS
+6 ECTS
+Database and Information Systems | 
+Lecture:
+Dr. Annett Ungethüm | Exercises:
+…
+9 ECTS
+Pervasive Computing | 
+Lecture:
+Prof. Dr Janick Edinger | Seminar:
+Lennart Bengtson
+6 ECTS
+
+[Slide 32]
+IAS Course Guidance
+05.10.2026
+Independent Study
+3 or 6 credits (Either in Focus option or extension option)
+Not registered in STiNE. Has a special registariton procedure
+Can have up to 6 credits in Focus option. 9 in Total
+Can be done in ANY RESEARCH GROUP
+ Must be approved by the IAS committee
+
+[Slide 33]
+IAS Course Guidance
+05.10.2026
+Extension Options
+Need 15 credits in total
+Can be:
+regular courses (Other Informatics courses or CISPA courses)
+	(Technically, you can take whatever you want and argue why it makes sense 	to register it. Then it‘s up to the student office to decide if you can register)
+University-specific courses (Public lectures,… etc)
+Language classes
+
+[Slide 34]
+IAS Course Guidance
+05.10.2026
+Extension Options
+Need 15 credits in total
+Can be:
+regular courses (Other Informatics courses or CISPA courses)
+	(Technically, you can take whatever you want and argue why it makes sense 	to register it. Then it‘s up to the student office to decide if you can register)
+University-specific courses (Public lectures,… etc)
+Language classes
+
+[Slide 35]
+IAS Course Guidance
+05.10.2026
+Language classes
+Algemeinesprache (Hamburger VHS)
+Language Center (Sprachzentrum)
+To easily find them, google “DAF A1 A2 Uni Hamburg”
+Offers German classes from A1 till A2
+Offers 13 other language classes from A1 to B
+You get Credits!
+Can’t register from STiNE.
+You register in their website, do the course and obtain a certificate after passing the course. You send it to the student office to get credits
+Check their registration window. Places are limited!
+Registration starts from October 9
+To easily find them, google “DAF Uni Hamburg”
+Offers German classes from B1 till C1
+Offers 8 other language classes. 
+You get Credits!
+You DO register in STiNE.
+That means you get your schedule, your notes and everything in STiNE
+Registration times are the same as STiNE 
+Meaning if you have already prior knowledge and want to start with B1 or higher, You can still register by tomorrow!
+
+[Slide 36]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 37]
+IAS Course Guidance
+05.10.2026
+Agenda
+Introduction
+How do Modules at Informatik work? 
+Courses
+If I had known…
+
+[Slide 38]
+IAS Course Guidance
+05.10.2026
+If I had known…
+You do NOT need to finish exactly in 2 years
+If your goal is to stay in Germany, learning German is a MUST so don’t stop even you fulfill the credits. Take more language classes if you can
+You can do an internship in companies as a student. It’s worth it! 
+Think also about doing a semester abroad. You can and you will get credits
+
+[Slide 39]
+IAS Course Guidance
+05.10.2026
+Questions?
+“I like dumb questions.” 
+
+- Alhassan Abdelhalim
+Do you hate asking questions in public? 👉👈
+Then email me gladly!
+alhassan.abdelhalim@uni-hamburg.de
+Or visit! 10-755 at Bu56b

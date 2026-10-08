@@ -1,0 +1,850 @@
+Source: IAS Subject-Specific Provisions — English (PDF).pdf
+Institution: University of Hamburg
+
+[Page 1]
+1 
+ 
+OFFICIAL TRANSLATION OF 
+Fachspezifische Bestimmungen für den Studiengang 
+„Intelligent Adaptive Systems“ (M.Sc.) 
+(Amtliche Bekanntmachung Nr. 55 vom 2. August 2018) 
+THIS TRANSLATION IS FOR INFORMATION ONLY – 
+ONLY THE GERMAN VERSION SHALL BE LEGALLY 
+VALID AND ENFORCEABLE! 
+Subject-Specific Provisions for the Master of Science (MSc) in 
+Intelligent Adaptive Systems  
+dated 4 April 2018 
+ 
+Preamble 
+These Subject-Specific Provisions supplement the Faculty of Mathematics, Informatics 
+and Natural Sciences’ examinatio n regulations dated 11  April 2012 and 4 July 2012, as 
+amended,  governing Master of Science degree programs and provide a description of 
+the modules for the Master of Science in Intelligent Adaptive Systems.  
+I. Supplementary provisions to MSc examination regulations 
+Section 1 
+Program and examination objectives, academic degree, and implementation of the 
+degree program 
+Section 1 subsection 1: 
+(1) The Master of Science in Intelligent Adaptive Systems degree program is a 
+consecutive and research-based degree program taught in English. 
+ 
+(2) The Master of Science in Intelligent Adaptive Systems degree program follows the 
+general program goals set out in Section  1 subsection  1 of the MSc examination 
+regulations. 
+ 
+(3) The Master of Science in Intelligent Adaptive S ystems degree program enhances 
+students’ abilities:
+
+[Page 2]
+2 
+ 
+• to independently apply informatics knowledge and skills, especially in the area of 
+intelligent and adaptive systems; 
+• to learn and apply scientific methods of informatics to their work;  
+• to act responsibly,  especially with regard to the effects of technological change 
+and social implications; and 
+• to communicate in English about subject -specific matters and to exchange ideas 
+in an inter-cultural environment. 
+(4) The Master of Science in Intelligent Adaptive S ystems degree program enhances 
+the students’ abilities to conduct research-based scientific work. 
+ 
+Section 1 subsection 4: 
+This degree program is administered by the Faculty of Mathematics, Informatics and 
+Natural Sciences. 
+ 
+Section 4 
+Program and examination structure  
+Section 4 subsections 2 and 3: 
+(1) Detailed descriptions of all modules can be found in Appendix A to these Subject -
+Specific Provisions and in the module course catalog. 
+ 
+(2) The Master of Science in Intelligent Adaptive Systems degree program consists of a 
+required area (51  ECTS credits), a required elective area (24  ECTS credits), an 
+unrestricted elective area (15 ECTS credits), and a master's thesis final module (30 ECTS 
+credits). 
+ 
+(3) Required courses include the modul es for Software Architecture (InfM- SA, 6 ECTS 
+credits), Bio -Inspired Artificial Intelligence (InfM -BAI, 6  ECTS credits), Intelligent 
+Robotics (InfM -IR, 6  ECTS credits) Neuronal Networks (InfM- NN, 6  ECTS credits), 
+Machine Learning (InfM -ML, 9  ECTS credits),  Research Methods (InfM- RM, 6 ECTS 
+credits), and a project with an integrated seminar (Project) (InfM-Proj, 12 ECTS credits) 
+for a total of 51 ECTS credits. 
+ 
+(4) 24  ECTS credits must be earned from the required elective area. The required 
+elective modules to choose from are set forth in more detail in Appendix A to these 
+Subject-Specific Provisions and in the module course catalog. In the required elective 
+area either 3 or 6  ECTS credits, respectively, may be taken within the scope of the 
+module Independent  Study (InfM -IS/IAS), however the maximum number of ECTS 
+credits for independent study may not exceed six in total. An application to recognize 
+other suitable modules for credit in addition to the required elective area modules 
+described in Appendix A to these Subject-Specific Provisions and in the module course 
+catalog may be submitted to the responsible examinations board.
+
+[Page 3]
+3 
+ 
+ 
+(5) 15  ECTS credits must be earned from the unrestricted elective area. In the 
+unrestricted elective area either 3 or 6  ECTS credits may be taken in the Independent 
+Study (InfM -IS/IAS) module, whereby the module Independent Study from the 
+required elective area may not be credited. The examinations board may make 
+recommendations for electives.  
+ 
+(6) An overall maximum total of 12  ECTS c redits may be earned for the module 
+Independent Study (InfM-IS/IAS) in the required elective area and the elective area. 
+ 
+(7) On a case by case basis, the examinations board shall decide on whether work from 
+a previous bachelor’s degree program or a comparable master's degree program will 
+be allowed credit. Considers in this regard are particularly based on whether prior work 
+can be adapted to th e qualification objectives of the master’s degree program and 
+warrant that students are unable to take the same or essentially identical courses with 
+respect to content in a module in a bachelor’s degree program and then again in a 
+master’s degree program. 
+ 
+Curriculum for MSc in Intelligent Adaptive Systems: 
+First 
+semester 
+Software 
+Architecture 
+Bio-Inspired 
+Artificial  
+Intelligence 
+Intelligent 
+Robotics 
+Research 
+Methods 
+Required 
+elective 
+Second 
+semester 
+Neuronal 
+Networks 
+Machine 
+Learning 
+Required 
+elective 
+Required 
+elective 
+Elective 
+area 
+Third 
+semester 
+Project Seminar Required 
+elective 
+Elective 
+area 
+Elective 
+area 
+Fourth 
+semester 
+Final Module (master’s thesis) 
+ 
+Section 5  
+Course types 
+Section 5 sentence 2:  
+(1) Modules consist of either pure lecture modules or combinations of lectures and an 
+(integrated) seminar or (integrated) practical course.  
+ 
+(2) Project modules consist of combinations of projects and a respective integrated 
+seminar.  
+ 
+Section 5 sentences 3 and 4: 
+In justified cases, attendance is mandatory for all courses apart from lectures.  
+ 
+Section 5 sentence 5: 
+Courses will be held in English.
+
+[Page 4]
+4 
+ 
+Section 13  
+Completed coursework and module examinations 
+Section 13 subsection 4: 
+As a rule written examina tions last 120 minutes. Oral examinations last between 20 
+and 30 minutes. More information is contained in Appendix A. Any changes will be 
+announced before registration for the module. 
+ 
+Section 13 subsection 6: 
+The examination shall be in English. If the examiner and the student agree, the 
+examination may also be taken in a language that is different from the language of 
+the module. 
+ 
+Section 14  
+Master’s thesis 
+Students who have earned at least 72 ECTS credits in total may be admitted to the final 
+module. The examinations board must decide on any exceptions. 
+A mandatory component of the final module is a colloquium consisting of a 
+presentation and an academic discussion about the subject matter of the thesis. The 
+presentation is one tenth of the grade for the final module, which must receive a 
+passing grade of at least 4.0. The presentation should be given no later than six weeks 
+after submission of the thesis. 
+ 
+Section 14 subsection 4 sentence 2: 
+The master’s thesis must be written in English. 
+ 
+Section 14 subsection 5: 
+The master's thesis amounts to 30  ECTS credits. The master’s thesis must be 
+completed within six months. 
+ 
+Section 15 
+Evaluation of examinations  
+Section 15 subsection 3 sentence 5: 
+If a module examination is comprised of multiple testing components, then the 
+(overall) grade for the module is calculated on the basis of the average grades for 
+respective performance weighted according to the ECTS credits assigned to each part. 
+This does not apply to the final module. Calculation of the final module grade is 
+governed by Section 14. 
+ 
+Section 15 subsection 3 sentences 10 and 11: 
+The overall grade earned for the master’s degree program is calculated on the basis of 
+the average of the grades from the modules weighted according to the ECTS credits
+
+[Page 5]
+5 
+ 
+assigned to them plus the grade from the final module and excluding ECTS credits that 
+have been earned in the elective area. 
+ 
+Section 15 subsection 4: 
+The overall grade “pass with distinction” is awarded if a grade of 1.0 is awarded for the 
+final module, the average overall grade is less than or equal to 1.3, and none of the 
+module grades for the required or required elective modules is greater than 2.0.  
+II. Module descriptions 
+Descriptions of all of the modules can be found in Appendix A to these Subject-Specific 
+Provisions and in the module course catalog. 
+ 
+Section 23  
+Effective date 
+These Subject-Specific Provisions shall become effective on the day following official 
+publication by Universität  Hamburg. They shall first apply to students commencing 
+their studies in the Winter Semester 2018/2019. 
+ 
+Hamburg, 2 August 2018 
+Universität Hamburg
+
+[Page 6]
+6 
+ 
+  
+Courses Examinations 
+Recommended Semester 
+Frequency 
+Duration (1 or 2 
+semesters) 
+Module Type: Required 
+(Req.), Required Elective 
+(RE), or Elective (E) 
+Module Number/Code 
+Module Prerequisites 
+Module 
+Course Title 
+Type of Course 
+Cr. Hrs. 
+Examination 
+prerequisites 
+Type of Examination 
+Graded 
+ECTS Credits 
+Schedule of required modules 
+The following modules must be taken: InfM-BAI, InfM-IR, InfM-ML, InfM-NN, InfM-Proj, InfM-RM, InfM-SWA, InfM-MA/IAS 81 
+1 WiSe 1 Req. Inf
+M-
+SW
+A 
+Recommended: 
+Programming 
+knowledge in an 
+object-oriented 
+programming 
+language 
+Software Architecture None Generally a 
+written 
+examination; oral 
+examination as 
+exception* 
+Yes 6 
+      
+Software 
+Architecture 
+L 2 
+    
+      
+Architecture-Centric 
+Software 
+Development 
+PC/Sem 2 
+    
+Learning objectives: 
+- Students have a sound comprehension of the requirements for software architecture as a component of the development of complex systems 
+- They possess basic knowledge of the methods, principles, techniques, and procedures in the development of software architectures 
+1 WiSe 1 Req. Inf
+M-
+BAI 
+None Bio-Inspired Artificial Intelligence None Generally an oral 
+examination; 
+written 
+Yes 6
+
+[Page 7]
+7 
+ 
+examination as 
+exception*       
+Bio-Inspired 
+Artificial 
+Intelligence 
+L 2 
+    
+      
+Bio-Inspired 
+Artificial 
+Intelligence 
+Sem 2 
+    
+Learning objectives:  
+Students are familiar with the scientific investigation and utilization of intelligent behavior in nature: 
+- They know the principles of biological intelligent strategies 
+- They can critically analyze the relevant characteristics 
+- They can implement computer models for intelligent systems and robots 
+1 WiSe 1 Req. Inf
+M-
+IR 
+Recommended: 
+Foundations of 
+knowledge 
+processing 
+Intelligent Robotics None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Intelligent Robotics L 2 
+    
+      
+Intelligent Robotics Sem 2 
+    
+Learning objectives: 
+- Students know about the physical forms of perception with regard to their application in robotics 
+- They can apply sensor-based techniques in robotics and other technical systems 
+- Students have mastered basic techniques of intelligent systems and learn about their possible applications in technical systems 
+1 WiSe 1 Req. Inf
+M-
+RM 
+None Research Methods None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Research Methods L 2
+
+[Page 8]
+8 
+ 
+      
+Research Methods PC / 
+Sem 
+2 
+    
+Learning objectives: The students have a deep understanding of scientific methods and their application in the field of informatics and artificial intelligence: 
+- They know the basic principles of scientific research 
+- They can define and conduct experiments 
+- They can test hypotheses and carry out their statistical evaluation 
+2 SoSe 1 Req. Inf
+M-
+NN 
+Recommended: 
+Knowledge of bio-
+inspired artificial 
+intelligence 
+Neural Networks None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Neural Networks L 2 
+    
+      
+Neural Networks Sem 2 
+    
+Learning objectives: Students possess a deep understanding of artificial neural networks and their integration into informatics architectures. They can analyze 
+and understand complex problems and develop adequate solutions for them. 
+2 SoSe 1 Req. Inf
+M-
+ML 
+Recommended: Basic 
+knowledge of linear 
+algebra, stochastics, 
+and data mining 
+Machine Learning None  Generally a 
+written 
+examination; oral 
+examination as 
+exception* 
+Yes 9 
+      
+Machine Learning L 4 
+    
+      
+Machine Learning PC / 
+Sem 
+2 
+    
+Learning objectives: 
+- Students have in-depth knowledge of the different approaches to learning from data, including the relevant limitations 
+- They possess the ability to evaluate learning methods comparatively with regard to specific application conditions 
+- They possess the ability to systematically classify new procedures 
+- They possess the ability to design, implement, and evaluate a learning system for a given task 
+- They possess the ability present empirical findings in the field of machine learning
+
+[Page 9]
+9 
+ 
+2 
+and/
+or 3 
+WiSe 
+and 
+SoSe 
+1 
+or 
+2 
+Req. Inf
+M-
+Proj 
+Individual projects 
+may recommend 
+specific subject 
+matter prerequisites 
+Project Presentation, 
+term paper, 
+active project 
+participation 
+Conclusion of the 
+project 
+Yes 12 
+      
+Project (concerning 
+various topics) 
+Proj 6 
+    
+      
+Integrated seminar 
+(concerning various 
+topics) 
+Sem 2 
+    
+Learning objectives: 
+- Students are able to grapple with new problems and to solve sophisticated informatics challenges using scientific methods (under supervision) in a team 
+- They possess advanced abilities to autonomously work on technical subject matter from source literature 
+- They know how to present issues and solutions formulated themselves and by others both orally and in writing 
+4 WiSe 
+and 
+SoSe 
+1 Req. Inf
+M-
+MA/
+IAS 
+Obligatory:  
+See Section 14 MIN-
+PO as well as 
+Section 14 FSB 
+Final Module See Section 14 
+FSB 
+Master’s thesis 
+(90%) and  
+presentation (10%) 
+Yes 3
+0 
+      
+Master’s thesis and 
+a presentation in a 
+colloquium 
+      
+Learning objectives: 
+- Students possess the ability to work independently on a complex, scientific problem from the field of informatics using scientific methods 
+- They possess advanced problem-solving skills and the ability to transfer the theoretical and methodological knowledge of informatics to new areas of 
+application 
+- They are able to scientifically evaluate and classify their own work against the background of current research work regarding the chosen topic 
+- They are able to document problem analyses, approaches to solutions, and empirical findings in accordance with scientific standards 
+- They are able to present, scientifically evaluate, and discuss the approaches to solutions both verbally and in writing 
+ 
+Schedule of required elective modules
+
+[Page 10]
+10 
+ 
+ 
+WiSe 
+and 
+SoSe 
+ 
+RE 
+ 
+See module 
+descriptions 
+Required elective modules In accordance with the provisions of 
+the respective module description  
+Yes 2
+4 
+      
+Selection from the 
+modules InfM-CV 1,  
+InfM-CV 2, InfM-DIS, 
+InfM-IS/IAS, InfM-
+LT,  
+InfM-RT, InfM-SSV, 
+InfM-UIST, InfM-WV 
+      
+ 
+WiSe 1 RE Inf
+M-
+CV 1 
+None Computer Vision I 
+  
+None Generally a 
+written 
+examination; oral 
+examination as 
+exception* 
+Yes 6 
+      
+Computer Vision I L 2 
+    
+      
+Computer Vision I PC / 
+Sem 
+2 
+    
+Learning objectives: Students know the basics of digital image processing and computer vision, reinforced through practical exercises.   
+SoSe 1 RE Inf
+M-
+CV 2 
+Recommended: 
+Computer vision 
+(module InfM-CV 1) 
+Computer Vision II None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Computer Vision II L 2 
+    
+      
+Computer Vision II PC / 
+Sem 
+2 
+    
+Learning objectives: Students possess in-depth knowledge about current research topics regarding image processing and are able to independently apply this 
+knowledge to their individual research in this area.
+
+[Page 11]
+11 
+ 
+ 
+SoSe 1 RE Inf
+M-
+DIS 
+Recommended: 
+In-depth knowledge 
+of the relational 
+database model (ER 
+modeling, 
+normalization, 
+relational algebra, 
+SQL); basic 
+knowledge of 
+managing semi-
+structured data 
+(XML, XML schema, 
+XML query 
+languages); basic 
+knowledge of formal 
+logic (Horn clause 
+logic, predicate 
+calculus) 
+Databases and Information Systems None Generally a 
+written 
+examination; oral 
+examination as 
+exception* 
+Yes 9 
+      
+Databases and 
+Information 
+Systems 
+L 4 
+    
+      
+Databases and 
+Information 
+Systems 
+PC / 
+Sem 
+2 
+    
+Learning objectives: 
+- Students possess in-depth knowledge of the basic principles, concepts, and methods of data management, processing, and analysis 
+- They have a better understanding of how to handle data and information 
+- They are able to conceptualize and implement database and information systems 
+- They possess the ability to adapt database systems to specific application requirements 
+- They know about the options for integrating database solutions into complex software systems (data warehouses or web-based, distributed information 
+systems).
+
+[Page 12]
+12 
+ 
+ 
+WiSe 
+and 
+SoSe 
+1 RE Inf
+M-
+IS/I
+AS 
+None Independent Study None Generally a 
+presentation and a 
+term paper with 
+one overall grade 
+(100%) 
+Yes 3 
+or 
+6 
+      
+Supervised Project 
+Study 
+(can be used either 
+within the scope of 
+3 ECTS credits or 
+6 ECTS credits, 
+respectively; more 
+than once to a 
+maximum of 6 ECTS 
+credits in the 
+required elective 
+area) 
+- 
+     
+Learning objectives: 
+- Students possess the ability to independently expand and deepen their knowledge and skills in the field of intelligent adaptive systems 
+- They can independently analyze problems and develop proposals for solutions using informatics concepts while placing special emphasis on intelligent 
+adaptive systems 
+- They are able to present results in writing and in the context of a presentation  
+SoSe 1 RE Inf
+M-
+RT 
+Recommended: 
+Foundations of 
+knowledge 
+processing 
+Robot Technology None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Introduction to 
+Robotics 
+L 2 
+    
+      
+Introduction to 
+Robotics 
+PC 1
+
+[Page 13]
+13 
+ 
+      
+Robot Practical 
+Course 
+Int 1 
+    
+Learning objectives: 
+- Students possess knowledge about the basic principles and the theoretical foundations for the realization of robotic systems 
+- They can utilize and develop components for real robots  
+SoSe 1 RE Inf
+M-
+SSV 
+Recommended: 
+Foundations of 
+speech signal 
+processing 
+Speech Signal Processing None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Speech Signal 
+Processing 
+L 2 
+    
+      
+Speech Signal 
+Processing 
+PC 2 
+    
+Learning objectives: Students are able to 
+- explain the basics of speech generation, speech perception, and speech analysis 
+- understand the mathematical and information-theoretical principles of speech signal processing 
+- apply the methods learned and explain the operation of practical speech signal processing systems  
+SoSe 1 RE Inf
+M-
+LT 
+Recommended: 
+Basic knowledge of 
+automated language 
+processing; basic 
+knowledge of 
+machine learning 
+Language Technology None Generally a 
+written 
+examination; oral 
+examination as 
+exception* 
+Yes 6 
+      
+Language 
+Technology 
+L 2 
+    
+      
+Language 
+Technology 
+PC 2 
+    
+Learning objectives: 
+- Students possess in-depth knowledge in selected areas of machine processing of natural language
+
+[Page 14]
+14 
+ 
+- They are able to assess the viability and transferability of natural language processing methods 
+- They are familiar with and understand the current state of research  
+WiSe 1 RE Inf
+M-
+UIS
+T 
+Recommended: 
+Knowledge of 
+human and 
+computer interaction 
+and interaction 
+design 
+User Interface Software and 
+Technology 
+None Generally a 
+written 
+examination (60 
+minutes); oral 
+examination as 
+exception* 
+Yes 6 
+      
+User Interface 
+Software and 
+Technology 
+L 2 
+    
+      
+User Interface 
+Software and 
+Technology 
+PC 2 
+    
+Learning objectives: Students understand how different software and hardware components of interactive user interfaces work and learn about their 
+potential and limitations. Students are able to advance their theoretical knowledge through practical application on small prototypes and in doing so examine 
+new interaction concepts. Students are also able to evaluate these systems.  
+WiSe 1 RE Inf
+M-
+WV 
+Recommended: 
+Foundations of 
+knowledge 
+processing and logic 
+Knowledge Processing None Generally an oral 
+examination; 
+written 
+examination as 
+exception* 
+Yes 6 
+      
+Knowledge 
+Processing 
+L 2 
+    
+      
+Knowledge 
+Processing 
+Sem 2 
+    
+      
+Subject also 
+possible as a lecture 
+(3 credit hours per 
+week) and seminar
+
+[Page 15]
+15 
+ 
+(1 credit hour per 
+week) 
+Learning objectives: 
+- Students have a deeper understanding of how to handle data, information, and knowledge for complex domains 
+- They possess the ability to analyze requirements and select suitable, i.e. adequate and efficient knowledge processing concepts 
+- Students possess the ability to comprehend complex problems and to develop adequate solutions in the field of intelligent systems  
+WiSe 
+and 
+SoSe 
+ 
+W 
+ 
+See module 
+descriptions 
+Free elective area In accordance with the provisions of 
+the respective module description 
+as 
+per 
+elec
+tive 
+15 
+      
+A total of 15 ECTS 
+credits for the 
+module 
+The examinations 
+board may make 
+recommendations 
+for electives. 
+      
+ 
+Explanation: The prerequisites for participation in a module are divided into: 
+• Mandatory prerequisites—other modules, which must be completed before being allowed to start the module, i.e., passing the respective examinations 
+• Recommended prerequisites—prerequisites that do not necessarily need to be completed before commencement of the module 
+Key: 
+Int = internship 
+Proj = project 
+Sem = (integrated) seminar 
+PC = practical course / Int-PC = integrated practical course 
+L = Lecture 
+WiSe = winter semester / SoSe = summer semester
+
+[Page 16]
+16 
+ 
+Cr = ECTS Credits 
+Cr. Hrs = credit hours per week 
+FSB = Subject -Specific Provisions for the Master of Science in Intelligent  Adaptive Systems / MIN -PO = Master of Science Examination Regulations for the MIN 
+Faculty 
+Generally an oral examination; written examination as exception* = type of examination will be announced prior to module registration. 
+Generally a written examination; oral examination as exception* = type of examination will be announced prior to module registration.
