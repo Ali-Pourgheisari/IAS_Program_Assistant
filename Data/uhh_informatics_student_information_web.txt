@@ -1,0 +1,539 @@
+Source: https://www.inf.uni-hamburg.de/studies/orga/stud-infos.html
+
+Institution: University of Hamburg
+
+Source type: official webpage snapshot
+
+Retrieved: 2026-10-08
+
+Freshness note: Webpage content can change; verify the source URL for current deadlines and procedures.
+
+
+
+# Hinweise für Studierende
+
+Auf diesen Seiten finden Sie eine Zusammenstellung von Fragen und Antworten rund um das Studium am Fachbereich Informatik. Sollten Sie für Ihre Frage hier keine Antwort finden, wenden Sie sich bitte das Studienbüro: studienbuero.inf"AT"uni-hamburg.de
+
+## Abschlussarbeit / Abschluss und Zeugnis
+
+### Allgemeine Infos
+
+Bachelor- und Masterarbeiten
+
+Die Abschlussarbeit vollendet ein Studium und wird im 6. Fachsemester des Bachelorstudiums bzw. im 4. Fachsemester des Masterstudiums erstellt. Um jedoch eine Abschlussarbeit in einem bestimmten Gebiet der Informatik erstellen zu können, ist es empfehlenswert, dass Sie bestimmte Einführungs- sowie sich daran anschließende Vertiefungsmodule aus dem Gebiet erfolgreich abgeschlossen haben. Daher ist es wichtig, dass Sie sich schon frühzeitig damit auseinandersetzen, in welchem Gebiet Sie Ihre Arbeit schreiben wollen und Ihre Module im Pflichtbereich (v.a. Seminar, Projekt) sowie – sofern möglich – im Wahlpflicht und freien Wahlbereich entsprechend auswählen. Am Fachbereich Informatik gibt es mehr als 20 verschiedene Arbeitsbereiche. Jeder dieser Arbeitsbereiche widmet sich in der Forschung und Lehre einem bestimmten Fachgebiet der Informatik und unterhält dazu zahlreiche Forschungsprojekte. Schauen Sie sich frühzeitig die verschiedenen Modulangebote genauer an und besuchen Sie eine Sprechstunde der Lehrenden, wenn Sie Fragen haben oder sich weiter informieren möchten: Arbeitsbereiche und Forschungsgruppen.
+Links: https://www.inf.uni-hamburg.de/inst/groups.html
+
+Die lokale Ethikkommission des Fachbereichs Informatik der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg nimmt auf Ihren Antrag Stellung zur ethischen Vertretbarkeit von Forschungsvorhaben unter Einbezug von Menschen sowie Forschungsvorhaben mit personenbezogenen Daten. Für die Beantwortung der Frage, ob ein Antrag notwendig oder sinnvoll ist, nutzen Sie den Basisfragebogen, den Sie auf der Website der Ethikkommission finden.
+Links: https://www.inf.uni-hamburg.de/home/ethics.html
+
+Für eine Abschlussarbeit benötigen Sie ein Thema bzw. eine Aufgabenstellung, jeweils eine oder einen Erst- und Zweitgutachter/in, die die fertige Arbeit später begutachten und benoten sowie ggf. eine oder einen Betreuer/in, die oder der Sie beim Erstellen der Arbeit betreut und unterstützt. Konkrete Durchführung und Beurteilungskriterien für Abschlussarbeiten sind in der jeweiligen Studien- und Prüfungsordnung Ihres Studiengangs verbindlich festgelegt, zu finden unter den Bachelorstudiengängen und Masterstudiengängen. Bei Fragen wenden Sie sich bitte an das Studienbüro.
+Links: https://www.inf.uni-hamburg.de/studies/bachelor.html | https://www.inf.uni-hamburg.de/studies/master.html | https://www.inf.uni-hamburg.de/studies/orga/stb.html
+
+### Wie finde ich ein Thema? Wie finde ich Gutacherinnen bzw. Gutachter?
+
+Jeder Arbeitsbereich besteht aus einer wissenschaftliche Arbeitsgruppe am Fachbereich, die sich je nach Umfang aus mindestens einem/einer Hochschullehrer/in, üblicherweise mehreren wissenschaftlichen Mitarbeitern/innen, promovierten Wissenschaftlern/innen (sog. PostDocs) sowie weiterem Personal zusammensetzt. Die Betreuung einer Abschlussarbeit wird von einem/einer Hochschullehrer/in einer Arbeitsgruppe verantwortet und üblicherweise von einem der wissenschaftlichen Mitarbeiter/innen durchgeführt. Der/die verantwortliche Hochschullehrer/in erstellt üblicherweise später auch das Erstgutachten. Der/die Zweitgutachter/in kann, muss aber nicht, Teil der gleichen Arbeitsgruppe sein. Wer für Ihre Arbeit als Gutachter in Frage kommt, finden Sie auf der Website zu Gutachtenden.
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/abschlussarbeit_Zeugnis/begutachtung.html
+
+Im Fall einer sogenannten externen Abschlussarbeit in einer Firma oder einer anderen wissenschaftlichen Einrichtung kann die Arbeit zusätzlich von einem Mitglied dieser Institution betreut werden. Bitte informieren Sie sich über das konkrete Vorgehen beim Studienbüro.
+
+Die Themenfindung und Betreuung handhabt jede Arbeitsgruppe ein wenig anders. Manche Arbeitsgruppen schreiben Themen auf ihrer Homepage aus und geben eine genaue Anleitung, wen Sie für die Betreuung kontaktieren sollten. Andere setzen sich mit dem Studierenden zusammen und finden gemeinsam ein Thema oder schlagen verschiedene Themenrichtungen vor. Manche Hochschullehrer/innen erwarten, dass die Studierenden ein kurzes Exposé zum Thema verfassen oder ein kurzes Quiz aus dem Arbeitsgebiet lösen. Auch der Besuch des Oberseminars, das im Regelfall als Plattform für die Kolloquiumsvorträge aktuell durchgeführter Abschlussarbeiten dient, kann Ideen für Themen ergeben und Sie ins Gespräch mit Ihren künftigen Gutachtern bringen.
+
+So unterschiedlich die Vorgaben und Erwartungen im Detail auch sind, generell wird von Ihnen erwartet, dass Sie aktiv werden, sich informieren und den Kontakt zur Arbeitsgruppe herstellen. Schauen Sie sich also genau die Webseiten von den Arbeitsbereichen an. Wenn Sie Interesse an einer konkreten Themenstellung haben oder generell in dem Arbeitsgebiet ihre Arbeit erstellen wollen, dann kontaktieren Sie einen der Mitarbeiter/innen der Arbeitsgruppe oder gehen in die entsprechende Sprechstunde und besprechen dort dann alles Weitere. Eventuell werden Sie mehrere Kontaktgespräche mit verschiedenen Arbeitsgruppen führen, bis Sie Ihr Thema und Betreuer gefunden haben. Wenn eine Arbeit ausgeschrieben ist und das Thema auf Anhieb perfekt passt, dann kann dieser Findungsprozess sehr schnell ablaufen. Es ist jedoch nicht ungewöhnlich, dass es länger dauert und Sie mit verschiedenen Betreuern über verschiedene mögliche Themen sprechen. Für die Beantwortung der Frage, ob ein Antrag an die Ethikkommission des Fachbereichs Informatik notwendig oder sinnvoll ist, nutzen Sie bitte den Basisfragebogen, den Sie auf der Website der Ethikkommission finden.Planen Sie daher genügend Zeit für die Vorbereitung Ihrer Abschlussarbeit ein. Wir empfehlen, dass Sie mit der Suche mindestens drei Monate vor dem geplanten Start der Arbeit beginnen.
+Links: https://www.inf.uni-hamburg.de/home/ethics.html
+
+Informationen der Arbeitsbereiche:
+
+- HCI - Human-Computer-Interaction
+Links: https://www.inf.uni-hamburg.de/en/inst/ab/hci/teaching/thesis.html
+
+- SVS - Sicherheit in verteilten Systemen
+Links: https://www.inf.uni-hamburg.de/inst/ab/svs/theses/guidelines.html
+
+- SWK - Softwareentwicklungs- und konstruktionsmethoden
+Links: https://www.inf.uni-hamburg.de/inst/ab/swk/theses.html
+
+- VSIS - Verteilte Systeme /Datenbanken und Informationssysteme
+Links: https://vsis-www.informatik.uni-hamburg.de/vsis/teaching/theses
+
+- WISTS - Wirtschaftsinformatik, Sozio-Technische Systemgestaltung
+Links: https://www.inf.uni-hamburg.de/inst/ab/wists/teaching/theses.html
+
+- WTM - Knowledge Technology
+Links: https://www2.informatik.uni-hamburg.de/wtm/teaching/universitaet/suggested_topics_titles.shtml
+
+- ZBH - Zentrum für Bioinformatik
+Links: https://www.zbh.uni-hamburg.de/
+
+- IWI - Institut für Wirtschaftsinformatik
+Links: https://www.bwl.uni-hamburg.de/iwi/studium/abschlussarbeiten.html
+
+### Begutachtung von Abschlussarbeiten
+
+Stand: 20.03.2013 - aktualisiert 05.08.2021
+
+### Allgemeines
+
+Mit der Reform der Prüfungsordnungen für die Bachelor- und Masterstudiengänge wurde auch die Möglichkeit geschaffen, den Kreis der möglichen Gutachterinnen und Gutachter für die Bachelor- und Masterarbeiten auszuweiten. Um für die Studierenden und potenziellen Gutachterinnen und Gutachter mehr Klarheit in das Verfahren zu bringen, haben sich die Vorsitzenden der Prüfungsausschüsse auf die im Folgenden dargestellten Abläufe und möglichen GutachterInnen geeinigt.
+
+In den Bachelor- und Masterstudiengängen des Fachbereichs Informatik können die folgenden Beschäftigten des Fachbereichs Informatik die Begutachtung von Abschlussarbeiten übernehmen:
+
+a. ProfessorInnen (einschl. VertretungsprofessorInnen und JuniorprofessorInnen)b. PrivatdozentInnenc. Promovierte MitarbeiterInnen
+
+Eine Liste der MitarbeiterInnen des Fachbereichs Informatik finden hier.
+Links: https://www.inf.uni-hamburg.de/pers.html
+
+MitarbeiterInnen des Fachbereichs Informatik, die sich im Promotionsverfahren befinden, die Promotion aber noch nicht abgeschlossen haben, können im Einzelfall eine Begutachtung übernehmen, wenn die entsprechende Arbeitsbereichsleitung dieses schriftlich befürwortet und im Einzelfall bestätigt, dass „sich das Thema der Bachelor- bzw. Masterarbeit nur auf den Prüfungsstoff der Lehrveranstaltungen der Prüferinnen und Prüfer bzw. der dazu gehörenden Module erstreckt“ (§ 14 (7) S. 2 PO). In diesen Fällen trifft die abschließende Entscheidung im Einzelfall der Prüfungsausschuss.
+
+Sollen Personen die Begutachtung von Bachelor- oder Masterarbeiten übernehmen, die nicht zu den o.g. Personengruppen gehören, so ist dem Antrag zur Abschlussarbeit eine kurze Erläuterung der Qualifikation des externen Gutachters bzw. der externen Gutachterin beizufügen. Auch die Betreuung durch ehemalige Beschäftigte des Fachbereichs Informatik ist beim Prüfungsausschuss zu beantragen. GutachterInnen, die nicht Mitglieder der Universität Hamburg sind, sollen promoviert sein. Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+
+### Begutachtung der Abschlussmodule in den Bachelorstudiengängen
+
+Die Begutachtung von Abschlussarbeiten in den Studiengängen B.Sc. Informatik, Software-System-Entwicklung, Mensch-Computer-Interaktion, Computing in Science und Wirtschaftsinformatik können die in Nr. a.)–c.) genannten Personen übernehmen. Zumindest eine/r der GutachterInnen muss promoviert sein.
+
+Zu möglichen Gutachterinnen und Gutachtern aus der Betriebswirtschaft (B.Sc. Wirtschaftsinformatik) sowie Chemie, Physik, Biologie und Mathematik (B.Sc. Computing in Science) siehe unten.
+
+Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+
+### Begutachtung der Abschlussmodule in den Masterstudiengängen
+
+Für die Erstbegutachtung von Masterarbeiten in den Studiengängen M.Sc. Informatik, Wirtschaftsinformatik, Intelligent Adaptive Systems und IT-Management und Consulting und Bioinformatik wird eine Qualifikation nach Nr. a.)–b.), für die Zweitbegutachtung zumindest eine Promotion vorausgesetzt.
+
+Zu möglichen Gutachterinnen und Gutachtern aus den Betriebswirtschaft (M.Sc. Wirtschaftsinformatik) siehe unten.
+
+Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+
+Für den Masterstudiengang Wirtschaftsinformatik werden diese Regelungen nach Beschluss des Prüfungsausschusses vom 29.11.2012 mit der Einschränkung übernommen, dass promovierte MitarbeiterInnen des Fachbereichs Informatik nur Masterarbeiten im M.Sc. Wirtschaftsinformatik begutachten dürfen, deren Thema einen Bezug zu den Lehrveranstaltungen der MitarbeiterInnen besitzt.
+
+### Antragsverfahren
+
+Bitte lesen Sie vor der Beantragung die entsprechenden Regelungen in der Prüfungsordnung (§ 14) und in den Fachspezifischen Bestimmungen.
+
+- Bitte lesen Sie vor der Beantragung die entsprechenden Regelungen in der Prüfungsordnung (§ 14) und in den Fachspezifischen Bestimmungen.
+
+- Für die Beantragung der Abschlussarbeiten stehen auf den Studiengangs-Websites die jeweiligen Antragsformulare zum Ausfüllen und Download bereit.
+
+- Das Antragsformular ist u.a. vom Erst- und Zweitgutachter zu unterschreiben.
+
+- Bitte fügen Sie ggf. die Bestätigung des Arbeitsbereichsleiters (für den Fall, dass einer der Gutachter noch nicht promoviert ist) oder die Erläuterung der Qualifikation (bei einem externen Gutachter) bei.
+
+- Der im Studienbüro Informatik eingereichte Antrag wird dem Prüfungsausschuss zur Entscheidung vorgelegt
+
+### Mögliche Gutachterinnen und Gutachter für Bachelor- und Masterarbeiten am Fachbereich Wirtschaftswissenschaften
+
+Der Prüfungsausschuss des B.Sc. Wirtschaftsinformatik hat am 29.11.2012 beschlossen:
+
+- Die ProfessorInnen, PrivatdozentInnen, VertretungsprofessorInnen und JuniorprofessorInnen des Fachbereichs BWL (heute: Fakultät BWL) dürfen Bachelorarbeiten begutachten.
+
+- Promovierte MitarbeiterInnen des Fachbereichs BWL (heute: Fakultät BWL), die Lehrveranstaltungen im Bachelorstudiengang Wirtschaftsinformatik durchführen, dürfen Bachelorarbeiten begutachten.
+
+- Für MitarbeiterInnen des Fachbereichs BWL (heute: Fakultät BWL), die sich im Promotionsverfahren befinden, die Promotion aber noch nicht abgeschlossen haben, wird die Regelung b) aus dem Fachbereich Informatik (s.o.) analog angewendet.
+
+Der Prüfungsausschuss des M.Sc. Wirtschaftsinformatik hat am 29.11.2012 beschlossen:
+
+- ProfessorInnen, PrivatdozentInnen, VertretungsprofessorInnen und JuniorprofessorInnen des Fachbereichs BWL (heute: Fakultät BWL) dürfen Masterarbeiten begutachten.
+
+- Die Erstellung von Zweitgutachten dürfen darüber hinaus auch promovierte MitarbeiterInnen des Fachbereichs BWL (heute: Fakultät BWL) durchführen, wenn sie Lehrveranstaltungen im Masterstudiengang Wirtschaftsinformatik durchführen und das Thema der Masterarbeit einen Bezug zu diesen Lehrveranstaltungen besitzt.
+
+### Mögliche Gutachterinnen und Gutachter für Bachelorarbeiten aus den Fachbereichen Chemie, Physik, Biologie und Mathematik
+
+Der Prüfungsausschuss des B.Sc. Computing in Science hat am 21.01.2013 beschlossen, dass die o.g. Regelungen für die Begutachtung von Bachelorarbeiten im Studiengang Computing in Science auch für Beschäftigte der am Studiengang beteiligten weiteren Fachbereiche Anwendung finden sollen. In diesem Fall ist dem Antrag zur Abschlussarbeit eine kurze Erläuterung der Qualifikation des Gutachters beizufügen. Über begründete Ausnahmen entscheidet der Prüfungsausschuss.
+
+### Wie und wo melde ich die Abschlussarbeit an?
+
+Sobald Sie mit den Erst- und Zweitgutachtern/innen sowie eventuellen weiteren Betreuern/innen die Themenfindung abgeschlossen haben, müssen Sie die Arbeit schriftlich im Studienbüro anmelden. Dafür gibt es ein Formular, das Sie und jeweils der/die Erst- sowie Zweitgutachter/in unterschreiben müssen.Bitte beachten Sie auch die Hinweise auf dem Merkblatt zur Abschlussarbeit! (Siehe unten oder im Formular-Center)
+
+Nach der Anmeldung haben Sie insgesamt fünf Monate (bei Bachelorarbeiten) bzw. sechs Monate (bei Master- und Diplomarbeiten) Zeit, die Arbeit zu erstellen. Jede Arbeitsgruppe handhabt diesen Prozess ein wenig anders und hat auch unterschiedliche Vorgaben an das fertige Produkt (Gliederung, Literaturangaben, Formatierung, Umfang, Sprache, etc.). Von Ihrem Betreuer/Ihrer Betreuerin erfahren Sie alle relevanten Details.
+
+## Formulare für Bachelor-Studiengänge / Forms for Bachelorʼs Degree Programs
+
+BSc CIS | BSC Inf. | BSc MCI | BSc SSE | BSc WiInf
+
+Merkblatt | Merkblatt | Merkblatt | Merkblatt | Merkblatt
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-cis-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-inf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-mci-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-sse-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/bsc-wiinf-abschl-merkblatt.pdf
+
+Anmeldeformular Deckblattvorlagen (nur UHH-Netz bzw. via VPN)
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/anmeldeformular-bachelorarbeit-final.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
+
+## Formulare für Masterstudiengänge / Forms for Masterʼs Degree Programs
+
+MSc BioInf | MSc Inf. | MSc WiInf | MSc ITMC | MSc IAS
+
+Merkblatt | Merkblatt | Merkblatt | Merkblatt | Information Leaflet and registration Form Master's ThesisTemplates for Cover Page(from UHH network or VPN)
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/msc-bioinf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-inf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-wiinf-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-itmc-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/msc-ias-abschl-merkblatt.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
+
+Anmeldeformular Deckblattvorlagen (nur UHH-Netz bzw. via VPN)
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/anmeldeformular-masterarbeit-final.pdf | https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
+
+### Wie und wo gebe ich die Abschlussarbeit ab?
+
+Bitte beachten Sie die ausführlicheren Hinweise auf dem Merkblatt zur Abschlussarbeit! Sie finden dieses hier sowie im Formular-Center.
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/abschlussarbeit_Zeugnis/anmeldung.html
+
+Ihre fertige Arbeit einschließlich eventueller Anhänge (z.B. Programmcode) muss digital per FBI-Cloud bis zum Abgabetermin im Studienbüro eingereicht werden. Für einen Link zur FBI-Cloud wenden Sie sich bitte an das Studienbüro (studienbuero.inf"AT"uni-hamburg.de).
+
+Die Abgabe einer gedruckten Version der Abschlussarbeit ist nicht mehr erforderlich!
+
+Zur Gestaltung des Deckblatts gibt es Vorlagen (nur UHH-Netz bzw. via VPN).
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/deckblattvorlage-abschlussarbeiten.zip
+
+Sie müssen in Ihrer Arbeit an Eides statt die Eigenständigkeit Ihrer Arbeit erklären. Die entsprechende Formulierung finden Sie in Ihrem Merkblatt. Für die eidestattliche Versicherung in der digitalen Abgabe reicht eine digitale Unterschrift (z.B. hineinkopierter Scan) aus.
+
+Sie haben die freiwillige Möglichkeit, Ihre Arbeit über die Fachbereichs-Bibliothek zu veröffentlichen. Hierfür gibt es zwei Wege: Die Arbeit wird digital über den Publikationsserver des Fachbereichs (INFDoc) veröffentlicht und/oder sie wird als gedruckte Ausgabe in der Informatik Bibliothek eingestellt. Wenn Sie der Einstellung Ihrer Arbeit in die Fachbereichs-Bibliothek zustimmen, geben Sie auch hierfür bitte eine Erklärung ab. Genauere Details können Sie dem Merkblatt zur Anfertigung von Bachelor- und Masterarbeiten in unserem Formular-Center entnehmen.
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms.html
+
+Im Fall längerer Krankheit oder anderer schwerer zeitlicher Verhinderungen, die Sie nicht zu vertreten haben, kann ein Antrag auf Verlängerung gestellt werden.
+
+### Was bedeutet Kolloquiumsvortrag?
+
+Kolloquiumsvortrag zur Abschlussarbeit
+
+In allen Bachelor- und Masterstudiengängen des Fachbereichs - außer B.Sc. Wirtschaftsinformatik - ist ein Kolloquiumsvortrag verpflichtender Bestandteil des Abschlussmoduls. In diesem Vortrag präsentieren Sie die Ergebnisse Ihrer Arbeit und beantworten Fragen der Gutachter/innen und eventueller Betreuer/innen. Meistens findet der Vortrag nach Abgabe der schriftlichen Arbeit statt. Hierbei ist es aber nicht notwendig, auf die Begutachtung der Arbeit zu warten. Es ist nach Absprache mit den Gutachtern auch möglich, den Vortrag bereits vor dem Abgabetermin der schriftlichen Arbeit zu halten. Die Terminvereinbarung findet zwischen Studierenden und Gutachter:innen statt.
+
+### Wie geht es nach der Abgabe weiter und wie erhalte ich mein Zeugnis?
+
+Das Studienbüro übermittelt die von Ihnen digital abgegebene Abschlussarbeit jeweils an den/die Erst- und Zweitgutachter/in zur Begutachtung. Nach Eingang der beiden Gutachten und des Protokolls über das Kolloquium (kein Kolloquium im B.Sc. Wirtschaftsinformatik) trägt das Studienbüro die Noten in Ihr STiNE-Leistungskonto ein. Wenn das Abschlussmodul die letzte zu erbringende Prüfungsleistung in Ihrem Studium war, erstellt das Studienbüro die Abschlussdokumente (Urkunde, Zeugnis, Transcript of Records und Diploma Supplement). Eine Beantragung der Abschlussdokumente ist nicht erforderlich.
+
+Bitte nehmen Sie aber Kontakt mit dem Studienbüro auf, wenn Ihr Leistungskonto noch "geordnet" werden muss, also Sie z.B. zu viele Leistungspunkte in einem oder mehreren Bereichen erbracht haben. In diesem Fall können Module oder Teile von Modulen ggf. in den Freien Wahlbereich, oder ansonsten in den Bereich "Zusätzliche Leistungen" verschoben werden. (Dieser erscheint nicht auf dem Zeugnis, aber auf dem Transcript of Records der Abschlussdokumente.) Teilen Sie uns bitte so bald wie möglich mit, was Sie wohin verschoben haben möchten!
+
+Die Erstellung der Abschlussdokumente inklusive Druck bei der Druckerei und Unterschrift durch den/die Prüfungsausschussvorsitzende/n kann mehrere Wochen in Anspruch nehmen. Sie erhalten von uns per Email Bescheid, wenn die Dokumente fertig sind, und können sie dann abholen oder per Post zugeschickt bekommen.
+
+Einmal im Semester gibt es am Fachbereich Informatik eine Absolventenfeier. Die Einladung dazu erhalten Sie per Email.
+
+## Adressänderung
+
+Bitte teilen Sie der Universität die Änderung Ihrer Anschrift mit, damit wir immer Ihre aktuellen Kontaktdaten haben. Für die Adressänderung, die Sie nicht selbst in STiNE vornehmen können, wenden Sie sich bitte an das CampusCenter.
+Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/studienverlauf/adressaenderung.html
+
+## Anerkennung/Anrechnung von Leistungen
+
+Ihr grundsätzliches Recht auf Anerkennung von Leistungen wird in §8 der MIN-Prüfungsordnungen beschrieben, die für Bachelor- und Masterstudiengänge gleichlautend sind:
+Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungs-studienordnungen/mathematik-informatik-und-naturwissenschaften.html
+
+(1) Studienzeiten, Studienleistungen, Prüfungsleistungen sowie in den Studiengang eingeordnete berufsfeldbezogene Studien beziehungsweise Praktika, die an einer Universität, gleichgestellten Hochschule, in staatlich anerkannten Fernstudien, an anderen Bildungseinrichtungen, insbesondere in Studiengängen an staatlichen oder staatlich anerkannten Berufsakademien sowie an Fachhochschulen erbracht worden sind, sind auf Antrag des bzw. der Studierenden anzuerkennen, sofern keine wesentlichen Unterschiede zwischen den erworbenen und den an der aufnehmenden Hochschule zu erwerbenden Kenntnissen und Fähigkeiten bestehen. Eine Anerkennung mit Auflagen ist möglich.
+
+(3) Auf andere Weise als durch ein Studium erworbene Kenntnisse und Fähigkeiten, die jenen gleichwertig und für einen erfolgreichen Abschluss eines Studiengangs erforderlich sind, sind in einem Umfang von bis zur Hälfte auf die zu erbringenden Studien- und Prüfungsleistungen anzuerkennen.
+
+So wird ein Antrag auf Anerkennung von Leistungen gestellt:
+
+- Am Anfang steht Ihre persönliche Entscheidung, welche Module anerkannt werden sollen. Grundlage hierfür sind im Sinne der oben zitierten Rechtsgrundlagen, dass vergleichbare Kompetenzen zwischen Modulen Ihres alten Studiums bzw. Auslandsstudiums bzw. Ihren Ausbildungsinhalten und den Modulen bzw. Bereichen des aktuellen Studiums existieren. Bei Bedarf berät Sie Ihr/Ihre Studienfachberater/in in den Sprechstunden oder einem individuell vereinbartem Termin.Hinweis: Im B.Sc./M.Sc. Wirtschaftsinformatik müssten gemäß Entscheidung der Prüfungsausschüsse auch für Sprachkurse der Universität Hamburg (als sog. "extracurriculare Leistungen") Anträge auf Anerkennungen von Leistungen gestellt werden, wenn sie im freien Wahlbereich eingebracht werden sollen. In den anderen Studiengängen mit einem Freien Wahlbereich können Sprachkurse durch das Studienbüro Informatik verbucht werden, indem Sie den Nachweis des Kursabschlusses ans Studienbüro(studienbuero.inf"AT"uni-hamburg.de) per E-Mail zu senden, ohne einen Antrag zu stellen.
+Links: https://www.inf.uni-hamburg.de/studies/orga/stb.html
+
+- Sie füllen den Anerkennungsantrag in STiNE aus. Ausführliche Informationen einschl. einer Schritt-für-Schritt-Anleitung der STiNE-Antragstellung finden Sie in diesen Folien. Vergessen Sie das virtuelle "Abschicken" nicht, nachdem der Antrag in STiNE hinterlegt ist.
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/anrechnung-leistungen-infovortrag.pdf
+
+- Geben Sie via E-Mail an das Studienbüro(studienbuero.inf"AT"uni-hamburg.de) oder via Sprechstunde dem/der Studienfachberater/in Bescheid geben, dass Ihr Antrag abgeschickt ist. Nennen Sie Ihre Antragsnummer und Ihren (neuen) Studiengang. Sie erhalten von uns eine Zusammenfassung Ihres Antrags als PDF-Datei, die Sie drucken und unterschreiben müssten; auch eine direkt ins Dokument "gemalte" Unterschrift (wenn Sie ein passendes Tool dafür haben) ist möglich. Dieses Dokument dient als Beschlussvorlage für den Prüfungsausschussvorsitz.
+
+- Die im Folgenden aufgezählten Dokumente müssen digital eingereicht weren (Scan/gut lesbares Foto, soweit nicht ohnehin digital vorliegend): Unterschriebe Zusammenfassung Ihres Antrags, die Sie von uns erhalten haben Transcript of Records, Zeugnis oder andere Belege der anzurechnenden Leistungen.Dies ist verzichtbar bei an der Universität Hamburg erbrachten Leistungen, die bereits in STiNE erfasst sind. ModulbeschreibungenAusnahme: Keine Modulbeschreibungen nötig bei Modulen, die identisch im neuen Studiengang vorkommen, oder falls eine Lernvereinbarung die Anerkennbarkeit eines Moduls bereits vorab bestätigt hat (dann stattdessen die Lernvereinbarung senden)
+
+- Sonderfall: Im B.Sc./M.Sc. Wirtschaftsinformatik ist gemäß Entscheidung der Prüfungsausschüsse für Sprachkurse auch eine Kopie des Abiturzeugnisses (oder der sonstigen Hochschulzugangsberechtigung) nötig. Das gilt auch für Sprachkurse der Universität Hamburg, für die in diesen Studiengängen ein Antrag auf Anerkennung einer sog. extracurricularen Lesistung notwendig ist, wenn sie im freien Wahlbereich eingebracht werden sollen.
+
+- Über die Entscheidung des/der Prüfungsausschuss-Vorsitzenden erhalten Sie eine schriftliche Benachrichtigung
+
+Für die Antragstellung gibt es keine bestimmte Frist; beachten Sie aber, ein Modul oder eine Modulteilprüfung nicht mehr anerkannt werden kann, wenn Sie das Prüfungsverfahren Sie bereits verbindlich eingetreten sind (d.h. Prüfungen wurden schon durchgeführt oder eine künftige Prüfung ist angemeldet und Frist zur Abmeldung abgelaufen). Davon abgesehen empfehlen wir eine zeitnahe Antragstellung nach Studienstart bzw. direkt nach Leistungserwerb (z.B. direkt nach Rückkehr aus dem Auslandssemester).
+
+Bei Unsicherheiten: Die Studienfachberatung berät Sie in allen Fragen rund um das Thema Anerkennung von Leistungen.
+
+## Auslandsstudium
+
+### Das Team "Informatics International" ist Ihre zentrale Anlaufstelle für alle internationalen Fragen innerhalb des Fachbereichs Informatik.
+Links: https://www.inf.uni-hamburg.de/studies/international.html
+
+### Studium oder Praktikum im Ausland
+
+Die Abteilung Internationales informiert in ihren monatlichen Infoveranstaltungen im CampusCenter, in ihren Sprechstunden und auf ihren Internet-Seiten zu Fragen eines studienbezogenen Aufenthalts im Ausland. Informationen unter www.uni-hamburg.de/outgoing oder im Newsletter unter www.uni-hamburg.de/news-outgoing.
+Links: http://www.uni-hamburg.de/outgoing | http://www.uni-hamburg.de/news-outgoing
+
+### Hamburglobal – das Outgoing-Stipendium der Universität Hamburg
+
+Für ein Studiensemester oder ein Praktikum im Ausland, die nicht durch ERASMUS gefördert werden, vergibt die Abteilung Internationales Teilstipendien.Infos und Beratungszeiten unter: www.uni-hamburg.de/hamburglobal
+Links: http://www.uni-hamburg.de/hamburglobal
+
+### Zentralaustausch
+
+Mit dem Zentralaustauschprogramm der Universität Hamburg können Studierende ein oder zwei Auslandssemester an einer der 18 Partneruniversitäten absolvieren.Das Programm wird zentral von der Abteilung Internationales für die ganze UHH organisiert.Liste der Partneruniversitäten, weitere Infos und Beratungszeiten unter: www.uni-hamburg.de/zentralaustausch
+Links: http://www.uni-hamburg.de/zentralaustausch
+
+### ERASMUS+
+
+Das ERASMUS+-Programm der Europäischen Union bietet den Studierenden die Möglichkeit, ein oder zwei Auslandssemester an einer europäischen Partnerhochschule zu verbringen. Dabei steht ERASMUS+ für viele Vorteile: Studiengebührenbefreiung an der Gasthochschule, finanzielle Förderung durch einen monatlichen Zuschuss sowie administrative Unterstützung. Jedes Jahr nutzen über 500 Studierende der Universität Hamburg diese Chance, ihren Horizont zu erweitern und internationale Erfahrung zu sammeln. Neben der Programmlinie Studienaufenthalte werden auch Praktika im EU-Raum gefördert. Jedes Institut bzw. jeder Fachbereich verfügt über ein eigenes Netzwerk von ERASMUS-Partnern, das von Programmbeauftragten betreut wird. Ansprechpartner für interessierte Studierende sind die ERASMUS-Stellen an den Fakultäten und in den Fachbereichen.
+Links: https://www.uni-hamburg.de/internationales/studierende/outgoing/austausch-gaststudium/erasmus/im-ausland-studieren.html
+
+### Lernvereinbarung
+
+Der Abschluss einer Lernvereinbarung ist für jeden studienbezogenen Auslandsaufenthalt empfehlenswert. Sie enthält einen Studienplan, also eine Liste, welche Modul an der Gastuniversität belegt werden sollen, und sichert - sofern die Genehmigung durch den zuständigen Prüfungsausschuss erfolgt ist - vorab eine Anerkennung der belegten Module zu. Damit kann der bzw. die Studierende zuverlässig damit planen, dass im Ausland erfolgreich absolvierten Module für das Studium genutzt werden können. Für einen Austausch über ERASMUS+ ist eine abgeschlossene Lernvereinbarung zwingend und somit Teil der Bewerbungsunterlagen. Für Auslandsaufenthalte, die außerhalb formaler Austauschprogramme organisiert werden, kann freiwillig eine Lernvereinbarung abgeschlossen werden, wofür der Fachbereich Informatik ein Formular zur Verfügung stellt.
+Links: https://www.uni-hamburg.de/internationales/studierende/outgoing/austausch-gaststudium/erasmus/im-ausland-studieren.html | https://www.inf.uni-hamburg.de/studies/orga/forms.html
+
+### Stipendien für internationale Studierende
+
+Die Abteilung Internationales vergibt Leistungsstipendien an internationale Studierende mit herausragenden Studienleistungen, die bereits zwei Semester an der Universität Hamburg immatrikuliert und mindestens im dritten Semester ihres Studiums sind. Weitere Infos und Beratungszeitenunter: www.uni-hamburg.de/leistungsstipendien
+Links: http://www.uni-hamburg.de/leistungsstipendien
+
+Des Weiteren vergibt die Abteilung Internationales Examensstipendien an bedürftige internationale Studierende der Universität Hamburg. Nähere Informationen und Beratungszeiten unter:www.uni-hamburg.de/examenstipendien
+Links: https://www.uni-hamburg.de/internationales/studierende/incoming/studium-mit-abschluss/waehrend-des-studiums/finanzierung/examensstipendien.html
+
+### DAAD-Preis für internationale Studierende
+
+Jedes Jahr wird der mit 1.000 € dotierte DAAD-Preis für hervorragende Leistungen ausländischer Studierender der Universität Hamburg vergeben.Kontakt: Otilia Dias, Abteilung Internationales,www.uni-hamburg.de/internationales/kontakt.html
+Links: http://www.uni-hamburg.de/internationales/kontakt.html
+
+### PIASTA Interkulturelles Leben und Studieren
+
+PIASTA engagiert sich für interkulturelles Leben und Studieren an der Universität Hamburg und richtet sich an deutsche und internationale Studierende und Promovierende.Das Programm steht für die Internationalisierung des Campus, für Austausch und gemeinsames Lernen mit dem Ziel, allen Studierenden ein aktives, internationales und erfolgreiches Studium zu ermöglichen.Ein interkulturelles Team aus Tutorinnen und Tutoren unterstützt dabei, das Studium erfolgreich zu bewältigen und die Freizeit interessant zu gestalten. Das „Welcome & Kultur Programm“ bietet jede Woche im Semester ein interkulturelles Abendprogramm und Ausflüge in und um Hamburg.Im „Training & Coaching Programm“ können Kompetenzen im Bereich wichtiger Basisqualifikationen und Soft-Skill-Kenntnisse in interkulturellen Gruppen erworben werden. International orientierte Studierende können das Certificate Intercultural Competence erwerben.Aktuelle Termine und Anmeldung: www.uni-hamburg.de/piasta
+Links: http://www.uni-hamburg.de/piasta
+
+## BAföG-Anträge
+
+Das Beratungszentrum Studienfinanzierung (BeSt) des Studierendenwerks Hamburg berät kostenlos und unabhängig alle Studieninteressierten und Studierenden über BAföG, Stipendien, Studienkredite und Bildungskredite.Kontaktmöglichkeiten und weitere Informationen zum Thema BAföG entnehmen Sie bitte der Seite des Studierendenwerks zur Studienfinanzierung.
+Links: https://www.studierendenwerk-hamburg.de/studienfinanzierung
+
+Wer im Bachelor studiert und BAföG erhält, muss dem BAföG-Amt nach dem 3. oder 4. Fachsemester einen Leistungsnachweis ("übliche Studienleistungen") als Bescheinigung nach § 48 BAföG vorlegen, damit ein Weiterbezug des BAföG möglich ist. Bitte wenden Sie sich an die Studienfachberatung im Studienbüro Informatik für Ausstellung dieser Beschenigung.
+
+## CampusCenter
+
+Im CampusCenter finden Studieninteressierte, -bewerber/innen und Studierende alle wichtigen Informationen unter einem Dach. Hier sind der Service für Studierende (SfS), die Zentrale Studienberatung und Psychologische Beratung (ZSPB), das Referat Qualität und Recht, das Büro für die Belange von Studierenden mit Behinderung oder chronischer Krankheit, RRZ-Services und die Abteilung Internationales mit der Beratung „Studieren im Ausland“ und „Promovieren International“ zu finden. Kurze allgemeine Anliegen können am ServicePoint und ServiceTelefon schnell geklärt werden. Häufige Themen im Studienverlauf sind:
+
+- Adressänderungen
+
+- Anträge Teilzeitstudium, Urlaubssemester
+
+- Semestergebühr, Semesterticket, Studierendenausweis - auch verlustmeldung!
+
+- Studienabschluss, Exmatrikulation
+
+Alsterterrasse 1, 20354 Hamburg (3./4. Stock)www.uni-hamburg.de/campuscenter
+Links: http://www.uni-hamburg.de/campuscenter
+
+ServicePoint und ServiceTelefonSprechzeiten für allgemeine Fragen:mo-mi 9-15 Uhr, do 13-18 Uhr, fr 9-13 UhrTel: 040 42838-7000
+
+RRZ-Services (Raum 324)Sprechzeiten: mo-mi 9-13 Uhr, do 14-18 UhrTelefonische Sprechzeiten: mo-fr 9-18 UhrTel: 040 428 844 844www.rrz.uni-hamburg.de
+
+Kontakt per Formular im STiNE-Portal:www.stine.uni-hamburg.de (unter Menüpunkt „Hilfe – Supportanfrage“)
+
+Informationen über die Behindertengerechtigkeit der Gebäude:www.uni-hamburg.de/campus-zugaenglichkeit
+Links: http://www.uni-hamburg.de/campus-zugaenglichkeit
+
+„Campus Navigator“, das digitale Navigationssystem der Universität Hamburg, mit Daten zuallen Einrichtungen, Gebäuden und Kontaktpersonen: www.uni-hamburg.de/campusnavigator
+Links: https://m.uni-hamburg.de/?Cn-#Cn-#Cn-
+
+Der „Campus Navigator“ mit GPS-gesteuerter Routenplanung ist Bestandteil der Uni-Hamburg-App „UHH mobile“.
+
+## E-Mail-Kommunikation - Studiums-Mail nutzen
+
+Jede und jeder Studierende der Universität Hamburgh hat eine studentische E-Mail-Adresse. Warum die Nutzung so wichtig ist, welche Vorteile sie bietet und wie man sie in verschiedene Mailprogramme einbinden kann, zeigt dieses Video:
+
+Each and every student at the university has a student e-mail address. This video shows why it is so important to use it, what advantages it offers and how you can integrate it into various mail programs:
+
+## Ethikkommission
+
+Die lokale Ethikkommission des Fachbereichs Informatik der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg nimmt auf Antrag Stellung zur ethischen Vertretbarkeit von Forschungsvorhaben unter Einbezug von Menschen sowie Forschungsvorhaben mit personenbezogenen Daten.
+Links: https://www.inf.uni-hamburg.de/home/ethics.html
+
+Anträge können von allen Studierenden und Mitgliedern des Fachbereichs Informatik der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg gestellt werden. Anträge sind vor allem für Experimente zu empfehlen, die untersuchten Personen Risiken zumuten, oder für Studien, in denen die Personen nicht vollständig über die Ziele und den Ablauf der Studie aufgeklärt werden. Anträge können jederzeit eingereicht werden. Bitte beachten Sie aber die Fristen, bis zu denen Anträge eingegangen sein müssen, um in der nächsten Sitzung behandelt zu werden.
+
+## Evaluation der Lehre
+
+Im Fachbereich Informatik wird zur Sicherung und Verbesserung der Qualität der Lehre in jedem Semester eine Lehrevaluation mit Befragung der Studierenden durchgeführt. Es werden die einzelnen Lehrveranstaltungen evaluiert, nicht Module.
+
+Die Umfragen erfolgen mittels online-Fragebögen, deren Zugangslink nach ca. zwei Dritteln der Vorlesungszeit in den Lehrveranstaltungen verteilt werden. Nach dem Ausfüllen durch die Studierenden werden die online-Fragebögen vom TEAM Evaluation technisch verabeitet. Die Evaluationsergebnisse werden möglichst unverzüglich an die jeweilige Dozentin bzw. dem jeweiligen Dozenten per E-Mail zugesandt, damit eine Besprechung des Feedbacks mit den Studierenden noch in der laufenden Vorlesungszeit erfolgen kann.Die Umfrage erfolgt mit verschiedenen Fragebogentypen (ein Fragebogen für Vorlesungen und Übungen, ein Fragebogen für Seminare/Proseminar, ein Fragebogen für Projekte, ein Fragebogen für Praktika). Die Fragebögen können in Deutsch oder Englisch ausgefüllt werden, um den internationalen Studierenden die Teilnahme an der Lehrevaluation zu ermöglichen.
+
+## Exmatrikulation
+
+Wer das Studium ordnungsgemäß abgeschlossen hat, wird ohne Antrag exmatrikuliert. Nur werdas Studium vorzeitig abbricht oder die Universität wechselt, muss sich beim Service für Studierende(SfS) exmatrikulieren lassen. Bei Exmatrikulation im laufenden Semester kann der Wert desSemestertickets anteilig ausgezahlt werden. Zuständig ist die Fahrgeldstelle der S-Bahn Hamburg:www.s-bahn-hamburg.de (Menüpunkt „Service“).www.uni-hamburg.de/exmatrikulation
+Links: http://www.uni-hamburg.de/exmatrikulation
+
+## Krankmeldung - Prüfungsunfähigkeit
+
+Wenn Sie aus Krankheitsgründen an einer Modulprüfung nicht teilnehmen können, füllen Sie bitte das dafür vorgesehene Online-Formular aus. Bitte laden Sie dort die ärztliche Bescheinigung über Ihre Prüfungsunfähigkeit hoch. Dies muss spätestens 10 Tage nach Beginn der Krankheit (Krankheitsbeginn gemäß Bescheinigung) geschehen. Bitte bewahren Sie Ihre Original-Bescheinigung für mögliche Rückfragen auf.
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/digital/all-students-inability-exam.html
+
+Studierende des Lehramtes informieren sich bitte auf folgender Webseite:http://www.uni-hamburg.de/zpla/formulare.html
+Links: http://www.uni-hamburg.de/zpla/formulare.html
+
+## Mutterschutz
+
+Als werdende Mutter genießen Sie während der Schwangerschaft und nach der Geburt einen besonderen Schutz. Seit dem 1. Januar 2018 sind Studentinnen in das Mutterschutzgesetz (MuSchG) einbezogen, da es nun Ausbildungsverhältnisse einschließt, in denen die jeweilige Ausbildungsstelle Ort, Zeit und Ablauf von Ausbildungsveranstaltungen verpflichtend vorgibt, was für ein Studium an der Universität Hamburg zutrifft.
+
+Die Mutterschutzfrist beginnt im Normalfall sechs Wochen vor dem errechneten Entbindungstermin und endet acht Wochen nach der Entbindung. Während der Schutzfrist gilt insbesondere:
+
+- Als Normalfall ein Teilnahmeverbot an Lehrveranstaltungen...
+
+- ...und soweit die Studentin es ausdrücklich wünscht, sich von dem Teilnahmeverbot an Lehrveranstaltungen befreien zu lassen, eine Freistellung von der Anwesenheitspflicht in Lehrveranstaltungen zwecks Untersuchungen und Stillzeiten.
+
+- Aussetzung von allen Fristen gemäß Prüfungsordnung, insbesondere entsprechende Verlängerung der Frist von Abschlussarbeiten.
+
+Ausführlichere Informationen können Sie Handreichung 17 des Rechtsreferats und der Webseite des Familienbüros entnehmen.
+Links: https://www.uni-hamburg.de/uhh/organisation/praesidialverwaltung/studium-und-lehre/qualitaet-und-recht/handreichungen.html | https://www.uni-hamburg.de/familienbuero/studieren-mit-kind/mutterschutz.html
+
+Damit Sie die Schutzrechte nach dem Mutterschutzgesetz in Anspruch nehmen können und die Universität entsprechende Schutzmaßnahmen ergreifen kann, wird empfohlen, dass Studentinnen eine Schwangerschaft so früh wie möglich gegenüber der Universität anzeigen. Eine Verpflichtung oder bestimmte Frist gibt es dafür aber nicht. Für die Anzeige einer Schwangerschaft sowie weitere Fragen und Informationen sind wir als Studienbüro Ihre erste Anlaufstelle.
+
+Querverweis: Siehe gegebenenfalls auch Abschnitt "Studieren mit Kind".
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/parents.html
+
+## Nachteilsausgleich
+
+Gemäß §11(1) der MIN-Prüfungsordnungen Bachelor bzw. Master of Science steht Studierenden mit Behinderungen oder länger andauernden bzw. chronischen Erkrankungen ein Nachteilsausgleich zu, sofern sich aus der Behinderung bzw. Erkrankung ein Nachteil bei der Erbringung von Prüfungs- und Studienleistungen ergibt:
+Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/ordnungen-satzungen/pruefungs-studienordnungen/mathematik-informatik-und-naturwissenschaften.html
+
+Macht eine Studierende bzw. ein Studierender glaubhaft, dass er bzw. sie wegen einer Behinderung oder länger andauernden schweren bzw. chronischen Erkrankung nicht in der Lage ist Prüfungsleistungen ganz oder teilweise zu den vorgesehenen Bedingungen zu erbringen oder innerhalb der in dieser Ordnung genannten Fristen abzulegen, kann die bzw. der Vorsitzende des Prüfungsausschusses auf schriftlichen Antrag angemessene nachteilsausgleichende Maßnahmen treffen. (…) Entsprechendes gilt für Studienleistungen.
+
+Über solche Nachteilausgleichsmaßen muss individuell entschieden werden, das sie je nach Art der Behinderung bzw. Krankheit und je nach im Modul vorgesehener Prüfungs- bzw. Studienleistungen unterschiedlich ausfallen können.
+
+Im Fall von Klausur-Prüfungen könnten solche Maßnahmen beispielsweise sein:
+
+- Verlängerung der Bearbeitungszeit einer Klausur
+
+- Zulassung von Unterbrechungen während der Bearbeitung der Klausur
+
+- Durchführung der Prüfung in einem eigenen Raum
+
+- Zulassung personeller oder technischer Unterstützung (z.B. Notebook mit Diktierprogramm)
+
+- Änderung der Prüfungsform
+
+Gemäß §11(2) der Bachelor/Master of Science ist für einen Nachteilsausgleich die Empfehlung der Koordinatorin für die Belange von Studierendenmit Behinderungen oder chronischen Krankheiten einzuholen. Sobald Sie diese Empfehlung erhalten haben, beantragen Sie im Studienbüro Informatik die Genehmigung der Nachteilsausgleichmaßnahme. Das Studienbüro informiert Sie, sobald der/die Prüfungsausschussvorsitzende über Ihren Antrag entschieden hat.
+Links: https://www.uni-hamburg.de/studieren-mit-behinderung.html
+
+Nach Genehmigung Ihre Antrags durch den/die Prüfungsausschussvorsitzende müssen Sie sich rechtzeitig vor der Prüfung bei den Veranstaltern des betreffenden Moduls melden und sie um Gewährung der Nachteilsausgleichsmaßnahme ersuchen. Kümmeren Sie sich rechtzeitig um die Beantragung: Bedenken Sie, dass es sehr kurzfristig vor der Klausur eventuell organisatorisch nicht mehr möglich ist, Ihre Nachteilausgleichsmaßnahme umzusetzen, insbesondere, wenn zusätzliche Räume oder Aufsichtspersonen benötigt werden.
+
+## Prüfungen
+
+Alle Bachelor- und Mastermodule unterliegen seit den Studienstartjahrgängen 2012/13 einer Versuchsregelung:
+
+- Für jedes Modul haben Sie maximal vier Prüfungs-Versuche. Dafür gibt es keine Frist, wir empfehlen aber ausdrücklich, die Prüfungen im Anschluss an die Belegung der Lehrverstaltungen der jeweiligen Module zu absolvieren.Ausnahme: Für die Abschlussarbeit haben Sie nur einen Wiederholungsversuch
+
+- Sie müssen sich für alle Prüfungen (egal, ob Klausur oder mündliche Prüfung) explizit anmelden! Ohne Anmeldung keine Teilnahme an der Prüfung!Die Anmeldung zu Klausuren wird im Normalfall durch die Studierenden selbstständig in STiNE durchgeführt, Termine für mündliche Prüfungen werden im Studienbüro (oder in Einzelfällen direkt durch die Veranstalter) vergeben. Bei technischen Problemen mit der Anmeldung wenden Sie sich bitte innerhalb der Anmeldephase zur Prüfung beim Studienbüro Informatik (bzw. dem für das Modul zuständigen Studienbüro Mathematik, BWL...).
+
+- Wenn Sie an der Prüfung nicht teilnehmen wollen, melden Sie sich fristgerecht ab! Sonst zählt die Prüfung als ein Fehlversuch!
+
+- Bei Krankheit reichen Sie unverzüglich ein ärztliches Attest (Prüfungsunfähigkeitsnachweis) per Mail im Studienbüro Informatik ein! Sonst zählt die wahrgenomme Prüfung als Fehlversuch, vgl. letzter Punkt! Über die Zulässigkeit des Nachweises entscheidet der/die Prüfungsauschussvorsitzende.
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/krankmeldung-modulpruefung.pdf
+
+- Auch zum zweiten, dritten und vierten Prüfungsversuch müssen Sie sich explizit anmelden! Bei Nicht-Bestehen einer Prüfung oder Fehlens wegen Krankheit (Nachweis!) werden Sie nicht automatisch zu einem Wiederholungstermin angemeldet!
+
+Fristen für die An- und Abmeldung von Prüfungsterminen:
+
+- Module der Informatik: Anmeldephase für Klausuren über STiNE bis spätestens um23:59 Uhr 3 Tage vor der Klausur:Die Frist gilt auch für das Abmelden von einer Prüfung! Anmeldung zu mündlichen Prüfungen: online-Tool(eigene Anmeldephasen im Studienbüro) Prüfungstermine siehe https://www.inf.uni-hamburg.de/de/studies/orga/dates.html)
+Links: https://www.inf.uni-hamburg.de/de/studies/orga/dates.html
+
+- Andere Fachbereiche: Achten Sie auf die An- und Ummeldezeiten vor der Prüfungsphase!
+
+Achtung: Früher konnten die Studierenden – innerhalb der gültigen Anmeldefristen – über den Button „Wechseln“ die Anmeldung ändern. D.h. die Aktion des Ab- und wieder Anmeldens konnte in einem einzigen Schritt durchgeführt werden. Seit einem STiNE-Update heißt der Button „Abmelden“ und muss über die Aktion des Wieder-Anmeldens zum gewünschten Termin aktiv ausgeführt werden.
+
+Den Ort von Klausuren des Fachbereichs Informatik ist im jeweiligen Modul in Stine angegeben. Außerdem finden Sie auf der Webseite des Studienbüros eine Übersicht über alle Klausuren des Fachbereichs Informatik. Bei mündlichen Prüfungen gilt: Soweit der Prüfer oder die Prüferin nichts anderes angekündigt haben, ist der Ort der Prüfung das Büro des Prüfers oder der Prüferin, siehe Liste aller Mitglieder des Fachbereichs.
+Links: https://www.inf.uni-hamburg.de/studies/orga/dates.html | https://www2.informatik.uni-hamburg.de/fiona/pers.php?lang=de&order=name
+
+Hinweise zum Nachteilsausgleich finden Sie in einem seperaten Abschnitt dieser Hinweise.
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/nachteilsausgleich.html
+
+Krankmeldungen/Prüfungsunfähigkeit sind mit dem entsprechenden Formular (PDF) unverzüglich, bis spätestens 5 Tage nach der Erkrankung beim Studienbüro Informatik per Mail einzureichen. Wenn Sie bei einem Prüfungstermin „entschuldigt“ sind (z.B. durch eine Krankmeldung) zählt dieser Termin nicht zu Ihren Prüfungsversuchen. Über die Zulässigkeit des Nachweises entscheidet der/die Prüfungsauschussvorsitzende. Auch bei Krankmeldung müssen Sie sich selbst zum nächsten Prüfungstermin anmelden.
+Links: https://www.inf.uni-hamburg.de/studies/orga/forms/krankmeldung-modulpruefung.pdf
+
+## Psychologische Beratung
+
+### Psychologische Beratung für Studierende
+
+Viele Studierende erleben während ihres Studiums schwierige persönliche Lebensphasen oder akute Belastungs- und Krisensituationen, die nicht immer aus eigener Kraft überwunden werden können. Studierende können sich an die Psychologische Beratung wenden mit allen studienbezogenen Schwierigkeiten und persönlichen Anliegen, die sich im Studium auswirken wie z.B. Lern- und Arbeitstörungen, Schreib-, Rede- und Prüfungsängsten, Einsamkeitsgefühlen und Kontaktschwierigkeiten, Depressionen und Ängsten und weiteres.
+
+- Zu den Angeboten der Psychologischen Beratung
+Links: https://www.uni-hamburg.de/campuscenter/beratung/beratungsangebote/psychologische-beratung.html
+
+### Büro für die Belange von Studierenden mit Behinderung oder chronischer Krankheit
+
+Das Büro ist die zentrale Anlaufstelle der Universität Hamburg für Studieninteressierte, Studienbewerber/innen und Studierende mit längerfristigen gesundheitlichen Beeinträchtigungen (z. B. Beeinträchtigungendes Hörens, des Sehens, des Sprechens sowie des Haltungs- und Bewegungsapparats, chronisch-somatische und psychische Erkrankungen sowie Teilleistungsstörungen) bzw. Behinderung.Wir beraten und unterstützen Sie bei allen beeinträchtigungsbezogenen Anliegen rund um Studienorientierung, Bewerbung und Studium.Kontakt: Dr. Maike Gattermann-KasperCampusCenter, Raum 301Tel: 040 42838-3764, E-Mail: maike.gattermann-kasper@uni-hamburg.dewww.uni-hamburg.de/behinderung(Dort finden Sie auch die aktuellen persönlichen und telefonischen Sprechstunden.)
+Links: http://www.uni-hamburg.de/behinderung
+
+### HOPES – Hilfe und Orientierung für psychisch erkrankte Studierende
+
+HOPES wendet sich an Studierende, die nach einer schweren psychischen Krise, häufig auch nach einer stationären oder teilstationären Behandlung, Hilfe zur Bewältigung des Studiums suchen. Das Angebot versteht sich als Ergänzung zur Studienberatung und zur ambulanten psychotherapeutischen oder psychiatrischen Behandlung.Tel: 040 42838-6282www.uni-hamburg.de/hopes
+
+### Kontakt- und Beratungsstelle bei sexueller Diskriminierung und Gewalt
+
+Die Kontakt- und Beratungsstelle gegen sexuelle Diskriminierung und Gewalt berät und unterstützt Studentinnen und Studenten, die Opfer von sexuellen Belästigungen im Rahmen der Universität Hamburg geworden sind. Betroffene können bei uns über ihre Erlebnisse mit einer neutralen Person sprechen, um z.B. eine größere Sicherheit in der eigenen Einschätzung zu erhalten und eine erste Entlastung zu erfahren. Sie bekommen darüber hinaus Informationen über mögliche weitere Vorgehensweisen und werden, wenn es gewünscht ist, bei weiteren Schritten (erweiterte Hilfestellung durch die Universität, Kontakt zur Polizei, Therapeutensuche etc.) unterstützt.Weitere Informationen und Kontakt: www.uni-hamburg.de/belaestigung
+
+## STiNE
+
+STiNE bietet zahlreiche Funktionen, von denen Studierende vom ersten Semester an profitieren.Datenschutz hat dabei selbstverständlich höchste Priorität.
+
+- Anmeldung zu Lehrveranstaltungen und Prüfungen
+
+- Persönlicher Stundenplan
+
+- Informationen über Raum- und Terminänderungen
+
+- Studienbescheinigungen zum Selbstausdrucken
+
+- Zugriff auf bereitgestellte Seminarmaterialien
+
+- Übersicht über die bisher erbrachten Prüfungsleistungen
+
+- Supportanfrage
+
+Falls Ihre STiNE-Kennung nicht funktioniert oder Sie Ihre Zugangsdaten nicht mehr finden, können Sie sich montags bis freitags von 09 – 18 Uhr gegen Vorlage Ihres Personalausweises neue Zugangsdaten im Regionalen Rechenzentrum, Schlüterstr. 70, Raum 121 besorgen.
+
+Bei weiteren Fragen zu Ihren Zugangsdaten können Sie sich auch per E-Mail an die STiNEline wenden: stineline"AT"rrz.uni-hamburg.de
+
+## Studieren mit Kind
+
+### Familienbüro der Universität Hamburg
+
+Die Universität Hamburg möchte die Vereinbarkeit von Studium und Familie bzw. Beruf und Familie als selbstverständlichen Bestandteil der Hochschulkultur stärken. Das Familienbüro koordiniert alle Informationen und ist Erstkontakt- und Vermittlungsstelle für Beschäftigte und Studierende sowie Dekanate und zentrale Einrichtungen der Universität zum Thema Vereinbarkeit von Studium bzw. Beruf und Familie.Kontakt: Familienbüro der Universität HamburgMittelweg 177, Raum N 0063, 20148 HamburgTel: 040 42838-9322, E-Mail: familienbuero@uni-hamburg.dewww.uni-hamburg.de/familienbuero
+Links: http://www.uni-hamburg.de/familienbuero
+
+### Anna-Rebecca-Kinderstuben
+
+Die Stiftung Hamburger Studierendenheime unterhält eine Kindertagesstätte im Studierendenwohnheim Ölmühlenweg 33 in Wandsbek. Es werden Kinder im Alter von einem Monat bis vierzehn Jahren für maximal zehn Stunden am Tag betreut.Anmeldung und Beratung: Beate Gutzmann, Leitung der Anna-Rebecca-KinderstubenTel: 040 6959868, E-Mail: leitung@stiftung-hs.de, www.stiftung-hs.de/
+
+### Studierendenwerk Hamburg
+
+Das Studierendenwerk Hamburg ist Betreiber von fünf Kindertagesstätten. Die Kitas Bornstraße, Hallerstraße und KinderCampus liegen in Nähe des Campus Von-Melle-Park und bieten rd. 180 Plätze für die Kinder von Studierenden, die bei der Vergabe der Plätze bevorzugt berücksichtigt werden.Seit 2010 hat das Studierendenwerk Hamburg auch die Kita auf dem Gelände des Universitätsklinikums Hamburg-Eppendorf (UKE) übernommen. Träger der Einrichtung ist weiterhin das UKE. Hier werden rund 140 Kinder betreut.Darüber hinaus bietet das Studierendenwerk flexible Betreuungsangebote insbesondere zur Kurzzeitbetreuung für kleinere Kinder an. Auf dem Hauptcampus mit Casper-Campus Spielgruppen und dem Familienzimmer am Fachbereich Informatik in Stellingen.Mehr Infos: www.studierendenwerk-hamburg.de (unter „Familienservice“)Beratungszentrum Soziales & Internationales – BeSI (Studierendenwerk Hamburg)Grindelallee 9, 3. OG, 20146 HamburgTel: 040 41902-155, E-Mail: besi@studierendenwerk-hamburg.dePersönliche Beratungszeiten ohne Voranmeldung:mo+fr 9.30-12 Uhr, di+do 9.30-12 und 14-16 Uhr
+
+Querverweis: Siehe gegebenenfalls auch Abschnitt "Mutterschutz".
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/mutterschutz.html
+
+## Teilnahme, Anwesenheitspflicht und Inaktivsetzung (z.B. Übungen)
+
+Grundsätzlich gilt - und viele Studien belegen es: Für ein gutes Bestehen eines Moduls ist Anwesenheit der Weg zum Ziel.
+
+In Übungen, Seminaren, Praktika, Projekten und sonstigen Lehrveranstaltungen mit Ausnahme von Vorlesungen besteht in der Regel Anwesenheitspflicht. In solchen Veranstaltungen wird gemäß §9(2) der MIN-Prüfungsordnungen B.Sc./M.Sc. als Bedingung für eine aktive Teilnahme verlangt, dass Sie höchstens 15% der Termine versäumt haben. Im Normalfall einer Veranstaltung mit 13-14 wöchentlichen Terminen über die Vorlesungszeit des Semesters bedeutet das, dass Sie von den Veranstaltern bzw. Veranstalterinnen inaktiv gesetzt werden, falls Sie mehr als zwei Termine versäumt haben. Wenn es weniger Termine mit Anwesenheitspflicht gibt (z.B. ein Blockseminar, das komprimiert in Form von zwei ganztägigen Terminen an einem Wochenende stattfindet), wird in der Regel schon das Verpassen von einem Termin zur Inaktivsetzung führen. Die aktive Teilnahme ist ebenfalls nicht erfüllt, falls Sie im Rahmen der Lehrveranstaltung die in der Modulbeschreibung definierten Studienleistungen (z.B. 50% der Punkte aus den Aufgabenblättern in einer Übung erhalten) nicht erbracht haben.
+
+Die Konsequenz einer Inaktivsetzung ist, dass Modul vorläufig nicht abgeschlossen werden kann und zunächst keine Leistungspunkte erworben werden: Für den Modulabschluss mit Leistungspunkterwerb benötigen Sie eine (mindestens) einmalige aktive Teilnahme in jeder Lehrveranstaltung des Moduls - wofür in "reinen" Vorlesungen (ohne integrierte Übung o.ä.) eine Anmeldung genügt, da eine Inaktivsetzung ausgeschlossen ist. Wenn Sie das Modul weiterhin abschließen möchten (was im Fall eines Pflichtmoduls zwingend ist), müssen Sie in einem der folgenden Semester erneut an der Veranstaltung teilnehmen, ohne inaktiv gesetzt zu werden.
+
+Eine aktive Teilnahme kann in späteren Semestern nicht "überschrieben" werden: Wenn Sie beispielsweise an einer Übung aktiv teilgenommen haben, im selben Modul aber die Prüfung nicht bestanden haben und im Folgejahr zu Wiederholungszwecken erneut an der Übung teilnehmen, wird Ihnen die aktive Übungsteilnahme auch dann nicht aberkannt, wenn Sie diesmal inaktiv gesetzt werden.
+
+Um zu überprüfen, ob Sie an einer Veranstaltung früherer Semester aktiv teilgenommen haben, gehen Sie wie folgt vor: Nach Einloggen in STiNE klicken Sie in der Navigationsleiste oben auf "Studium", dann in der Seitenleiste auf "Teilleistungen" (unter "Prüfungen"). Wählen Sie in der Dropdown-Box im Hauptfenster das betroffe Semester aus und klicken Sie dann auf den Link "Prüfungen" rechts neben dem Modul, um das es Ihnen geht. Im Popup-Fenster, das dann erscheint, steht ein grüner Haken hinter Veranstaltungen mit aktiver Teilnahme. Beachten Sie hierbei, dass STiNE nach Anmeldung einer aktuellen bzw. künftigen Veranstaltung zunächst als "default" von einer aktiven Teilnahme ausgeht und die Inaktivsetzung normalerweise erst "gesammelt" am Ende des Semesters erfolgt, d.h. bei Veranstaltungen im laufenden bzw. nächsten Semester stellt die Präsenz des grünen Hakens noch keine Bestätigung dar, dass Sie aktiv genommen haben. Wenn Sie absehbar an einer Veranstaltung mit alternativen Angeboten in jedem Semester (z.B. Proseminar, Seminar, Praktikum) nicht teilnehmen können und zugleich die Abmeldefrist (die in der Regel bis zum Donnerstag in der zweiten Vorlesungswoche eines Semesters läuft) angelaufen ist, können Sie die Veranstalter bzw. Veranstalterinnen bitten, Ihre Inaktivsetzung vorzuziehen, um rechtzeitig zur Anmeldephase des folgenden Semesters eine Alternativ-Veranstaltung wählen zu können - denn solange Sie (noch) als aktiver Teilnehmer bzw. aktive Teilnehmerin angemeldet sind, ist die Anmeldung einer Alternativ-Veransataltung nicht möglich.
+Links: https://www.stine.uni-hamburg.de/
+
+Beachten Sie auch, dass es für die aktive Teilnahme an Veranstaltungen (anders als bei Prüfungen) keine Begrenzung der Versuche gibt, d.h. Sie können die Teilnahme an einer Veranstaltung, in den Sie bisher jeweils immer inaktiv gesetzt wurden, beliebig oft wiederholen.
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/pruefungen.html
+
+Wenn Sie die Verletzung der Anwesenheitspflicht in einer Lehrveranstatlung nicht zu vertreten haben, z.B. bei Krankheit, haben die Veranstalter bzw. Veranstalterinnen gemäß §9(2) der MIN-Prüfungsordnungen B.Sc./M.Sc. die Möglichkeit, gegen die Erfüllung einer von ihnen definierten Auflage als Ersatzleistung (z.B. Bearbeitung einer Zusatz-Hausaufgabe) auf die Inaktivsetzung zu verzichten. Wenn dies geschieht, ist es aber ein freiwilliges Entgegenkommen der Veranstalter bzw. Veranstalterinnen: Auf die Gewährung einer solchen Auflage haben Sie keinen Anspruch. Bitte haben Sie insbesondere Verständnis, wenn sich - gerade in "großen Veranstaltungen" - die Veranstalter und Veranstalterinnen aus Kapazitätsgründen nicht in der Lage sehen, solche Auflagen individuell zu konzipieren und zu bewerten.
+
+Im Falle einer Behinderung oder chronischen Erkrankung, die es für Sie zu einer unverhältnismäßigen Härte macht, die Bedingungen der normalerweise geforderten Anwesenheitspflichten oder Studienleistungen einzuhalten, kommt eventuell eine Anpassung der Bedingungen im Rahmen eines Nachteilsausgleichs in Betracht.
+Links: https://www.inf.uni-hamburg.de/studies/orga/stud-infos/_boxes/nachteilsausgleich.html
+
+## Teilzeitstudium
+
+Bei Vorliegen eines wichtigen Grundes (z. B. Erwerbstätigkeit von mindestens 15 Stunden/Woche, Kinderbetreuung, Behinderung, chronische Krankheit), durch den nicht die volle, aber mindestens die Hälfte der Arbeitszeit dem Studium gewidmet werden kann, kann ein Antrag auf Teilzeitstatus gestellt werden. Ein Teilzeitstudium wird auf Antrag für zwei aufeinander folgende Semester genehmigt, wiederholte Anträge sind zulässig. Bei einem Teilzeitstudium verlängern sich die Termine und Fristen der Hochschulprüfungsordnungen im Regelfall in der Weise so, dass ein Fachsemester zwei Hochschulsemestern entspricht. Der Semesterbeitrag ist in voller Höhe zu zahlen.Der Antrag erfolgt via STiNE. Beachten Sie die Fristen für Antragstellung, welche vorab erfolgen muss: Teilzeit für ein Sommersemester muss bis zum 31. Januar beantragt werden, für ein Wintersemester bis zum 30. Juni.Weitere Informationen finden Sie auf den Seiten des CampusCenters.
+Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/studienverlauf/teilzeitstudium.html
+
+## Transcript of Records
+
+Das Transcript of Records (kurz auch nur "Transcript" oder "ToR") ist ein durch die Universität ausgestellter Leistungsnachweis, in welchem Ihr Studiengang, Ihre bisher abgeschlossenen Module einschließlich Benotung und erworbener Leistungspunkte und Ihre aktuelle Durchschnittsnote aufgeführt werden. Ein solches Dokument kann z.B. bei Bewerbungen von Arbeitgebern oder anderen Hochschulen angefordert werden.
+
+Wenn Sie als Studierende/r des Fachbereichs Informatik ein Transcript of Records benötigen, dann melden Sie sich bitte per E-Mail(studienbuero.inf"AT"uni-hamburg.de) beim Studienbüro Informatik. Bitte geben Sie in dieser Mail folgendes an:
+
+- Ihren vollen Namen, Ihren Studiengang, Ihre Matrikelnummer
+
+- Form des Transcript of Records: Digital (d.h. PDF-Datei mit Link zur Validierung) oder Papier
+
+- Sprache des Transcript of Records: Deutsch, Englisch, beides
+
+Wir stellen Ihnen das Transcript of Records als digitales Dokument in Ihrem STiNE-Account zur Verfügung bzw. geben Ihnen Bescheid, sobald das Transcript of Records in Papierform im Studienbüro Informatik beim Prüfungsmanagement im Rahmen der Öffnungszeiten oder nach Vereinbarung abgeholt werden kann.
+Links: https://www.inf.uni-hamburg.de/studies/orga/_boxes/office-hours.html
+
+Beachten Sie, dass Sie kein Transcript of Records benötigen, wenn Sie sich als Studierender der Universität Hamburg um einen Masterstudienplatz am Fachbereich Informatik bewerben. Hier können Sie ersatzweise einen Ausdruck Ihres STiNE-Leistungskontos und der Bestätigung der Anmeldung der Bachelor-Arbeit, sofern bereits geschehen, einreichen.
+
+## Urlaubssemester
+
+Studierende, die aus wichtigem Grund nicht mindestens die Hälfte ihrer Arbeitszeit dem Studium widmen können, können auf Antrag beurlaubt werden. Als wichtige Gründe werden z. B. Krankheit, Kinderbetreuung oder ein Auslandsaufenthalt anerkannt.Urlaubssemester zählen nicht als Fachsemester. Eine Beurlaubung schließt den Erwerb von Studien- und Prüfungsleistungen grundsätzlich aus (Ausnahmen sind Prüfungswiederholungen und Prüfungen im Auslandsstudium). Der Antrag erfolgt via STiNE. Beachten Sie die Fristen für Antragstellung, welche vorab erfolgen muss: Urlaub in ein Sommersemester muss bis zum 31. Januar beantragt werden, für ein Wintersemester bis zum 30. Juni.Studienanfänger/innen (1. Fachsemester) können sich nur in Ausnahmefällen beurlauben lassen. Weitere Informationen finden Sie auf den Seiten des CampusCenters.
+Links: https://www.uni-hamburg.de/campuscenter/studienorganisation/studienverlauf/beurlaubung.html

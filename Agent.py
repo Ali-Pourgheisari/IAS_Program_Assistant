@@ -5,20 +5,30 @@ from llama_index.core.agent.workflow import FunctionAgent, ToolCall, ToolCallRes
 from llama_index.core.workflow import Context
 from llama_index.llms.openai import OpenAI
 
-from tools import create_application_lookup_tool, create_university_knowledge_tool
+from tools import (
+    create_application_lookup_tool,
+    create_university_knowledge_tool,
+    create_university_web_search_tool,
+)
 
 
 async def main():
     knowledge_tool = create_university_knowledge_tool()
+    web_search_tool = create_university_web_search_tool()
     application_tool = create_application_lookup_tool()
 
     agent = FunctionAgent(
-        tools=[knowledge_tool, application_tool],
+        tools=[knowledge_tool, web_search_tool, application_tool],
         llm=OpenAI(model="gpt-4o-mini", temperature=0),
         system_prompt=(
             "You are a University of Hamburg study assistant. "
             "Use university_knowledge for questions about IAS study rules, modules, "
-            "study administration, and student support. "
+            "study administration, registration periods, and student support. "
+            "Use search_university_web when information is time-sensitive, when the "
+            "saved documents may be outdated, or when they do not contain the answer. "
+            "Prefer saved official documents for stable information. When using live "
+            "search, include the source URLs in the answer. For examination rules, "
+            "confirm the student's cohort before selecting a regulation version. "
             "Use lookup_application for the status of a specific application. "
             "If an application-status question has no application ID, ask for it. "
             "Do not invent university information or application details."
