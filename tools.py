@@ -9,7 +9,7 @@ from llama_index.core.tools import FunctionTool, QueryEngineTool
 from llama_index.llms.openai import OpenAI as LlamaOpenAI
 from openai import OpenAI as OpenAIClient
 
-from Rag import DATA_DIR, build_university_index
+from rag import DATA_DIR, build_university_index
 
 
 def create_university_knowledge_tool(data_dir: Path = DATA_DIR) -> QueryEngineTool:
